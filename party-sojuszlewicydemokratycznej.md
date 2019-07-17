@@ -10,18 +10,18 @@ Last result: **7.6%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.2–6.6% | 3.9–6.9% | 3.7–7.2% | 3.3–7.8% |
+| N/A | [Poll Average](average.html) | 5.0% | 2.3–6.3% | 2.0–6.7% | 1.8–7.0% | 1.5–7.6% |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–5.9% | 3.0–6.4% |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 2.2% | N/A | N/A | N/A | N/A |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 2.2% | 1.8–2.9% | 1.6–3.1% | 1.5–3.3% | 1.3–3.7% |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 6.0% | N/A | N/A | N/A | N/A |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 3.0% | N/A | N/A | N/A | N/A |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 4.0% | N/A | N/A | N/A | N/A |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 2.0% | N/A | N/A | N/A | N/A |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 5.7% | N/A | N/A | N/A | N/A |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 5.0% | N/A | N/A | N/A | N/A |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 5.0% | 4.2–6.0% | 3.9–6.3% | 3.8–6.5% | 3.4–7.0% |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 7.0% | N/A | N/A | N/A | N/A |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 5.1% | N/A | N/A | N/A | N/A |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4.0% | N/A | N/A | N/A | N/A |
@@ -140,13 +140,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 2% | 100% |  |
-| 3.5–4.5% | 19% | 98% |  |
-| 4.5–5.5% | 38% | 79% | Median |
-| 5.5–6.5% | 31% | 41% |  |
-| 6.5–7.5% | 9% | 10% |  |
-| 7.5–8.5% | 1.0% | 1.0% | Last Result |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.6% | 100% |  |
+| 1.5–2.5% | 13% | 99.4% |  |
+| 2.5–3.5% | 7% | 86% |  |
+| 3.5–4.5% | 16% | 79% |  |
+| 4.5–5.5% | 33% | 63% | Median |
+| 5.5–6.5% | 23% | 30% |  |
+| 6.5–7.5% | 6% | 7% |  |
+| 7.5–8.5% | 0.6% | 0.6% | Last Result |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -158,18 +160,18 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13 | 0–28 | 0–28 | 0–28 | 0–28 |
-| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 13 | 11–20 | 11–20 | 11–20 | 11–20 |
-| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 28 | 0–28 | 0–28 | 0–28 | 0–28 |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–11 | 0–11 | 0–11 |
-| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–12 | 0–12 | 0–12 | 0–17 |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0–27 | 0–28 | 0–30 | 0–33 |
+| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 14 | 8–28 | 0–28 | 0–29 | 0–32 |
+| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 19 | 0–29 | 0–30 | 0–33 | 0–35 |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–12 | 0–15 | 0–16 | 0–25 |
+| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–11 | 0–12 | 0–16 | 0–23 |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS |  |  |  |  |  |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes |  |  |  |  |  |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0–28 | 0–29 | 0–32 | 0–34 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka |  |  |  |  |  |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
@@ -290,35 +292,45 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 32% | 100% | Last Result |
-| 1 | 0% | 68% |  |
-| 2 | 0% | 68% |  |
-| 3 | 0% | 68% |  |
-| 4 | 0% | 68% |  |
-| 5 | 0% | 68% |  |
-| 6 | 0.1% | 68% |  |
-| 7 | 0% | 68% |  |
-| 8 | 0% | 68% |  |
-| 9 | 0.7% | 68% |  |
-| 10 | 0% | 67% |  |
-| 11 | 5% | 67% |  |
-| 12 | 9% | 63% |  |
-| 13 | 21% | 54% | Median |
-| 14 | 0.3% | 33% |  |
-| 15 | 0.1% | 32% |  |
-| 16 | 1.1% | 32% |  |
-| 17 | 0.4% | 31% |  |
-| 18 | 2% | 31% |  |
-| 19 | 0.1% | 29% |  |
-| 20 | 4% | 28% |  |
-| 21 | 0% | 25% |  |
-| 22 | 0% | 25% |  |
-| 23 | 0% | 25% |  |
-| 24 | 0% | 25% |  |
-| 25 | 0% | 25% |  |
-| 26 | 0.1% | 25% |  |
-| 27 | 0% | 24% |  |
-| 28 | 24% | 24% |  |
-| 29 | 0% | 0% |  |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 0% | 45% |  |
+| 2 | 0% | 45% |  |
+| 3 | 0% | 45% |  |
+| 4 | 0% | 45% |  |
+| 5 | 0% | 45% |  |
+| 6 | 0.1% | 45% |  |
+| 7 | 0.4% | 45% |  |
+| 8 | 0.9% | 44% |  |
+| 9 | 4% | 43% |  |
+| 10 | 1.2% | 40% |  |
+| 11 | 3% | 39% |  |
+| 12 | 2% | 35% |  |
+| 13 | 2% | 33% |  |
+| 14 | 2% | 31% |  |
+| 15 | 2% | 29% |  |
+| 16 | 2% | 27% |  |
+| 17 | 0.8% | 25% |  |
+| 18 | 2% | 25% |  |
+| 19 | 2% | 23% |  |
+| 20 | 1.3% | 21% |  |
+| 21 | 1.2% | 20% |  |
+| 22 | 0.9% | 18% |  |
+| 23 | 2% | 17% |  |
+| 24 | 2% | 16% |  |
+| 25 | 1.4% | 14% |  |
+| 26 | 2% | 13% |  |
+| 27 | 2% | 10% |  |
+| 28 | 4% | 8% |  |
+| 29 | 1.4% | 4% |  |
+| 30 | 0.8% | 3% |  |
+| 31 | 0.3% | 2% |  |
+| 32 | 0.4% | 2% |  |
+| 33 | 0.7% | 1.2% |  |
+| 34 | 0.3% | 0.5% |  |
+| 35 | 0.1% | 0.2% |  |
+| 36 | 0.1% | 0.1% |  |
+| 37 | 0% | 0.1% |  |
+| 38 | 0% | 0.1% |  |
+| 39 | 0% | 0% |  |
 
 
