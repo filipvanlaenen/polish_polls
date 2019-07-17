@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the Sejm</title>
+    <link>https://filipvanlaenen.github.io/polish_polls</link>
+    <description>All Registered Polls for the Sejm</description>
+    <pubDate>Wed, 17 Jul 2019 16:06:02 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Social Changes, 5–10 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 42.3–48.4%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 25.1–30.6%&lt;/li&gt;&lt;li&gt;Kukiz’15: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Wiosna: 4.9–7.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.png"
+        length="181986"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 15:50:40 +0200</pubDate>
+      <dc:date>2019-07-17T15:50:40.999507+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 28–29 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 37.4–43.2%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 17.6–22.4%&lt;/li&gt;&lt;li&gt;Kukiz’15: 4.2–6.9%&lt;/li&gt;&lt;li&gt;.Nowoczesna: 0.8–2.1%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Wiosna: 5.0–7.9%&lt;/li&gt;&lt;li&gt;KORWiN: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Lewica Razem: 0.5–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.png"
+        length="223562"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 15:55:56 +0200</pubDate>
+      <dc:date>2019-07-17T15:55:56.056275+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 21–26 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 41.0–47.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 21.4–26.6%&lt;/li&gt;&lt;li&gt;Kukiz’15: 3.4–5.9%&lt;/li&gt;&lt;li&gt;.Nowoczesna: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 3.2–5.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Wiosna: 6.2–9.4%&lt;/li&gt;&lt;li&gt;KORWiN: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Lewica Razem: 0.7–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.png"
+        length="228766"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 16:01:00 +0200</pubDate>
+      <dc:date>2019-07-17T16:01:00.324751+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 19–20 June 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-20-Estymator.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 44.8–51.0%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 20.2–25.4%&lt;/li&gt;&lt;li&gt;Kukiz’15: 2.5–4.8%&lt;/li&gt;&lt;li&gt;.Nowoczesna: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Wiosna: 5.8–9.0%&lt;/li&gt;&lt;li&gt;KORWiN: 1.0–2.6%&lt;/li&gt;&lt;li&gt;Lewica Razem: 1.1–2.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-20-Estymator.png"
+        length="227985"
+        type="image/png"/>
+      <pubDate>Wed, 17 Jul 2019 16:06:02 +0200</pubDate>
+      <dc:date>2019-07-17T16:06:02.921185+02:00</dc:date>
+    </item>
+    <dc:date>2019-07-17T16:06:02.921185+02:00</dc:date>
+  </channel>
+</rss>
