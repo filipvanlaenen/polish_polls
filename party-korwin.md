@@ -163,7 +163,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
-| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–8 |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0–11 |
@@ -296,6 +296,20 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 99.6% | 100% | Last Result, Median |
+| 1 | 0% | 0.4% |  |
+| 2 | 0% | 0.4% |  |
+| 3 | 0% | 0.4% |  |
+| 4 | 0% | 0.4% |  |
+| 5 | 0% | 0.4% |  |
+| 6 | 0.1% | 0.3% |  |
+| 7 | 0% | 0.2% |  |
+| 8 | 0% | 0.2% |  |
+| 9 | 0.1% | 0.1% |  |
+| 10 | 0% | 0.1% |  |
+| 11 | 0% | 0.1% |  |
+| 12 | 0% | 0.1% |  |
+| 13 | 0% | 0.1% |  |
+| 14 | 0% | 0% |  |
 
 
