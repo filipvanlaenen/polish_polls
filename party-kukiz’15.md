@@ -10,7 +10,10 @@ Last result: **8.8%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.6% | 2.7–6.0% | 2.5–6.3% | 2.2–6.9% |
+| N/A | [Poll Average](average.html) | 3.7% | 2.8–6.0% | 2.6–6.6% | 2.4–7.0% | 2.1–7.6% |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 3.1% | 2.5–3.9% | 2.3–4.1% | 2.2–4.3% | 2.0–4.7% |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 4.0% | 3.4–4.9% | 3.2–5.1% | 3.0–5.3% | 2.7–5.8% |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 3.1% | 2.5–3.9% | 2.4–4.2% | 2.2–4.4% | 2.0–4.8% |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 5.4% | 4.6–6.3% | 4.4–6.6% | 4.2–6.9% | 3.8–7.4% |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 4.5% | 3.8–5.4% | 3.6–5.7% | 3.4–5.9% | 3.1–6.4% |
@@ -141,13 +144,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 3% | 100% |  |
-| 2.5–3.5% | 27% | 97% |  |
-| 3.5–4.5% | 36% | 71% | Median |
-| 4.5–5.5% | 24% | 34% |  |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 1.2% | 1.2% |  |
-| 7.5–8.5% | 0.1% | 0.1% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 39% | 95% |  |
+| 3.5–4.5% | 31% | 56% | Median |
+| 4.5–5.5% | 10% | 25% |  |
+| 5.5–6.5% | 10% | 15% |  |
+| 6.5–7.5% | 4% | 5% |  |
+| 7.5–8.5% | 0.6% | 0.6% |  |
 | 8.5–9.5% | 0% | 0% | Last Result |
 
 
@@ -159,7 +162,10 @@ Last result: **42** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–18 | 0–22 | 0–26 | 0–33 |
+| N/A | [Poll Average](average.html) | 0 | 0–18 | 0–19 | 0–19 | 0–36 |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 13 | 10–19 | 0–21 | 0–36 | 0–37 |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0–18 | 0–18 | 0–18 | 0–18 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 15 | 0–26 | 0–31 | 0–33 | 0–38 |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–13 | 0–17 | 0–23 |
@@ -170,7 +176,7 @@ Last result: **42** seats (General Election of 25 October 2015)
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS |  |  |  |  |  |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes |  |  |  |  |  |
-| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0–18 | 0–19 | 0–22 | 0–25 |
+| [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–16 | 0–19 | 0–27 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka |  |  |  |  |  |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
@@ -291,46 +297,46 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 77% | 100% | Median |
-| 1 | 0% | 23% |  |
-| 2 | 0% | 23% |  |
-| 3 | 2% | 23% |  |
-| 4 | 0.2% | 21% |  |
-| 5 | 0.4% | 21% |  |
-| 6 | 0.4% | 21% |  |
-| 7 | 0.4% | 20% |  |
-| 8 | 0.4% | 20% |  |
-| 9 | 0.8% | 20% |  |
-| 10 | 0.7% | 19% |  |
-| 11 | 0.5% | 18% |  |
-| 12 | 1.4% | 18% |  |
-| 13 | 1.1% | 16% |  |
-| 14 | 1.3% | 15% |  |
-| 15 | 2% | 14% |  |
-| 16 | 0.6% | 12% |  |
-| 17 | 0.7% | 12% |  |
-| 18 | 2% | 11% |  |
-| 19 | 1.3% | 9% |  |
-| 20 | 1.0% | 8% |  |
-| 21 | 0.5% | 7% |  |
-| 22 | 1.3% | 6% |  |
-| 23 | 0.8% | 5% |  |
-| 24 | 0.6% | 4% |  |
-| 25 | 0.9% | 4% |  |
-| 26 | 0.7% | 3% |  |
-| 27 | 0.1% | 2% |  |
-| 28 | 0.1% | 2% |  |
-| 29 | 0.2% | 2% |  |
-| 30 | 0.4% | 2% |  |
-| 31 | 0.4% | 1.2% |  |
-| 32 | 0.1% | 0.7% |  |
-| 33 | 0.1% | 0.6% |  |
-| 34 | 0.1% | 0.5% |  |
-| 35 | 0.1% | 0.4% |  |
-| 36 | 0.2% | 0.3% |  |
-| 37 | 0% | 0.1% |  |
-| 38 | 0% | 0.1% |  |
-| 39 | 0% | 0.1% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 0% | 25% |  |
+| 2 | 0% | 25% |  |
+| 3 | 0% | 25% |  |
+| 4 | 0% | 25% |  |
+| 5 | 0% | 25% |  |
+| 6 | 0% | 25% |  |
+| 7 | 0% | 25% |  |
+| 8 | 0.1% | 25% |  |
+| 9 | 0.1% | 25% |  |
+| 10 | 9% | 25% |  |
+| 11 | 0% | 16% |  |
+| 12 | 0% | 16% |  |
+| 13 | 0.3% | 16% |  |
+| 14 | 0% | 16% |  |
+| 15 | 4% | 16% |  |
+| 16 | 0% | 12% |  |
+| 17 | 0% | 12% |  |
+| 18 | 6% | 12% |  |
+| 19 | 4% | 6% |  |
+| 20 | 0.5% | 2% |  |
+| 21 | 0.5% | 1.5% |  |
+| 22 | 0% | 1.0% |  |
+| 23 | 0% | 1.0% |  |
+| 24 | 0% | 1.0% |  |
+| 25 | 0% | 1.0% |  |
+| 26 | 0% | 1.0% |  |
+| 27 | 0.2% | 1.0% |  |
+| 28 | 0% | 0.8% |  |
+| 29 | 0% | 0.8% |  |
+| 30 | 0% | 0.8% |  |
+| 31 | 0% | 0.8% |  |
+| 32 | 0% | 0.8% |  |
+| 33 | 0.2% | 0.8% |  |
+| 34 | 0% | 0.6% |  |
+| 35 | 0% | 0.6% |  |
+| 36 | 0.1% | 0.5% |  |
+| 37 | 0.4% | 0.5% |  |
+| 38 | 0% | 0% |  |
+| 39 | 0% | 0% |  |
 | 40 | 0% | 0% |  |
 | 41 | 0% | 0% |  |
 | 42 | 0% | 0% | Last Result |
