@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Thu, 18 Jul 2019 20:12:25 +0200</pubDate>
+    <pubDate>Thu, 18 Jul 2019 23:03:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 248–287 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 148–183 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–36 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–27 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown-seats.png"
+        length="169946"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 21:55:08 +0200</pubDate>
+      <dc:date>2019-07-18T21:55:08.547563+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown-coalitions-seats.png"
+        length="196079"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 21:55:08 +0200</pubDate>
+      <dc:date>2019-07-18T21:55:08.547563+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.png"
         length="212943"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 18:44:38 +0200</pubDate>
-      <dc:date>2019-07-18T18:44:38.713178+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 21:55:08 +0200</pubDate>
+      <dc:date>2019-07-18T21:55:08.547563+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 12–13 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-13-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 256–295 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 142–176 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna: 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–22 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0–31 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–14 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-13-IBRiS-seats.png"
+        length="176448"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 23:03:57 +0200</pubDate>
+      <dc:date>2019-07-18T23:03:57.919357+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for Rzeczpospolita, 12–13 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-13-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-13-IBRiS-coalitions-seats.png"
+        length="203593"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 23:03:57 +0200</pubDate>
+      <dc:date>2019-07-18T23:03:57.919357+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 12–13 July 2019 – Voting Intentions</title>
@@ -26,8 +66,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-13-IBRiS.png"
         length="226232"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 18:53:54 +0200</pubDate>
-      <dc:date>2019-07-18T18:53:54.292926+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 23:03:57 +0200</pubDate>
+      <dc:date>2019-07-18T23:03:57.919357+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 4–11 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-11-CBOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 278–321 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 117–154 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–16 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna: 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–35 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–21 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-11-CBOS-seats.png"
+        length="176012"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 20:57:56 +0200</pubDate>
+      <dc:date>2019-07-18T20:57:56.63712+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by CBOS, 4–11 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-11-CBOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-11-CBOS-coalitions-seats.png"
+        length="196667"
+        type="image/png"/>
+      <pubDate>Thu, 18 Jul 2019 20:57:56 +0200</pubDate>
+      <dc:date>2019-07-18T20:57:56.63712+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 4–11 July 2019 – Voting Intentions</title>
@@ -36,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-11-CBOS.png"
         length="220920"
         type="image/png"/>
-      <pubDate>Thu, 18 Jul 2019 20:12:25 +0200</pubDate>
-      <dc:date>2019-07-18T20:12:25.374356+02:00</dc:date>
+      <pubDate>Thu, 18 Jul 2019 20:57:56 +0200</pubDate>
+      <dc:date>2019-07-18T20:57:56.63712+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 5–10 July 2019 – Voting Intentions</title>
@@ -119,6 +179,6 @@
       <pubDate>Wed, 17 Jul 2019 21:13:44 +0200</pubDate>
       <dc:date>2019-07-17T21:13:44.400122+02:00</dc:date>
     </item>
-    <dc:date>2019-07-18T20:12:25.374356+02:00</dc:date>
+    <dc:date>2019-07-18T23:03:57.919357+02:00</dc:date>
   </channel>
 </rss>
