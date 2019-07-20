@@ -161,9 +161,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–10 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–7 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
-| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0–6 | 0–13 |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–12 |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
@@ -296,23 +296,21 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Last Result, Median |
-| 1 | 0% | 0.7% |  |
-| 2 | 0% | 0.7% |  |
-| 3 | 0% | 0.7% |  |
-| 4 | 0% | 0.7% |  |
-| 5 | 0% | 0.7% |  |
-| 6 | 0.1% | 0.7% |  |
-| 7 | 0% | 0.6% |  |
-| 8 | 0% | 0.6% |  |
-| 9 | 0.1% | 0.6% |  |
-| 10 | 0.1% | 0.5% |  |
-| 11 | 0.1% | 0.4% |  |
-| 12 | 0.1% | 0.3% |  |
-| 13 | 0.1% | 0.2% |  |
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0% | 0.6% |  |
+| 2 | 0% | 0.6% |  |
+| 3 | 0% | 0.6% |  |
+| 4 | 0% | 0.6% |  |
+| 5 | 0% | 0.6% |  |
+| 6 | 0% | 0.6% |  |
+| 7 | 0.1% | 0.6% |  |
+| 8 | 0.1% | 0.5% |  |
+| 9 | 0.1% | 0.4% |  |
+| 10 | 0% | 0.3% |  |
+| 11 | 0.1% | 0.2% |  |
+| 12 | 0.1% | 0.2% |  |
+| 13 | 0% | 0.1% |  |
 | 14 | 0% | 0.1% |  |
-| 15 | 0% | 0.1% |  |
-| 16 | 0% | 0.1% |  |
-| 17 | 0% | 0% |  |
+| 15 | 0% | 0% |  |
 
 
