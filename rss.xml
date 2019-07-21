@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Sun, 21 Jul 2019 12:01:50 +0200</pubDate>
+    <pubDate>Sun, 21 Jul 2019 13:05:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.html</link>
@@ -90,14 +90,34 @@
       <dc:date>2019-07-20T10:49:12.297937+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for RMF, 28–29 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 249–294 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–32 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0–31 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–37 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 114–152 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS-seats.png"
+        length="187687"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 13:05:13 +0200</pubDate>
+      <dc:date>2019-07-21T13:05:13.095923+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 28–29 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS-coalitions-seats.png"
+        length="207482"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 13:05:13 +0200</pubDate>
+      <dc:date>2019-07-21T13:05:13.095923+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for RMF, 28–29 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 37.4–43.2%&lt;/li&gt;&lt;li&gt;Kukiz’15: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 2.1–4.2%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 4.2–6.9%&lt;/li&gt;&lt;li&gt;Wiosna: 5.0–7.9%&lt;/li&gt;&lt;li&gt;KORWiN: 2.4–4.6%&lt;/li&gt;&lt;li&gt;Lewica Razem: 0.5–1.7%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 18.9–23.7%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.png"
         length="209526"
         type="image/png"/>
-      <pubDate>Sun, 21 Jul 2019 12:01:50 +0200</pubDate>
-      <dc:date>2019-07-21T12:01:50.091154+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 13:05:13 +0200</pubDate>
+      <dc:date>2019-07-21T13:05:13.095923+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 21–26 June 2019 – Voting Intentions</title>
@@ -229,6 +249,6 @@
       <pubDate>Fri, 19 Jul 2019 20:55:13 +0200</pubDate>
       <dc:date>2019-07-19T20:55:13.286618+02:00</dc:date>
     </item>
-    <dc:date>2019-07-21T12:01:50.091154+02:00</dc:date>
+    <dc:date>2019-07-21T13:05:13.095923+02:00</dc:date>
   </channel>
 </rss>
