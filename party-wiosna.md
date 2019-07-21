@@ -170,7 +170,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–9 | 0–12 | 0–15 | 0–21 |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0–18 | 0–25 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 20 | 11–29 | 8–29 | 0–31 | 0–34 |
-| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 29 | 17–34 | 14–35 | 0–37 | 0–40 |
+| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 29 | 17–34 | 14–35 | 0–37 | 0–41 |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 29 | 26–38 | 21–41 | 20–42 | 18–48 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 24–34 | 18–37 | 16–39 | 12–42 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 30 | 28–39 | 26–39 | 23–40 | 19–44 |
