@@ -165,9 +165,9 @@ Last result: **42** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 0 | 0–20 | 0–28 | 0–31 | 0–35 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 20 | 11–31 | 0–33 | 0–35 | 0–41 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0–21 |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0–15 | 0–19 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
-| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 11 | 0–26 | 0–31 | 0–32 | 0–36 |
+| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 15 | 0–25 | 0–29 | 0–32 | 0–35 |
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–9 | 0–13 | 0–18 | 0–20 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0–5 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0–8 | 0–9 | 0–10 | 0–14 |
@@ -297,28 +297,28 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 81% | 100% | Median |
-| 1 | 0% | 19% |  |
-| 2 | 0% | 19% |  |
-| 3 | 0% | 19% |  |
-| 4 | 0% | 19% |  |
-| 5 | 0% | 19% |  |
+| 0 | 80% | 100% | Median |
+| 1 | 0% | 20% |  |
+| 2 | 0% | 20% |  |
+| 3 | 0% | 20% |  |
+| 4 | 0% | 20% |  |
+| 5 | 0% | 20% |  |
 | 6 | 0% | 19% |  |
 | 7 | 0% | 19% |  |
 | 8 | 0% | 19% |  |
 | 9 | 0.1% | 19% |  |
 | 10 | 0.2% | 19% |  |
-| 11 | 0.5% | 19% |  |
+| 11 | 0.7% | 19% |  |
 | 12 | 0.5% | 18% |  |
-| 13 | 1.1% | 18% |  |
-| 14 | 0.4% | 17% |  |
+| 13 | 1.2% | 18% |  |
+| 14 | 0.5% | 17% |  |
 | 15 | 3% | 16% |  |
-| 16 | 0.6% | 13% |  |
-| 17 | 0.7% | 12% |  |
+| 16 | 0.7% | 13% |  |
+| 17 | 0.8% | 12% |  |
 | 18 | 0.5% | 12% |  |
 | 19 | 0.8% | 11% |  |
 | 20 | 0.7% | 10% |  |
-| 21 | 0.5% | 10% |  |
+| 21 | 0.4% | 10% |  |
 | 22 | 0.2% | 9% |  |
 | 23 | 0.3% | 9% |  |
 | 24 | 0.2% | 9% |  |
