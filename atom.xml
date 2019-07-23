@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-07-21T19:55:36.48785+02:00</updated>
+  <updated>2019-07-21T22:05:48.999074+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość: 39.0–45.1%, 249–289 seats</li><li>Kukiz’15: 4.7–7.6%, 0–35 seats</li><li>Polskie Stronnictwo Ludowe: 2.1–4.3%, 0 seats</li><li>Sojusz Lewicy Demokratycznej: 1.3–3.1%, 0 seats</li><li>Wiosna: 3.8–6.5%, 0–27 seats</li><li>KORWiN: 2.1–4.3%, 0 seats</li><li>Lewica Razem: 1.3–3.1%, 0 seats</li><li>Koalicja Obywatelska: 24.4–29.9%, 147–183 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.html</id>
@@ -32,6 +32,14 @@
     <dc:date>2019-07-21T11:20:34.589854+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość: 42.3–48.4%, 245–285 seats</li><li>Kukiz’15: 2.2–4.4%, 0 seats</li><li>Polskie Stronnictwo Ludowe: 3.8–6.5%, 0–23 seats</li><li>Sojusz Lewicy Demokratycznej: 4.7–7.6%, 0–30 seats</li><li>Wiosna: 4.9–7.9%, 0–31 seats</li><li>Koalicja Obywatelska: 25.1–30.6%, 137–170 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes, 5–10 July 2019</title>
+    <updated>2019-07-21T22:05:48.999074+02:00</updated>
+    <dc:date>2019-07-21T22:05:48.999074+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość: 37.4–43.2%, 249–294 seats</li><li>Kukiz’15: 4.2–6.9%, 0–32 seats</li><li>Polskie Stronnictwo Ludowe: 2.1–4.2%, 0 seats</li><li>Sojusz Lewicy Demokratycznej: 4.2–6.9%, 0–31 seats</li><li>Wiosna: 5.0–7.9%, 0–37 seats</li><li>KORWiN: 2.4–4.6%, 0 seats</li><li>Lewica Razem: 0.5–1.7%, 0 seats</li><li>Koalicja Obywatelska: 18.9–23.7%, 114–152 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.html</id>
     <link href="https://filipvanlaenen.github.io/polish_polls/2019-06-29-IBRiS.html"/>
@@ -39,5 +47,13 @@
     <updated>2019-07-21T13:05:13.095923+02:00</updated>
     <dc:date>2019-07-21T13:05:13.095923+02:00</dc:date>
   </entry>
-  <dc:date>2019-07-21T19:55:36.48785+02:00</dc:date>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Prawo i Sprawiedliwość: 41.0–47.0%, 254–292 seats</li><li>Kukiz’15: 3.4–5.9%, 0–16 seats</li><li>Polskie Stronnictwo Ludowe: 3.2–5.6%, 0–20 seats</li><li>Sojusz Lewicy Demokratycznej: 3.2–5.7%, 0–15 seats</li><li>Wiosna: 6.2–9.4%, 22–42 seats</li><li>KORWiN: 2.2–4.3%, 0 seats</li><li>Lewica Razem: 0.7–2.1%, 0 seats</li><li>Koalicja Obywatelska: 22.6–27.9%, 130–164 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes, 21–26 June 2019</title>
+    <updated>2019-07-21T21:04:53.281352+02:00</updated>
+    <dc:date>2019-07-21T21:04:53.281352+02:00</dc:date>
+  </entry>
+  <dc:date>2019-07-21T22:05:48.999074+02:00</dc:date>
 </feed>
