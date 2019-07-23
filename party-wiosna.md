@@ -169,21 +169,21 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 11 | 0–21 | 0–25 | 0–27 | 0–29 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–9 | 0–12 | 0–15 | 0–21 |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0–18 | 0–25 |
-| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 20 | 11–29 | 8–29 | 0–31 | 0–34 |
+| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 19 | 10–29 | 8–30 | 0–31 | 0–34 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 29 | 17–34 | 14–35 | 0–37 | 0–41 |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 32 | 28–36 | 25–39 | 21–41 | 18–46 |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 32 | 28–40 | 26–42 | 22–42 | 18–46 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 24–34 | 18–37 | 16–39 | 12–42 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 30 | 28–39 | 26–39 | 23–40 | 19–44 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 48 | 48 | 48 | 44–48 | 44–48 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 29 | 28–29 | 27–32 | 27–37 | 27–42 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 43 | 35–43 | 35–43 | 35–47 | 31–48 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 17 | 17–29 | 15–31 | 0–44 | 0–44 |
-| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 65 | 64–78 | 64–79 | 64–83 | 61–99 |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 75 | 67–78 | 63–82 | 60–86 | 51–88 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 28 | 14–34 | 0–35 | 0–36 | 0–42 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 9 | 9 | 9 | 9 | 9–11 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 68 | 67–68 | 54–68 | 52–68 | 52–68 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 53 | 53 | 53 | 53 | 53 |
-| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 45 | 44–51 | 44–51 | 44–51 | 43–51 |
+| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 46 | 42–55 | 41–57 | 39–63 | 35–69 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |
@@ -307,28 +307,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 53% |  |
 | 5 | 0% | 53% |  |
 | 6 | 0% | 53% |  |
-| 7 | 0.2% | 53% |  |
-| 8 | 0.3% | 53% |  |
-| 9 | 0.4% | 52% |  |
+| 7 | 0.3% | 53% |  |
+| 8 | 0.5% | 53% |  |
+| 9 | 0.5% | 52% |  |
 | 10 | 0.7% | 52% |  |
 | 11 | 3% | 51% | Median |
-| 12 | 2% | 49% |  |
-| 13 | 1.5% | 46% |  |
-| 14 | 3% | 45% |  |
-| 15 | 3% | 42% |  |
-| 16 | 1.4% | 39% |  |
-| 17 | 3% | 38% |  |
+| 12 | 2% | 48% |  |
+| 13 | 1.4% | 46% |  |
+| 14 | 3% | 44% |  |
+| 15 | 3% | 41% |  |
+| 16 | 2% | 39% |  |
+| 17 | 2% | 37% |  |
 | 18 | 2% | 35% |  |
-| 19 | 1.3% | 33% |  |
-| 20 | 2% | 32% |  |
+| 19 | 1.2% | 32% |  |
+| 20 | 1.2% | 31% |  |
 | 21 | 1.3% | 30% |  |
-| 22 | 2% | 29% |  |
-| 23 | 0.7% | 27% |  |
-| 24 | 1.3% | 26% |  |
+| 22 | 1.1% | 29% |  |
+| 23 | 1.0% | 27% |  |
+| 24 | 1.3% | 27% |  |
 | 25 | 2% | 25% |  |
-| 26 | 0.9% | 23% |  |
+| 26 | 1.1% | 23% |  |
 | 27 | 2% | 22% |  |
-| 28 | 5% | 20% |  |
+| 28 | 6% | 21% |  |
 | 29 | 4% | 15% |  |
 | 30 | 3% | 11% |  |
 | 31 | 2% | 8% |  |
@@ -336,7 +336,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.9% | 5% |  |
 | 34 | 3% | 4% |  |
 | 35 | 0.3% | 1.5% |  |
-| 36 | 0.1% | 1.2% |  |
+| 36 | 0.2% | 1.2% |  |
 | 37 | 0.3% | 1.1% |  |
 | 38 | 0.3% | 0.8% |  |
 | 39 | 0.1% | 0.5% |  |

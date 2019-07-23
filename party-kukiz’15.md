@@ -168,19 +168,19 @@ Last result: **42** seats (General Election of 25 October 2015)
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0–15 | 0–19 |
 | [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 15 | 0–27 | 0–31 | 0–32 | 0–36 |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–9 | 0–11 | 0–15 | 0–19 |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–10 | 0–13 | 0–16 | 0–20 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0–5 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0–8 | 0–9 | 0–10 | 0–14 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 50 | 42–50 | 42–50 | 33–50 | 33–50 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 34 | 34–38 | 34–41 | 34–43 | 31–52 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 32 | 18–32 | 0–32 | 0–35 | 0–42 |
-| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 41 | 33–42 | 22–42 | 22–42 | 22–47 |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 34 | 26–46 | 23–47 | 23–47 | 20–48 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–16 | 0–19 | 0–27 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 30 | 30 | 30 | 30 | 30–31 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 24 | 24–30 | 24–40 | 24–40 | 22–44 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 32 | 32 | 32 | 32 | 32 |
-| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 43 | 35–45 | 35–45 | 33–45 | 33–45 |
+| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 34 | 26–42 | 23–42 | 19–45 | 13–48 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |

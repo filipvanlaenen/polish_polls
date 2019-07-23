@@ -167,21 +167,21 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 11–28 | 0–30 | 0–32 | 0–35 |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
-| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 14 | 8–27 | 0–29 | 0–29 | 0–32 |
+| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 15 | 8–28 | 0–29 | 0–30 | 0–32 |
 | [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 17 | 0–29 | 0–29 | 0–31 | 0–34 |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–12 | 0–14 | 0–18 |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–13 | 0–15 | 0–19 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–13 | 0–15 | 0–17 | 0–20 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 26 | 26 | 26–30 | 23–30 | 23–30 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 9 | 0–9 | 0–9 | 0–9 | 0–26 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
-| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 0 | 0–8 | 0–15 | 0–18 | 0–23 |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 12 | 0–27 | 0–28 | 0–28 | 0–31 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0–23 | 0–27 | 0–29 | 0–33 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 18 | 18 | 18 | 18 | 18–27 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 17 | 10–17 | 6–17 | 0–17 | 0–28 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
-| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 11 | 0–12 | 0–12 | 0–23 | 0–23 |
+| [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 0 | 0–12 | 0–18 | 0–22 | 0–27 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |
@@ -305,32 +305,32 @@ The following table shows the probability mass function per seat for the [poll a
 | 4 | 0% | 41% |  |
 | 5 | 0% | 41% |  |
 | 6 | 0% | 41% |  |
-| 7 | 0.3% | 41% |  |
+| 7 | 0.5% | 41% |  |
 | 8 | 2% | 41% |  |
 | 9 | 0.7% | 39% |  |
-| 10 | 1.4% | 38% |  |
-| 11 | 4% | 37% |  |
-| 12 | 2% | 33% |  |
-| 13 | 1.2% | 31% |  |
-| 14 | 2% | 30% |  |
-| 15 | 3% | 28% |  |
-| 16 | 1.4% | 25% |  |
+| 10 | 1.3% | 38% |  |
+| 11 | 3% | 37% |  |
+| 12 | 2% | 34% |  |
+| 13 | 1.2% | 32% |  |
+| 14 | 2% | 31% |  |
+| 15 | 3% | 29% |  |
+| 16 | 2% | 26% |  |
 | 17 | 2% | 24% |  |
-| 18 | 4% | 22% |  |
-| 19 | 1.2% | 18% |  |
-| 20 | 0.8% | 17% |  |
-| 21 | 1.0% | 16% |  |
-| 22 | 1.3% | 15% |  |
-| 23 | 1.2% | 14% |  |
-| 24 | 1.0% | 13% |  |
-| 25 | 0.9% | 12% |  |
+| 18 | 3% | 22% |  |
+| 19 | 1.3% | 19% |  |
+| 20 | 1.1% | 18% |  |
+| 21 | 0.9% | 16% |  |
+| 22 | 1.1% | 15% |  |
+| 23 | 1.3% | 14% |  |
+| 24 | 1.1% | 13% |  |
+| 25 | 1.1% | 12% |  |
 | 26 | 3% | 11% |  |
-| 27 | 2% | 8% |  |
-| 28 | 3% | 6% |  |
+| 27 | 1.3% | 8% |  |
+| 28 | 3% | 7% |  |
 | 29 | 1.5% | 3% |  |
-| 30 | 0.5% | 2% |  |
-| 31 | 0.3% | 1.0% |  |
-| 32 | 0.2% | 0.7% |  |
+| 30 | 0.6% | 2% |  |
+| 31 | 0.3% | 1.1% |  |
+| 32 | 0.2% | 0.8% |  |
 | 33 | 0.2% | 0.5% |  |
 | 34 | 0.1% | 0.3% |  |
 | 35 | 0.1% | 0.2% |  |
