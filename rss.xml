@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Sun, 21 Jul 2019 20:24:24 +0200</pubDate>
+    <pubDate>Mon, 22 Jul 2019 06:58:42 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-15-KantarMillwardBrown.html#seats</link>
@@ -100,14 +100,34 @@
       <dc:date>2019-07-21T11:20:34.589854+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Social Changes, 5–10 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 245–285 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–23 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0–30 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–31 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 137–170 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges-seats.png"
+        length="164985"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 22:05:48 +0200</pubDate>
+      <dc:date>2019-07-21T22:05:48.999074+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 5–10 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges-coalitions-seats.png"
+        length="202171"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 22:05:48 +0200</pubDate>
+      <dc:date>2019-07-21T22:05:48.999074+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes, 5–10 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 42.3–48.4%&lt;/li&gt;&lt;li&gt;Kukiz’15: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 3.8–6.5%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 4.7–7.6%&lt;/li&gt;&lt;li&gt;Wiosna: 4.9–7.9%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 25.1–30.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-10-SocialChanges.png"
         length="183258"
         type="image/png"/>
-      <pubDate>Sat, 20 Jul 2019 10:49:12 +0200</pubDate>
-      <dc:date>2019-07-20T10:49:12.297937+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 22:05:48 +0200</pubDate>
+      <dc:date>2019-07-21T22:05:48.999074+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for RMF, 28–29 June 2019 – Seat Projections for the Parties</title>
@@ -140,14 +160,34 @@
       <dc:date>2019-07-21T13:05:13.095923+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Social Changes, 21–26 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 254–292 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–16 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–20 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0–15 seats&lt;/li&gt;&lt;li&gt;Wiosna: 22–42 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 130–164 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges-seats.png"
+        length="165054"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 21:04:53 +0200</pubDate>
+      <dc:date>2019-07-21T21:04:53.281352+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 21–26 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges-coalitions-seats.png"
+        length="193257"
+        type="image/png"/>
+      <pubDate>Sun, 21 Jul 2019 21:04:53 +0200</pubDate>
+      <dc:date>2019-07-21T21:04:53.281352+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Social Changes, 21–26 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 41.0–47.0%&lt;/li&gt;&lt;li&gt;Kukiz’15: 3.4–5.9%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 3.2–5.6%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 3.2–5.7%&lt;/li&gt;&lt;li&gt;Wiosna: 6.2–9.4%&lt;/li&gt;&lt;li&gt;KORWiN: 2.2–4.3%&lt;/li&gt;&lt;li&gt;Lewica Razem: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 22.6–27.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-26-SocialChanges.png"
         length="215786"
         type="image/png"/>
-      <pubDate>Sun, 21 Jul 2019 20:24:24 +0200</pubDate>
-      <dc:date>2019-07-21T20:24:24.177598+02:00</dc:date>
+      <pubDate>Sun, 21 Jul 2019 21:04:53 +0200</pubDate>
+      <dc:date>2019-07-21T21:04:53.281352+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 19–20 June 2019 – Voting Intentions</title>
@@ -216,8 +256,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-05-15-SocialChanges.png"
         length="225481"
         type="image/png"/>
-      <pubDate>Fri, 19 Jul 2019 20:23:45 +0200</pubDate>
-      <dc:date>2019-07-19T20:23:45.513738+02:00</dc:date>
+      <pubDate>Mon, 22 Jul 2019 06:58:42 +0200</pubDate>
+      <dc:date>2019-07-22T06:58:42.739009+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 10–15 May 2019 – Voting Intentions</title>
@@ -266,9 +306,9 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-04-24-SocialChanges.png"
         length="222681"
         type="image/png"/>
-      <pubDate>Fri, 19 Jul 2019 20:55:13 +0200</pubDate>
-      <dc:date>2019-07-19T20:55:13.286618+02:00</dc:date>
+      <pubDate>Mon, 22 Jul 2019 06:54:34 +0200</pubDate>
+      <dc:date>2019-07-22T06:54:34.425644+02:00</dc:date>
     </item>
-    <dc:date>2019-07-21T20:24:24.177598+02:00</dc:date>
+    <dc:date>2019-07-22T06:58:42.739009+02:00</dc:date>
   </channel>
 </rss>
