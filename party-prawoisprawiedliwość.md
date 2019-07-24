@@ -180,14 +180,14 @@ Last result: **235** seats (General Election of 25 October 2015)
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 290 | 276–303 | 272–306 | 269–309 | 263–316 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 291 | 283–300 | 280–304 | 277–311 | 269–314 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 271 | 271 | 268–271 | 268–276 | 268–276 |
-| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 237 | 237–251 | 237–264 | 237–264 | 210–264 |
+| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 263 | 236–267 | 229–267 | 227–267 | 226–275 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 241 | 230–241 | 230–241 | 227–241 | 221–247 |
-| [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 277 | 263–293 | 263–305 | 263–311 | 263–319 |
+| [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 299 | 289–313 | 284–315 | 280–319 | 273–323 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 214 | 205–230 | 199–230 | 194–230 | 192–237 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 275 | 259–285 | 255–293 | 251–300 | 243–313 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 225 | 225 | 225 | 225 | 222–225 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 214 | 214–227 | 213–227 | 198–227 | 198–227 |
-| [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 222 | 222 | 222 | 222 | 222 |
+| [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 230 | 217–246 | 217–247 | 213–254 | 208–257 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 229 | 215–236 | 212–243 | 209–247 | 201–255 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |

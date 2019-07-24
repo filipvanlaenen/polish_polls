@@ -180,7 +180,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0–23 | 0–27 | 0–29 | 0–33 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 18 | 18 | 18 | 18 | 18–27 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 17 | 10–17 | 6–17 | 0–17 | 0–28 |
-| [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0 | 0 |
+| [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0–11 | 0–17 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 0 | 0–12 | 0–18 | 0–22 | 0–27 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |

@@ -175,14 +175,14 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 24–34 | 18–37 | 16–39 | 12–42 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 30 | 28–39 | 26–39 | 23–40 | 19–44 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 48 | 48 | 48 | 44–48 | 44–48 |
-| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 29 | 28–29 | 27–32 | 27–37 | 27–42 |
+| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 38 | 34–44 | 31–45 | 31–46 | 29–48 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 43 | 35–43 | 35–43 | 35–47 | 31–48 |
-| [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 17 | 17–29 | 15–31 | 0–44 | 0–44 |
+| [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 22 | 13–29 | 0–31 | 0–35 | 0–36 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 75 | 67–78 | 63–82 | 60–86 | 51–88 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 28 | 14–34 | 0–35 | 0–36 | 0–42 |
 | [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 9 | 9 | 9 | 9 | 9–11 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 68 | 67–68 | 54–68 | 52–68 | 52–68 |
-| [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 53 | 53 | 53 | 53 | 53 |
+| [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 46 | 42–58 | 40–63 | 38–65 | 34–71 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 46 | 42–55 | 41–57 | 39–63 | 35–69 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
