@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Sun, 28 Jul 2019 13:29:26 +0200</pubDate>
+    <pubDate>Sun, 28 Jul 2019 20:16:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-19-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 248–292 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–18 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–24 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0–15 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–9 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 154–190 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-19-Estymator-seats.png"
+        length="171103"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jul 2019 20:16:32 +0200</pubDate>
+      <dc:date>2019-07-28T20:16:32.244235+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-19-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-19-Estymator-coalitions-seats.png"
+        length="210466"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jul 2019 20:16:32 +0200</pubDate>
+      <dc:date>2019-07-28T20:16:32.244235+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 18–19 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-19-Estymator.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-19-Estymator.png"
         length="212989"
         type="image/png"/>
-      <pubDate>Sun, 28 Jul 2019 13:29:26 +0200</pubDate>
-      <dc:date>2019-07-28T13:29:26.193703+02:00</dc:date>
+      <pubDate>Sun, 28 Jul 2019 20:16:32 +0200</pubDate>
+      <dc:date>2019-07-28T20:16:32.244235+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-17-KantarPublic.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 244–284 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–15 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0 seats&lt;/li&gt;&lt;li&gt;Wiosna: 0–28 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 166–207 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-17-KantarPublic-seats.png"
+        length="163195"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jul 2019 18:42:14 +0200</pubDate>
+      <dc:date>2019-07-28T18:42:14.631876+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-17-KantarPublic.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-17-KantarPublic-coalitions-seats.png"
+        length="205323"
+        type="image/png"/>
+      <pubDate>Sun, 28 Jul 2019 18:42:14 +0200</pubDate>
+      <dc:date>2019-07-28T18:42:14.631876+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-17-KantarPublic.png"
         length="214283"
         type="image/png"/>
-      <pubDate>Sun, 28 Jul 2019 13:14:12 +0200</pubDate>
-      <dc:date>2019-07-28T13:14:12.623578+02:00</dc:date>
+      <pubDate>Sun, 28 Jul 2019 18:42:14 +0200</pubDate>
+      <dc:date>2019-07-28T18:42:14.631876+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for TVN and TVN24, 12–15 July 2019 – Seat Projections for the Parties</title>
@@ -329,6 +369,6 @@
       <pubDate>Mon, 22 Jul 2019 06:54:34 +0200</pubDate>
       <dc:date>2019-07-22T06:54:34.425644+02:00</dc:date>
     </item>
-    <dc:date>2019-07-28T13:29:26.193703+02:00</dc:date>
+    <dc:date>2019-07-28T20:16:32.244235+02:00</dc:date>
   </channel>
 </rss>
