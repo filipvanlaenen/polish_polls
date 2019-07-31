@@ -184,9 +184,9 @@ Last result: **235** seats (General Election of 25 October 2015)
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 274 | 261–286 | 257–288 | 254–292 | 248–295 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 290 | 276–303 | 272–306 | 269–309 | 263–316 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 291 | 283–300 | 280–304 | 277–311 | 269–314 |
-| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 271 | 271 | 268–271 | 268–276 | 268–276 |
+| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 271 | 257–300 | 256–300 | 245–300 | 240–300 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 263 | 236–267 | 229–267 | 227–267 | 226–275 |
-| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 241 | 230–241 | 230–241 | 227–241 | 221–247 |
+| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 242 | 224–249 | 222–250 | 222–257 | 215–264 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 299 | 289–313 | 284–315 | 280–319 | 273–323 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 214 | 205–230 | 199–230 | 194–230 | 192–237 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 275 | 259–285 | 255–293 | 251–300 | 243–313 |

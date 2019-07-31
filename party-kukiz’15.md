@@ -177,7 +177,7 @@ Last result: **42** seats (General Election of 25 October 2015)
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0–8 | 0–9 | 0–10 | 0–14 |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 44 | 42–47 | 39–48 | 37–49 | 31–50 |
-| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 34 | 34–38 | 34–41 | 34–43 | 31–52 |
+| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 40 | 36–48 | 33–48 | 32–50 | 24–54 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 16 | 12–25 | 12–30 | 0–33 | 0–40 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 34 | 26–46 | 23–47 | 23–47 | 20–48 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–16 | 0–19 | 0–27 |

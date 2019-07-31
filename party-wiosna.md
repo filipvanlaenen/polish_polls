@@ -177,9 +177,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 32 | 28–40 | 26–42 | 22–42 | 18–46 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 24–34 | 18–37 | 16–39 | 12–42 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 30 | 28–39 | 26–39 | 23–40 | 19–44 |
-| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 48 | 48 | 48 | 44–48 | 44–48 |
+| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 48 | 40–51 | 39–55 | 35–55 | 29–63 |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 38 | 34–44 | 31–45 | 31–46 | 29–48 |
-| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 43 | 35–43 | 35–43 | 35–47 | 31–48 |
+| [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 41 | 30–46 | 29–48 | 29–49 | 24–51 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 22 | 13–29 | 0–31 | 0–35 | 0–36 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 75 | 67–78 | 63–82 | 60–86 | 51–88 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 28 | 14–34 | 0–35 | 0–36 | 0–42 |
