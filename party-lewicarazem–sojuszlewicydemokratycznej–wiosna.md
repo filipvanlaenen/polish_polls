@@ -1,27 +1,27 @@
-# Koalicja Obywatelska
+# Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **31.7%** (General Election of 25 October 2015)
+Last result: **11.7%** (General Election of 25 October 2015)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 27.5% | 22.3–30.5% | 21.4–31.2% | 20.7–31.8% | 19.7–33.0% |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 27.5% | 25.8–29.4% | 25.3–29.9% | 24.9–30.3% | 24.1–31.2% |
-| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 30.1% | 28.3–32.0% | 27.8–32.6% | 27.4–33.0% | 26.5–34.0% |
-| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 29.0% | 27.1–30.9% | 26.6–31.4% | 26.2–31.9% | 25.3–32.8% |
-| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 27.0% | 25.3–28.9% | 24.8–29.4% | 24.4–29.9% | 23.6–30.8% |
-| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 26.5% | 24.9–28.3% | 24.4–28.8% | 24.0–29.2% | 23.2–30.1% |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 22.0% | 20.4–23.6% | 20.0–24.1% | 19.6–24.5% | 18.9–25.3% |
-| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 27.8% | 26.0–29.6% | 25.5–30.2% | 25.1–30.6% | 24.3–31.5% |
-| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 21.2% | 19.7–22.8% | 19.2–23.3% | 18.9–23.7% | 18.2–24.5% |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–27.9% | 21.9–28.8% |
-| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 24.3% | 22.6–26.0% | 22.1–26.6% | 21.7–27.0% | 20.9–27.9% |
-| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 25.7% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 14.3% | 13.0–15.7% | 12.6–16.1% | 12.3–16.5% | 11.7–17.2% |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 14.3% | 13.0–15.7% | 12.6–16.2% | 12.3–16.5% | 11.7–17.3% |
+| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0.0% | N/A | N/A | N/A | N/A |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0.0% | N/A | N/A | N/A | N/A |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
+| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
@@ -142,49 +142,41 @@ Last result: **31.7%** (General Election of 25 October 2015)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Koalicja Obywatelska.
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna.
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0.3% | 100% |  |
-| 19.5–20.5% | 2% | 99.6% |  |
-| 20.5–21.5% | 4% | 98% |  |
-| 21.5–22.5% | 5% | 94% |  |
-| 22.5–23.5% | 4% | 89% |  |
-| 23.5–24.5% | 3% | 85% |  |
-| 24.5–25.5% | 6% | 82% |  |
-| 25.5–26.5% | 12% | 76% |  |
-| 26.5–27.5% | 16% | 65% | Median |
-| 27.5–28.5% | 16% | 48% |  |
-| 28.5–29.5% | 13% | 32% |  |
-| 29.5–30.5% | 10% | 19% |  |
-| 30.5–31.5% | 6% | 9% |  |
-| 31.5–32.5% | 3% | 4% | Last Result |
-| 32.5–33.5% | 0.8% | 1.0% |  |
-| 33.5–34.5% | 0.2% | 0.2% |  |
-| 34.5–35.5% | 0% | 0% |  |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.3% | 100% |  |
+| 11.5–12.5% | 4% | 99.7% | Last Result |
+| 12.5–13.5% | 19% | 96% |  |
+| 13.5–14.5% | 35% | 77% | Median |
+| 14.5–15.5% | 28% | 42% |  |
+| 15.5–16.5% | 11% | 13% |  |
+| 16.5–17.5% | 2% | 2% |  |
+| 17.5–18.5% | 0.2% | 0.2% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **166** seats (General Election of 25 October 2015)
+Last result: **0** seats (General Election of 25 October 2015)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 159 | 138–186 | 131–192 | 127–196 | 120–207 |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 141 | 131–147 | 128–150 | 124–153 | 119–157 |
-| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 170 | 159–184 | 157–189 | 154–190 | 149–197 |
-| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 186 | 173–198 | 169–203 | 166–207 | 158–213 |
-| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 162 | 152–176 | 149–179 | 147–183 | 141–189 |
-| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 157 | 149–172 | 145–176 | 143–178 | 138–185 |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 143 | 127–151 | 124–155 | 121–157 | 116–162 |
-| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes | 151 | 143–162 | 139–167 | 137–170 | 130–177 |
-| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF | 131 | 121–145 | 118–150 | 114–152 | 104–156 |
-| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 146 | 137–157 | 134–161 | 130–164 | 125–167 |
-| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 139 | 126–146 | 120–149 | 117–150 | 114–159 |
+| N/A | [Poll Average](average.html) | 65 | 58–70 | 52–73 | 51–76 | 48–79 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 65 | 58–70 | 52–73 | 51–76 | 48–79 |
+| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET |  |  |  |  |  |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 |  |  |  |  |  |
+| [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS |  |  |  |  |  |
+| [5–10 July 2019](2019-07-10-SocialChanges.html) | Social Changes |  |  |  |  |  |
+| [28–29 June 2019](2019-06-29-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
+| [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes |  |  |  |  |  |
+| [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS |  |  |  |  |  |
 | [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes |  |  |  |  |  |
@@ -306,112 +298,98 @@ Last result: **166** seats (General Election of 25 October 2015)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-koalicjaobywatelska.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-lewicarazem–sojuszlewicydemokratycznej–wiosna.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Koalicja Obywatelska.
+The following table shows the probability mass function per seat for the [poll average](average.html) for Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna.
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 114 | 0% | 100% |  |
-| 115 | 0.1% | 99.9% |  |
-| 116 | 0% | 99.9% |  |
-| 117 | 0.1% | 99.8% |  |
-| 118 | 0% | 99.7% |  |
-| 119 | 0.2% | 99.7% |  |
-| 120 | 0.1% | 99.5% |  |
-| 121 | 0.2% | 99.4% |  |
-| 122 | 0.2% | 99.2% |  |
-| 123 | 0.1% | 99.0% |  |
-| 124 | 0.4% | 98.9% |  |
-| 125 | 0.3% | 98.5% |  |
-| 126 | 0.3% | 98% |  |
-| 127 | 0.8% | 98% |  |
-| 128 | 0.6% | 97% |  |
-| 129 | 0.8% | 97% |  |
-| 130 | 0.8% | 96% |  |
-| 131 | 1.0% | 95% |  |
-| 132 | 0.5% | 94% |  |
-| 133 | 0.4% | 94% |  |
-| 134 | 0.4% | 93% |  |
-| 135 | 0.6% | 93% |  |
-| 136 | 0.3% | 92% |  |
-| 137 | 0.8% | 92% |  |
-| 138 | 1.3% | 91% |  |
-| 139 | 1.5% | 90% |  |
-| 140 | 3% | 88% |  |
-| 141 | 2% | 86% |  |
-| 142 | 2% | 84% |  |
-| 143 | 3% | 82% |  |
-| 144 | 1.5% | 79% |  |
-| 145 | 2% | 77% |  |
-| 146 | 2% | 76% |  |
-| 147 | 3% | 73% |  |
-| 148 | 1.4% | 71% |  |
-| 149 | 2% | 69% |  |
-| 150 | 3% | 68% |  |
-| 151 | 2% | 65% |  |
-| 152 | 1.0% | 63% |  |
-| 153 | 2% | 62% |  |
-| 154 | 2% | 61% |  |
-| 155 | 1.2% | 59% |  |
-| 156 | 2% | 58% |  |
-| 157 | 3% | 56% |  |
-| 158 | 1.3% | 53% |  |
-| 159 | 2% | 51% | Median |
-| 160 | 2% | 49% |  |
-| 161 | 1.4% | 47% |  |
-| 162 | 2% | 46% |  |
-| 163 | 1.4% | 44% |  |
-| 164 | 1.5% | 43% |  |
-| 165 | 2% | 41% |  |
-| 166 | 2% | 40% | Last Result |
-| 167 | 2% | 38% |  |
-| 168 | 3% | 36% |  |
-| 169 | 1.3% | 32% |  |
-| 170 | 2% | 31% |  |
-| 171 | 1.0% | 29% |  |
-| 172 | 1.4% | 28% |  |
-| 173 | 2% | 27% |  |
-| 174 | 0.9% | 24% |  |
-| 175 | 1.4% | 24% |  |
-| 176 | 1.4% | 22% |  |
-| 177 | 1.1% | 21% |  |
-| 178 | 2% | 20% |  |
-| 179 | 2% | 18% |  |
-| 180 | 0.7% | 16% |  |
-| 181 | 1.1% | 16% |  |
-| 182 | 2% | 15% |  |
-| 183 | 0.7% | 13% |  |
-| 184 | 0.9% | 12% |  |
-| 185 | 0.8% | 11% |  |
-| 186 | 1.0% | 10% |  |
-| 187 | 0.6% | 9% |  |
-| 188 | 0.6% | 9% |  |
-| 189 | 1.4% | 8% |  |
-| 190 | 0.7% | 7% |  |
-| 191 | 0.4% | 6% |  |
-| 192 | 2% | 6% |  |
-| 193 | 0.4% | 4% |  |
-| 194 | 0.4% | 3% |  |
-| 195 | 0.2% | 3% |  |
-| 196 | 0.8% | 3% |  |
-| 197 | 0.1% | 2% |  |
-| 198 | 0.2% | 2% |  |
-| 199 | 0.1% | 2% |  |
-| 200 | 0.1% | 2% |  |
-| 201 | 0.2% | 1.4% |  |
-| 202 | 0.1% | 1.2% |  |
-| 203 | 0.3% | 1.1% |  |
-| 204 | 0% | 0.8% |  |
-| 205 | 0.1% | 0.8% |  |
-| 206 | 0.2% | 0.7% |  |
-| 207 | 0.2% | 0.5% |  |
-| 208 | 0.1% | 0.3% |  |
-| 209 | 0% | 0.2% |  |
-| 210 | 0% | 0.2% |  |
-| 211 | 0% | 0.2% |  |
-| 212 | 0.1% | 0.1% |  |
-| 213 | 0.1% | 0.1% |  |
-| 214 | 0% | 0% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 0% | 100% |  |
+| 2 | 0% | 100% |  |
+| 3 | 0% | 100% |  |
+| 4 | 0% | 100% |  |
+| 5 | 0% | 100% |  |
+| 6 | 0% | 100% |  |
+| 7 | 0% | 100% |  |
+| 8 | 0% | 100% |  |
+| 9 | 0% | 100% |  |
+| 10 | 0% | 100% |  |
+| 11 | 0% | 100% |  |
+| 12 | 0% | 100% |  |
+| 13 | 0% | 100% |  |
+| 14 | 0% | 100% |  |
+| 15 | 0% | 100% |  |
+| 16 | 0% | 100% |  |
+| 17 | 0% | 100% |  |
+| 18 | 0% | 100% |  |
+| 19 | 0% | 100% |  |
+| 20 | 0% | 100% |  |
+| 21 | 0% | 100% |  |
+| 22 | 0% | 100% |  |
+| 23 | 0% | 100% |  |
+| 24 | 0% | 100% |  |
+| 25 | 0% | 100% |  |
+| 26 | 0% | 100% |  |
+| 27 | 0% | 100% |  |
+| 28 | 0% | 100% |  |
+| 29 | 0% | 100% |  |
+| 30 | 0% | 100% |  |
+| 31 | 0% | 100% |  |
+| 32 | 0% | 100% |  |
+| 33 | 0% | 100% |  |
+| 34 | 0% | 100% |  |
+| 35 | 0% | 100% |  |
+| 36 | 0% | 100% |  |
+| 37 | 0% | 100% |  |
+| 38 | 0% | 100% |  |
+| 39 | 0% | 100% |  |
+| 40 | 0% | 100% |  |
+| 41 | 0% | 100% |  |
+| 42 | 0% | 100% |  |
+| 43 | 0% | 100% |  |
+| 44 | 0.1% | 100% |  |
+| 45 | 0% | 99.9% |  |
+| 46 | 0.2% | 99.9% |  |
+| 47 | 0.1% | 99.7% |  |
+| 48 | 0.5% | 99.5% |  |
+| 49 | 0.4% | 99.0% |  |
+| 50 | 0.8% | 98.6% |  |
+| 51 | 0.6% | 98% |  |
+| 52 | 2% | 97% |  |
+| 53 | 0.1% | 95% |  |
+| 54 | 1.4% | 95% |  |
+| 55 | 0.6% | 93% |  |
+| 56 | 2% | 93% |  |
+| 57 | 0.5% | 91% |  |
+| 58 | 5% | 90% |  |
+| 59 | 3% | 85% |  |
+| 60 | 3% | 82% |  |
+| 61 | 3% | 80% |  |
+| 62 | 5% | 76% |  |
+| 63 | 12% | 72% |  |
+| 64 | 7% | 60% |  |
+| 65 | 5% | 53% | Median |
+| 66 | 12% | 48% |  |
+| 67 | 9% | 36% |  |
+| 68 | 7% | 26% |  |
+| 69 | 6% | 20% |  |
+| 70 | 5% | 14% |  |
+| 71 | 0.8% | 9% |  |
+| 72 | 3% | 8% |  |
+| 73 | 1.2% | 5% |  |
+| 74 | 0.7% | 4% |  |
+| 75 | 0.8% | 3% |  |
+| 76 | 0.4% | 3% |  |
+| 77 | 0.9% | 2% |  |
+| 78 | 0.5% | 1.3% |  |
+| 79 | 0.4% | 0.8% |  |
+| 80 | 0.2% | 0.4% |  |
+| 81 | 0.1% | 0.2% |  |
+| 82 | 0.1% | 0.2% |  |
+| 83 | 0% | 0.1% |  |
+| 84 | 0% | 0.1% |  |
+| 85 | 0% | 0.1% |  |
+| 86 | 0% | 0% |  |
 
 
