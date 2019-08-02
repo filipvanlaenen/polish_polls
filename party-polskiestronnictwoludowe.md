@@ -167,7 +167,7 @@ Last result: **16** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–23 | 0–26 | 0–28 | 0–34 |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–12 | 0–14 | 0–15 | 0–17 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–14 | 0–15 | 0–18 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 0–22 | 0–23 | 0–24 | 0–27 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0 | 0 | 0 | 0 | 0 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
@@ -304,26 +304,26 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 68% | 100% | Median |
-| 1 | 0% | 32% |  |
-| 2 | 0% | 32% |  |
-| 3 | 0% | 32% |  |
-| 4 | 0% | 32% |  |
-| 5 | 0% | 32% |  |
-| 6 | 0% | 32% |  |
-| 7 | 0% | 32% |  |
-| 8 | 0% | 32% |  |
-| 9 | 0% | 32% |  |
-| 10 | 0.2% | 32% |  |
-| 11 | 1.1% | 31% |  |
-| 12 | 0.9% | 30% |  |
+| 0 | 69% | 100% | Median |
+| 1 | 0% | 31% |  |
+| 2 | 0% | 31% |  |
+| 3 | 0% | 31% |  |
+| 4 | 0% | 31% |  |
+| 5 | 0% | 31% |  |
+| 6 | 0% | 31% |  |
+| 7 | 0% | 31% |  |
+| 8 | 0% | 31% |  |
+| 9 | 0% | 31% |  |
+| 10 | 0.1% | 31% |  |
+| 11 | 1.0% | 31% |  |
+| 12 | 0.6% | 30% |  |
 | 13 | 1.4% | 29% |  |
-| 14 | 1.2% | 28% |  |
+| 14 | 1.1% | 28% |  |
 | 15 | 2% | 27% |  |
 | 16 | 2% | 25% | Last Result |
 | 17 | 1.0% | 22% |  |
 | 18 | 0.9% | 21% |  |
-| 19 | 1.1% | 21% |  |
+| 19 | 1.2% | 21% |  |
 | 20 | 1.4% | 19% |  |
 | 21 | 3% | 18% |  |
 | 22 | 2% | 15% |  |
