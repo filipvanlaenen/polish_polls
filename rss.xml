@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Thu, 01 Aug 2019 23:54:01 +0200</pubDate>
+    <pubDate>Tue, 06 Aug 2019 13:56:25 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Social Changes, 26–31 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-31-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 43.7–49.8%&lt;/li&gt;&lt;li&gt;Kukiz’15: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 4.6–7.6%&lt;/li&gt;&lt;li&gt;KORWiN: 1.4–3.3%&lt;/li&gt;&lt;li&gt;Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna: 11.3–15.5%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 24.2–29.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-31-SocialChanges.png"
+        length="192492"
+        type="image/png"/>
+      <pubDate>Tue, 06 Aug 2019 13:46:52 +0200</pubDate>
+      <dc:date>2019-08-06T13:46:52.366567+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 26–27 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 41.6–47.5%&lt;/li&gt;&lt;li&gt;Kukiz’15: 3.1–5.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 1.3–3.0%&lt;/li&gt;&lt;li&gt;KORWiN: 1.5–3.3%&lt;/li&gt;&lt;li&gt;Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna: 9.4–13.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 19.4–24.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS.png"
+        length="189701"
+        type="image/png"/>
+      <pubDate>Tue, 06 Aug 2019 13:52:44 +0200</pubDate>
+      <dc:date>2019-08-06T13:52:44.121559+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Social Changes, 19–24 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-24-SocialChanges.html</link>
@@ -48,6 +68,16 @@
         type="image/png"/>
       <pubDate>Sun, 28 Jul 2019 20:16:32 +0200</pubDate>
       <dc:date>2019-07-28T20:16:32.244235+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 12–17 July 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-17-SocialChanges.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 42.4–48.5%&lt;/li&gt;&lt;li&gt;Kukiz’15: 2.2–4.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 4.5–7.4%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 4.1–6.8%&lt;/li&gt;&lt;li&gt;Wiosna: 4.5–7.4%&lt;/li&gt;&lt;li&gt;KORWiN: 2.8–5.2%&lt;/li&gt;&lt;li&gt;Lewica Razem: 0.7–2.1%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 25.6–31.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-17-SocialChanges.png"
+        length="215055"
+        type="image/png"/>
+      <pubDate>Tue, 06 Aug 2019 13:56:25 +0200</pubDate>
+      <dc:date>2019-08-06T13:56:25.531659+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public for Radio ZET, 12–17 July 2019 – Seat Projections for the Parties</title>
@@ -379,6 +409,6 @@
       <pubDate>Mon, 22 Jul 2019 06:54:34 +0200</pubDate>
       <dc:date>2019-07-22T06:54:34.425644+02:00</dc:date>
     </item>
-    <dc:date>2019-08-01T23:54:01.477708+02:00</dc:date>
+    <dc:date>2019-08-06T13:56:25.531659+02:00</dc:date>
   </channel>
 </rss>
