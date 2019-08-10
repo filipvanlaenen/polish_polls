@@ -42,7 +42,6 @@ Last result: **11.7%** (General Election of 25 October 2015)
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
-| [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | NaN% | N/A | N/A | N/A | N/A |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 0.0% | N/A | N/A | N/A | N/A |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
@@ -202,7 +201,6 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS |  |  |  |  |  |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public |  |  |  |  |  |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG |  |  |  |  |  |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press |  |  |  |  |  |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS |  |  |  |  |  |

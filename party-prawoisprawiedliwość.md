@@ -35,36 +35,35 @@ Last result: **37.6%** (General Election of 25 October 2015)
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 35.1% | 33.3–37.1% | 32.8–37.6% | 32.3–38.1% | 31.4–39.0% |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 39.0% | 37.1–41.0% | 36.5–41.5% | 36.0–42.0% | 35.1–43.0% |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 38.6% | 36.7–40.5% | 36.1–41.1% | 35.7–41.6% | 34.8–42.5% |
-| [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 37.0% | N/A | N/A | N/A | N/A |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 37.7% | N/A | N/A | N/A | N/A |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 40.9% | N/A | N/A | N/A | N/A |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.6% | N/A | N/A | N/A | N/A |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 44.0% | N/A | N/A | N/A | N/A |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 38.0% | N/A | N/A | N/A | N/A |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.0% | N/A | N/A | N/A | N/A |
-| [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG | NaN% | N/A | N/A | N/A | N/A |
-| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.1% | N/A | N/A | N/A | N/A |
-| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 35.1% | N/A | N/A | N/A | N/A |
-| [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 40.0% | N/A | N/A | N/A | N/A |
-| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 34.0% | N/A | N/A | N/A | N/A |
-| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 34.9% | N/A | N/A | N/A | N/A |
-| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 37.1% | N/A | N/A | N/A | N/A |
-| [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 39.7% | N/A | N/A | N/A | N/A |
-| [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 35.1% | N/A | N/A | N/A | N/A |
-| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 29.0% | N/A | N/A | N/A | N/A |
-| [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 37.0% | N/A | N/A | N/A | N/A |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35.0% | N/A | N/A | N/A | N/A |
-| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 36.2% | N/A | N/A | N/A | N/A |
-| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.4% | N/A | N/A | N/A | N/A |
-| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 39.0% | N/A | N/A | N/A | N/A |
-| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 34.0% | N/A | N/A | N/A | N/A |
-| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 27.8% | N/A | N/A | N/A | N/A |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 40.0% | N/A | N/A | N/A | N/A |
-| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 39.1% | N/A | N/A | N/A | N/A |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 42.0% | N/A | N/A | N/A | N/A |
-| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.9% | N/A | N/A | N/A | N/A |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 34.0% | N/A | N/A | N/A | N/A |
-| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 41.0% | N/A | N/A | N/A | N/A |
+| [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 37.0% | 35.2–38.9% | 34.6–39.4% | 34.2–39.9% | 33.3–40.8% |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 37.7% | 35.7–39.7% | 35.2–40.2% | 34.7–40.7% | 33.8–41.7% |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 40.9% | 38.9–42.9% | 38.4–43.5% | 37.9–44.0% | 36.9–44.9% |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.6% | 40.6–44.6% | 40.0–45.2% | 39.6–45.7% | 38.6–46.6% |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 44.0% | 42.0–46.0% | 41.5–46.5% | 41.0–47.0% | 40.1–48.0% |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 38.0% | 36.1–40.0% | 35.5–40.6% | 35.0–41.1% | 34.1–42.1% |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 40.0% | 38.1–41.9% | 37.6–42.5% | 37.1–42.9% | 36.2–43.9% |
+| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.1% | 39.1–43.1% | 38.5–43.6% | 38.1–44.1% | 37.1–45.1% |
+| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 35.1% | 33.2–37.0% | 32.6–37.6% | 32.2–38.1% | 31.3–39.0% |
+| [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 40.0% | 38.1–42.0% | 37.5–42.6% | 37.1–43.1% | 36.1–44.0% |
+| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 34.0% | 32.1–36.0% | 31.6–36.6% | 31.1–37.1% | 30.2–38.0% |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 34.9% | 33.1–36.8% | 32.5–37.4% | 32.1–37.8% | 31.2–38.7% |
+| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 37.1% | 35.3–39.0% | 34.7–39.5% | 34.3–40.0% | 33.4–40.9% |
+| [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 39.7% | 37.7–41.7% | 37.2–42.2% | 36.7–42.7% | 35.8–43.7% |
+| [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 35.1% | 33.2–37.1% | 32.7–37.6% | 32.2–38.1% | 31.3–39.1% |
+| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 29.0% | 27.2–30.9% | 26.7–31.4% | 26.3–31.9% | 25.4–32.8% |
+| [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 37.0% | 35.1–39.0% | 34.6–39.6% | 34.1–40.1% | 33.2–41.0% |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 35.0% | 33.2–36.9% | 32.7–37.4% | 32.2–37.9% | 31.4–38.8% |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 36.2% | 34.4–38.1% | 33.8–38.6% | 33.4–39.1% | 32.5–40.0% |
+| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 42.4% | 40.4–44.4% | 39.9–45.0% | 39.4–45.5% | 38.4–46.5% |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 39.0% | 37.1–41.1% | 36.5–41.6% | 36.0–42.1% | 35.1–43.1% |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 34.0% | 32.1–36.0% | 31.6–36.6% | 31.2–37.1% | 30.3–38.0% |
+| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 27.8% | 26.0–29.6% | 25.5–30.2% | 25.1–30.6% | 24.2–31.6% |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 40.0% | 38.1–41.9% | 37.6–42.5% | 37.1–43.0% | 36.3–43.9% |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 39.1% | 37.2–41.0% | 36.7–41.5% | 36.2–42.0% | 35.4–42.9% |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 42.0% | 40.1–44.0% | 39.6–44.5% | 39.1–45.0% | 38.2–45.9% |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 41.9% | 39.9–43.9% | 39.4–44.4% | 38.9–44.9% | 38.0–45.9% |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 34.0% | 32.2–36.0% | 31.7–36.5% | 31.2–37.0% | 30.3–37.9% |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 41.0% | 39.1–43.0% | 38.5–43.6% | 38.0–44.1% | 37.1–45.1% |
 | [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 37.2% | N/A | N/A | N/A | N/A |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 38.2% | N/A | N/A | N/A | N/A |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 40.7% | N/A | N/A | N/A | N/A |
@@ -203,36 +202,35 @@ Last result: **235** seats (General Election of 25 October 2015)
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 214 | 214–227 | 213–227 | 198–227 | 198–227 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 230 | 217–246 | 217–247 | 213–254 | 208–257 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 229 | 215–236 | 212–243 | 209–247 | 201–255 |
-| [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 |  |  |  |  |  |
-| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS |  |  |  |  |  |
-| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27–28 February 2019](2019-02-28-IBRiS.html) | IBRiS <br> SWG |  |  |  |  |  |
-| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press |  |  |  |  |  |
-| [7–14 February 2019](2019-02-14-CBOS.html) | CBOS |  |  |  |  |  |
-| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP |  |  |  |  |  |
-| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET |  |  |  |  |  |
-| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown |  |  |  |  |  |
-| [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
-| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS |  |  |  |  |  |
-| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
-| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS |  |  |  |  |  |
+| [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 252 | 243–252 | 219–252 | 199–252 | 199–252 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 226 | 219–244 | 216–244 | 205–244 | 201–244 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 225 | 225 | 225 | 225 | 225–235 |
+| [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 255 | 229–255 | 229–255 | 229–255 | 224–259 |
+| [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 303 | 294–310 | 294–310 | 294–310 | 273–317 |
+| [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 288 | 255–294 | 255–320 | 255–331 | 217–331 |
+| [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 222 | 221–235 | 221–244 | 221–244 | 221–279 |
+| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 218 | 218–236 | 218–236 | 218–236 | 218–236 |
+| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 204 | 195–212 | 195–214 | 192–216 | 188–258 |
+| [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 274 | 270–292 | 270–293 | 263–293 | 245–298 |
+| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 253 | 226–253 | 226–253 | 226–253 | 226–253 |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 211 | 211 | 211–216 | 211–216 | 211–224 |
+| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 229 | 219–229 | 219–229 | 217–230 | 213–237 |
+| [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 223 | 215–229 | 203–229 | 202–229 | 191–235 |
+| [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 196 | 196–206 | 196–206 | 196–218 | 184–218 |
+| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 194 | 192–223 | 192–223 | 191–223 | 176–227 |
+| [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 216 | 216 | 216 | 216 | 216–233 |
+| [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita | 232 | 232–235 | 219–235 | 219–235 | 218–239 |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 222 | 222–227 | 207–227 | 207–227 | 207–228 |
+| [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 242 | 242 | 242 | 242 | 242 |
+| [10–17 January 2019](2019-01-17-CBOS.html) | CBOS | 272 | 271–273 | 261–296 | 259–299 | 259–299 |
+| [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public | 236 | 236–241 | 236–241 | 236–241 | 219–241 |
+| [15–16 January 2019](2019-01-16-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 211 | 200–223 | 200–223 | 200–224 | 200–224 |
+| [10–11 January 2019](2019-01-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 236 | 227–249 | 227–251 | 227–251 | 214–254 |
+| [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 247 | 244–252 | 243–253 | 243–264 | 243–264 |
+| [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 222 | 222 | 222 | 222 | 222–258 |
+| [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 220 | 220–224 | 220–224 | 220–228 | 210–248 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 247 | 241–250 | 241–250 | 227–250 | 220–253 |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS |  | 255–256 | 255–256 | 255–256 | 244–262 |
 | [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |

@@ -6,17 +6,17 @@
 
 The table below lists the polls on which the average is based. They are the most recent polls (less than 90 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | PiS | KO | PO | K | .N | PSL | SLD | W | R | Wi | MN | RSW |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 October 2015 | General Election | 37.6% <br> 235 | 31.7% <br> 166 | 24.1% <br> 138 | 8.8% <br> 42 | 7.6% <br> 28 | 5.1% <br> 16 | 7.6% <br> 0 | 4.8% <br> 0 | 3.6% <br> 0 | 0.0% <br> 0 | 0.2% <br> 1 | 11.7% <br> 0 |
-| N/A | Poll Average | 37–49% <br> 242–309 | 20–32% <br> 114–196 | N/A <br> N/A | 3–7% <br> 0–28 | N/A <br> N/A | 2–7% <br> 0–29 | 2–5% <br> 0–11 | 2–4% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–26 | N/A <br> N/A | 10–15% <br> 35–77 |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 44–50% <br> 238–275 | 24–30% <br> 128–145 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 5–8% <br> 0–24 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 43–74 |
-| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 42–48% <br> 269–291 | 19–24% <br> 114–135 | N/A <br> N/A | 3–5% <br> 0–12 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 35–77 |
-| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 42–48% <br> 248–292 | 27–33% <br> 154–190 | N/A <br> N/A | 4–6% <br> 0–18 | N/A <br> N/A | 4–7% <br> 0–24 | 3–6% <br> 0–15 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–9 | N/A <br> N/A | N/A <br> N/A |
-| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 36–42% <br> 244–284 | 26–32% <br> 166–207 | N/A <br> N/A | 3–5% <br> 0–15 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 4–7% <br> 0–28 | N/A <br> N/A | N/A <br> N/A |
-| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 39–45% <br> 249–289 | 24–30% <br> 147–183 | N/A <br> N/A | 5–8% <br> 0–35 | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–27 | N/A <br> N/A | N/A <br> N/A |
-| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 41–47% <br> 275–319 | 20–24% <br> 121–157 | N/A <br> N/A | 3–5% <br> 0–15 | N/A <br> N/A | 5–8% <br> 0–35 | 2–4% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–18 | N/A <br> N/A | N/A <br> N/A |
-| 25 October 2015 | General Election | 37.6% <br> 235 | 31.7% <br> 166 | 24.1% <br> 138 | 8.8% <br> 42 | 7.6% <br> 28 | 5.1% <br> 16 | 7.6% <br> 0 | 4.8% <br> 0 | 3.6% <br> 0 | 0.0% <br> 0 | 0.2% <br> 1 | 11.7% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | PiS | KO | PO | KP | K | .N | PSL | SLD | W | R | Wi | MN | RSW |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 October 2015 | General Election | 37.6% <br> 235 | 31.7% <br> 166 | 24.1% <br> 138 | 13.9% <br> 58 | 8.8% <br> 42 | 7.6% <br> 28 | 5.1% <br> 16 | 7.6% <br> 0 | 4.8% <br> 0 | 3.6% <br> 0 | 0.0% <br> 0 | 0.2% <br> 1 | 11.7% <br> 0 |
+| N/A | Poll Average | 37–49% <br> 242–309 | 20–32% <br> 114–196 | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–28 | N/A <br> N/A | 2–7% <br> 0–29 | 2–5% <br> 0–11 | 2–4% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–26 | N/A <br> N/A | 10–15% <br> 35–77 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 44–50% <br> 238–275 | 24–30% <br> 128–145 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 5–8% <br> 0–24 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 43–74 |
+| [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 42–48% <br> 269–291 | 19–24% <br> 114–135 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–12 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 35–77 |
+| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 42–48% <br> 248–292 | 27–33% <br> 154–190 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–18 | N/A <br> N/A | 4–7% <br> 0–24 | 3–6% <br> 0–15 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–9 | N/A <br> N/A | N/A <br> N/A |
+| [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 36–42% <br> 244–284 | 26–32% <br> 166–207 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–15 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 4–7% <br> 0–28 | N/A <br> N/A | N/A <br> N/A |
+| [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 39–45% <br> 249–289 | 24–30% <br> 147–183 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–35 | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–27 | N/A <br> N/A | N/A <br> N/A |
+| [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 41–47% <br> 275–319 | 20–24% <br> 121–157 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–15 | N/A <br> N/A | 5–8% <br> 0–35 | 2–4% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–18 | N/A <br> N/A | N/A <br> N/A |
+| 25 October 2015 | General Election | 37.6% <br> 235 | 31.7% <br> 166 | 24.1% <br> 138 | 13.9% <br> 58 | 8.8% <br> 42 | 7.6% <br> 28 | 5.1% <br> 16 | 7.6% <br> 0 | 4.8% <br> 0 | 3.6% <br> 0 | 0.0% <br> 0 | 0.2% <br> 1 | 11.7% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -26,6 +26,7 @@ Only polls for which at least the sample size has been published are included in
 + **PiS:** Prawo i Sprawiedliwość
 + **KO:** Koalicja Obywatelska
 + **PO:** Platforma Obywatelska
++ **KP:** Koalicja Polska
 + **K:** Kukiz’15
 + **.N:** .Nowoczesna
 + **PSL:** Polskie Stronnictwo Ludowe
@@ -49,6 +50,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#prawo-i-sprawiedliwość">Prawo i Sprawiedliwość</a> | 37.6% | 44.0% | 39.3–47.1% |38.2–47.9% | 37.4–48.6% | 36.1–49.8% |
 | <a href="#koalicja-obywatelska">Koalicja Obywatelska</a> | 31.7% | 26.8% | 21.2–30.4% |20.6–31.2% | 20.1–31.8% | 19.3–33.0% |
 | <a href="#platforma-obywatelska">Platforma Obywatelska</a> | 24.1% | N/A | N/A |N/A | N/A | N/A |
+| <a href="#koalicja-polska">Koalicja Polska</a> | 13.9% | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lewica-razem–sojusz-lewicy-demokratycznej–wiosna">Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna</a> | 11.7% | 12.2% | 10.4–14.2% |10.1–14.7% | 9.7–15.1% | 9.1–15.9% |
 | <a href="#kukiz’15">Kukiz’15</a> | 8.8% | 4.3% | 3.2–6.0% |2.9–6.5% | 2.7–6.9% | 2.3–7.6% |
 | <a href="#.nowoczesna">.Nowoczesna</a> | 7.6% | N/A | N/A |N/A | N/A | N/A |
@@ -234,6 +236,7 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#prawo-i-sprawiedliwość">Prawo i Sprawiedliwość</a> | 235 | 271 | 248–293 |242–300 | 242–309 | 238–318 |
 | <a href="#koalicja-obywatelska">Koalicja Obywatelska</a> | 166 | 151 | 124–186 |114–192 | 114–196 | 114–207 |
 | <a href="#platforma-obywatelska">Platforma Obywatelska</a> | 138 | N/A | N/A |N/A | N/A | N/A |
+| <a href="#koalicja-polska">Koalicja Polska</a> | 58 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#lewica-razem–sojusz-lewicy-demokratycznej–wiosna">Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna</a> | 0 | 56 | 43–77 |35–77 | 35–77 | 35–77 |
 | <a href="#kukiz’15">Kukiz’15</a> | 42 | 0 | 0–19 |0–25 | 0–28 | 0–35 |
 | <a href="#.nowoczesna">.Nowoczesna</a> | 28 | N/A | N/A |N/A | N/A | N/A |
