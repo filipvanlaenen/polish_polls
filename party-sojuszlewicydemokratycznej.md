@@ -77,7 +77,7 @@ Last result: **7.6%** (General Election of 25 October 2015)
 | [12–17 October 2018](2018-10-17-KantarPublic.html) | Kantar Public | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.3% |
 | [4–11 October 2018](2018-10-11-CBOS.html) | CBOS | 4.0% | 3.4–4.9% | 3.2–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [5–6 October 2018](2018-10-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
-| [1 October 2018](2018-10-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | 6.0–8.1% | 5.8–8.5% | 5.6–8.7% | 5.2–9.3% |
+| [1 October 2018](2018-10-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [22–23 September 2018](2018-09-23-IBRiS.html) | IBRiS <br> Onet | 8.7% | 7.7–9.9% | 7.4–10.3% | 7.2–10.5% | 6.7–11.1% |
 | [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.1% | 7.0–9.3% | 6.8–9.6% | 6.5–9.9% | 6.1–10.5% |
 | [14–17 September 2018](2018-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
@@ -93,41 +93,41 @@ Last result: **7.6%** (General Election of 25 October 2015)
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.3% | 8.3–10.6% | 8.0–11.0% | 7.7–11.3% | 7.2–11.9% |
 | [27 July 2018](2018-07-27-IBRiS.html) | IBRiS | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
-| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8.0% | N/A | N/A | N/A | N/A |
-| [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 6.0% | N/A | N/A | N/A | N/A |
-| [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9.7% | N/A | N/A | N/A | N/A |
-| [4–5 July 2018](2018-07-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 8.0% | N/A | N/A | N/A | N/A |
-| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 7.0% | N/A | N/A | N/A | N/A |
-| [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.5% | N/A | N/A | N/A | N/A |
-| [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 9.6% | N/A | N/A | N/A | N/A |
-| [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6.9% | N/A | N/A | N/A | N/A |
-| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 6.0% | N/A | N/A | N/A | N/A |
-| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.6% | N/A | N/A | N/A | N/A |
-| [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 4.0% | N/A | N/A | N/A | N/A |
-| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9.6% | N/A | N/A | N/A | N/A |
-| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 7.0% | N/A | N/A | N/A | N/A |
-| [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5.0% | N/A | N/A | N/A | N/A |
-| [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 9.9% | N/A | N/A | N/A | N/A |
+| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 8.0% | 7.0–9.1% | 6.7–9.4% | 6.5–9.7% | 6.1–10.3% |
+| [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 6.0% | 5.2–7.1% | 5.0–7.4% | 4.8–7.7% | 4.4–8.2% |
+| [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9.7% | 8.7–11.0% | 8.4–11.3% | 8.1–11.6% | 7.6–12.3% |
+| [4–5 July 2018](2018-07-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 8.0% | 7.0–9.1% | 6.7–9.5% | 6.5–9.8% | 6.0–10.3% |
+| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 7.5% | 6.5–8.6% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
+| [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 9.6% | 8.6–10.9% | 8.3–11.2% | 8.0–11.6% | 7.5–12.2% |
+| [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 6.9% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.2% |
+| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.6–11.1% |
+| [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.7–5.8% |
+| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 9.6% | 8.5–10.8% | 8.2–11.2% | 7.9–11.5% | 7.5–12.1% |
+| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.0% |
+| [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 9.9% | 8.8–11.2% | 8.5–11.5% | 8.3–11.8% | 7.8–12.5% |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.0% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 6.9–11.6% |
-| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.5% | 4.4–8.1% |
-| [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 6.0% | N/A | N/A | N/A | N/A |
-| [14 May 2018](2018-05-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.7% | N/A | N/A | N/A | N/A |
-| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 8.9% | N/A | N/A | N/A | N/A |
-| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.4% | N/A | N/A | N/A | N/A |
-| [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 7.0% | N/A | N/A | N/A | N/A |
-| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 7.0% | N/A | N/A | N/A | N/A |
-| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 8.0% | N/A | N/A | N/A | N/A |
-| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.6% | N/A | N/A | N/A | N/A |
-| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 9.2% | N/A | N/A | N/A | N/A |
-| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 6.0% | N/A | N/A | N/A | N/A |
-| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 6.0% | N/A | N/A | N/A | N/A |
-| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 7.0% | N/A | N/A | N/A | N/A |
-| [6–7 April 2018](2018-04-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 9.0% | N/A | N/A | N/A | N/A |
-| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 9.0% | N/A | N/A | N/A | N/A |
-| [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.3% | N/A | N/A | N/A | N/A |
-| [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12.1% | N/A | N/A | N/A | N/A |
-| [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 8.0% | N/A | N/A | N/A | N/A |
-| [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 9.0% | N/A | N/A | N/A | N/A |
+| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 6.0% | 5.2–7.0% | 5.0–7.3% | 4.8–7.5% | 4.4–8.0% |
+| [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.6% | 4.3–8.2% |
+| [14 May 2018](2018-05-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
+| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 8.9% | 7.9–10.2% | 7.6–10.5% | 7.4–10.8% | 6.9–11.4% |
+| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 10.4% | 9.3–11.6% | 9.0–12.0% | 8.7–12.3% | 8.2–12.9% |
+| [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 7.0% | 6.1–8.1% | 5.9–8.4% | 5.6–8.7% | 5.2–9.2% |
+| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
+| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
+| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 9.2% | 8.2–10.4% | 7.8–10.7% | 7.6–11.0% | 7.1–11.6% |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.1% |
+| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.5% | 4.4–8.0% |
+| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [6–7 April 2018](2018-04-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
+| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.4–10.9% | 6.9–11.5% |
+| [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 9.3% | 8.3–10.4% | 8.0–10.7% | 7.8–11.0% | 7.3–11.6% |
+| [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 12.1% | 10.9–13.4% | 10.6–13.8% | 10.3–14.2% | 9.8–14.8% |
+| [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 8.0% | 7.0–9.2% | 6.8–9.5% | 6.5–9.8% | 6.1–10.4% |
+| [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 9.0% | 7.9–10.3% | 7.6–10.7% | 7.4–10.9% | 6.9–11.6% |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.8% | N/A | N/A | N/A | N/A |
 | [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet | 7.6% | N/A | N/A | N/A | N/A |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 4.1% | N/A | N/A | N/A | N/A |
@@ -234,7 +234,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [12–17 October 2018](2018-10-17-KantarPublic.html) | Kantar Public | 30 | 17–40 | 17–41 | 14–41 | 14–42 |
 | [4–11 October 2018](2018-10-11-CBOS.html) | CBOS | 0 | 0 | 0–22 | 0–23 | 0–23 |
 | [5–6 October 2018](2018-10-06-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28 | 28 | 28 | 28 | 9–28 |
-| [1 October 2018](2018-10-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| [1 October 2018](2018-10-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 29 | 12–29 | 12–29 | 8–32 | 7–32 |
 | [22–23 September 2018](2018-09-23-IBRiS.html) | IBRiS <br> Onet | 44 | 44–45 | 44–45 | 44–45 | 42–59 |
 | [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 29 | 28–40 | 28–40 | 20–40 | 12–40 |
 | [14–17 September 2018](2018-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 26 | 0–26 | 0–26 | 0–26 | 0–26 |
@@ -250,40 +250,40 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 45 | 43–45 | 43–62 | 43–76 | 38–76 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 34 | 34–44 | 34–44 | 34–44 | 29–46 |
 | [27 July 2018](2018-07-27-IBRiS.html) | IBRiS | 49 | 49 | 46–49 | 46–51 | 39–51 |
-| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [4–5 July 2018](2018-07-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 |  |  |  |  |  |
-| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS |  |  |  |  |  |
-| [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 28 | 28–29 | 28–35 | 28–37 | 28–43 |
+| [6–11 July 2018](2018-07-11-KantarPublic.html) | Kantar Public | 0 | 0–30 | 0–30 | 0–30 | 0–32 |
+| [8–9 July 2018](2018-07-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 38 | 38–39 | 38–39 | 38–39 | 38–45 |
+| [4–5 July 2018](2018-07-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 30 | 29–30 | 29–41 | 29–41 | 20–41 |
+| [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 38 | 38–40 | 38–40 | 28–40 | 28–40 |
+| [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 29–30 | 11–30 | 11–40 | 11–40 |
 | [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
-| [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [7–14 June 2018](2018-06-14-CBOS.html) | CBOS |  |  |  |  |  |
-| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 |  |  |  |  |  |
-| [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 |  |  |  |  |  |
-| [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 31 | 31 | 14–36 | 14–38 | 9–38 |
+| [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 28 | 0–34 | 0–34 | 0–34 | 0–35 |
+| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 30 | 29–43 | 29–54 | 29–54 | 29–54 |
+| [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0–14 |
+| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 41 | 41–49 | 40–50 | 39–59 | 39–60 |
+| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 29 | 12–38 | 12–38 | 12–38 | 12–38 |
+| [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–29 | 0–29 | 0–29 | 0–29 |
+| [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 37 | 36–42 | 36–42 | 36–46 | 36–71 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 41 | 41–43 | 30–43 | 28–43 | 28–45 |
-| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS |  |  |  |  |  |
-| [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [14 May 2018](2018-05-14-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 |  |  |  |  |  |
-| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express |  |  |  |  |  |
-| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express |  |  |  |  |  |
-| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 |  |  |  |  |  |
-| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
-| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press |  |  |  |  |  |
-| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS |  |  |  |  |  |
-| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public |  |  |  |  |  |
-| [6–7 April 2018](2018-04-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 |  |  |  |  |  |
-| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express |  |  |  |  |  |
-| [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
-| [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 |  |  |  |  |  |
+| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 27 | 24–30 | 20–30 | 20–31 | 0–37 |
+| [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 34 | 0–34 | 0–34 | 0–34 | 0–34 |
+| [14 May 2018](2018-05-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 42 | 42 | 42 | 27–42 | 27–43 |
+| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 32 | 32–34 | 32–43 | 32–43 | 32–43 |
+| [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 54 | 44–60 | 39–60 | 39–60 | 35–61 |
+| [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 16 | 16 | 16–20 | 15–27 | 11–38 |
+| [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 18 | 18 | 18 | 16–18 | 16–29 |
+| [25–26 April 2018](2018-04-26-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 37 | 35–44 | 30–44 | 26–44 | 17–55 |
+| [25–26 April 2018](2018-04-26-Estymator.html) | Estymator <br> DoRzeczy.pl | 34 | 26–34 | 26–34 | 26–34 | 26–41 |
+| [19 April 2018](2018-04-19-IBRiS.html) | IBRiS <br> Onet | 44 | 42–44 | 41–44 | 34–44 | 34–44 |
+| [12–13 April 2018](2018-04-13-IPSOS.html) | IPSOS <br> OKO.press | 17 | 13–18 | 13–24 | 11–26 | 0–29 |
+| [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 19 | 0–23 | 0–23 | 0–23 | 0–37 |
+| [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 33 | 33 | 31–33 | 31–33 | 29–33 |
+| [6–7 April 2018](2018-04-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 47 | 47 | 39–47 | 37–47 | 27–47 |
+| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 35 | 31–40 | 31–44 | 31–50 | 21–50 |
+| [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 45 | 29–45 | 29–45 | 29–45 | 29–45 |
+| [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 67 | 59–68 | 59–71 | 59–77 | 59–77 |
+| [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 30 | 23–35 | 18–39 | 18–41 | 18–45 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 |  |  |  |  |  |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
