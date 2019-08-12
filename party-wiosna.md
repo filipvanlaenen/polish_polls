@@ -205,10 +205,10 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 66 | 59–81 | 54–85 | 40–85 | 40–85 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 66 | 65–68 | 65–68 | 57–68 | 57–70 |
 | [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 86 | 79–86 | 79–86 | 79–86 | 79–86 |
-| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 86 | 86–95 | 86–103 | 86–103 | 61–103 |
+| [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 86 | 77–98 | 76–103 | 75–106 | 71–107 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 37 | 29–40 | 28–42 | 28–44 | 23–46 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 57 | 55–63 | 55–63 | 55–74 | 53–74 |
-| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 79 | 70–103 | 70–103 | 70–103 | 64–104 |
+| [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 79 | 72–84 | 72–91 | 69–96 | 60–102 |
 | [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45 | 39–56 | 37–57 | 35–65 | 30–66 |
 | [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
 | [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 37 | 27–37 | 27–37 | 27–37 | 26–37 |
