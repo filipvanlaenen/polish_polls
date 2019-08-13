@@ -10,7 +10,10 @@ Last result: **3.6%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.8–2.2% | 0.7–2.5% | 0.6–2.7% | 0.5–3.1% |
+| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.3% | 0.7–2.6% | 0.6–2.8% | 0.5–3.2% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
@@ -148,10 +151,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 60% | 98.9% | Median |
-| 1.5–2.5% | 35% | 39% |  |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.0–0.5% | 1.5% | 100% |  |
+| 0.5–1.5% | 63% | 98.5% | Median |
+| 1.5–2.5% | 30% | 36% |  |
+| 2.5–3.5% | 5% | 5% |  |
 | 3.5–4.5% | 0.1% | 0.1% | Last Result |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -165,6 +168,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes |  |  |  |  |  |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes |  |  |  |  |  |
@@ -259,7 +265,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
-| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–15 | 0–15 | 0–15 | 0–15 |
+| [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0 | 0–2 | 0–6 | 0–11 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
@@ -277,7 +283,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [5–12 April 2018](2018-04-12-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [9–10 April 2018](2018-04-10-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [6–7 April 2018](2018-04-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0 | 0 | 0 | 0 |
-| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 10 | 0–13 | 0–13 | 0–13 | 0–24 |
+| [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 0 | 0 | 0–3 | 0–5 | 0–11 |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–5 | 0–10 | 0–10 | 0–10 |
@@ -287,12 +293,12 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [1–2 March 2018](2018-03-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
-| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 0 | 0 | 0 | 0 | 0 |
+| [26 February 2018](2018-02-26-IBRiS.html) | IBRiS | 0 | 0 | 0 | 0 | 0–10 |
 | [22 February 2018](2018-02-22-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 6 | 6 | 6 | 6 | 6 |
 | [21–22 February 2018](2018-02-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [16–21 February 2018](2018-02-21-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
-| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 9 | 0–13 | 0–13 | 0–13 | 0–13 |
+| [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0–8 | 0–13 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [5 February 2018](2018-02-05-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 

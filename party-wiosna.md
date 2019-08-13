@@ -10,7 +10,10 @@ Last result: **0.0%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.5% | 3.5–5.7% | 3.2–6.0% | 3.0–6.3% | 2.7–6.9% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.7–5.8% | 3.5–6.1% | 3.3–6.4% | 2.9–6.9% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
@@ -150,13 +153,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 13% | 99.8% |  |
-| 3.5–4.5% | 40% | 87% | Median |
-| 4.5–5.5% | 34% | 47% |  |
-| 5.5–6.5% | 12% | 13% |  |
-| 6.5–7.5% | 1.2% | 1.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 35% | 94% |  |
+| 4.5–5.5% | 42% | 59% | Median |
+| 5.5–6.5% | 16% | 17% |  |
+| 6.5–7.5% | 2% | 2% |  |
+| 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -168,7 +171,10 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–19 | 0–23 | 0–26 | 0–29 |
+| N/A | [Poll Average](average.html) | 0 | 0–21 | 0–25 | 0–27 | 0–29 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes |  |  |  |  |  |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes |  |  |  |  |  |
@@ -195,15 +201,15 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 46 | 42–55 | 41–57 | 39–63 | 35–69 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 45 | 39–52 | 38–57 | 37–59 | 34–65 |
 | [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 33 | 28–40 | 28–42 | 28–48 | 28–67 |
-| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 30 | 30 | 30 | 30 | 30–41 |
+| [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 36 | 29–42 | 29–46 | 28–48 | 27–52 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 10–29 | 10–31 | 9–31 | 0–34 |
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0–15 | 0–23 |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 0 | 0–27 | 0–27 | 0–28 | 0–33 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29 | 27–31 | 25–31 | 15–31 | 14–31 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 41 | 39–41 | 39–41 | 39–41 | 39–42 |
-| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 62 | 53–64 | 51–78 | 48–78 | 48–79 |
+| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 57 | 51–61 | 49–63 | 47–68 | 44–77 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 66 | 59–81 | 54–85 | 40–85 | 40–85 |
-| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 66 | 65–68 | 65–68 | 57–68 | 57–70 |
+| [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 66 | 57–69 | 51–70 | 51–74 | 51–74 |
 | [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 86 | 79–86 | 79–86 | 79–86 | 79–86 |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 86 | 77–98 | 76–103 | 75–106 | 71–107 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 37 | 29–40 | 28–42 | 28–44 | 23–46 |
@@ -308,39 +314,39 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 71% | 100% | Last Result, Median |
-| 1 | 0% | 29% |  |
-| 2 | 0% | 29% |  |
-| 3 | 0% | 29% |  |
-| 4 | 0% | 29% |  |
-| 5 | 0% | 29% |  |
-| 6 | 0% | 29% |  |
-| 7 | 0% | 29% |  |
-| 8 | 0.1% | 29% |  |
-| 9 | 0.1% | 29% |  |
-| 10 | 0.2% | 28% |  |
-| 11 | 1.2% | 28% |  |
-| 12 | 1.2% | 27% |  |
-| 13 | 0.9% | 26% |  |
-| 14 | 4% | 25% |  |
-| 15 | 4% | 21% |  |
-| 16 | 2% | 17% |  |
-| 17 | 3% | 15% |  |
-| 18 | 2% | 13% |  |
-| 19 | 1.2% | 11% |  |
-| 20 | 2% | 9% |  |
-| 21 | 1.1% | 8% |  |
-| 22 | 1.5% | 7% |  |
-| 23 | 0.6% | 5% |  |
-| 24 | 0.7% | 5% |  |
-| 25 | 0.8% | 4% |  |
-| 26 | 0.8% | 3% |  |
-| 27 | 0.8% | 2% |  |
-| 28 | 1.1% | 2% |  |
-| 29 | 0.2% | 0.6% |  |
-| 30 | 0.2% | 0.4% |  |
-| 31 | 0.1% | 0.2% |  |
-| 32 | 0.1% | 0.1% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 0% | 37% |  |
+| 2 | 0% | 37% |  |
+| 3 | 0% | 37% |  |
+| 4 | 0% | 37% |  |
+| 5 | 0% | 37% |  |
+| 6 | 0% | 37% |  |
+| 7 | 0% | 37% |  |
+| 8 | 0% | 37% |  |
+| 9 | 0% | 37% |  |
+| 10 | 0.1% | 37% |  |
+| 11 | 1.2% | 37% |  |
+| 12 | 1.5% | 36% |  |
+| 13 | 1.1% | 34% |  |
+| 14 | 5% | 33% |  |
+| 15 | 6% | 28% |  |
+| 16 | 2% | 22% |  |
+| 17 | 3% | 20% |  |
+| 18 | 2% | 17% |  |
+| 19 | 2% | 14% |  |
+| 20 | 2% | 13% |  |
+| 21 | 1.5% | 11% |  |
+| 22 | 2% | 9% |  |
+| 23 | 0.8% | 7% |  |
+| 24 | 0.9% | 6% |  |
+| 25 | 1.1% | 5% |  |
+| 26 | 1.0% | 4% |  |
+| 27 | 1.1% | 3% |  |
+| 28 | 1.5% | 2% |  |
+| 29 | 0.3% | 0.8% |  |
+| 30 | 0.2% | 0.5% |  |
+| 31 | 0.1% | 0.3% |  |
+| 32 | 0.1% | 0.2% |  |
 | 33 | 0% | 0.1% |  |
 | 34 | 0% | 0% |  |
 
