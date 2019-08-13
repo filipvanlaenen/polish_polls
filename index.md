@@ -5,10 +5,11 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | PiS | KO | PO | KP | K | .N | PSL | SLD | W | R | Wi | MN | RSW |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 October 2015 | General Election | 37.6% <br> 235 | 31.7% <br> 166 | 24.1% <br> 138 | 13.9% <br> 58 | 8.8% <br> 42 | 7.6% <br> 28 | 5.1% <br> 16 | 7.6% <br> 0 | 4.8% <br> 0 | 3.6% <br> 0 | 0.0% <br> 0 | 0.2% <br> 1 | 11.7% <br> 0 |
-| N/A | [Poll Average](average.html) | 37–49% <br> 241–309 | 20–32% <br> 111–196 | N/A <br> N/A | N/A <br> N/A | 3–7% <br> 0–28 | N/A <br> N/A | 2–7% <br> 0–28 | 2–5% <br> 0–11 | 2–4% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–26 | N/A <br> N/A | 10–15% <br> 42–69 |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 44–50% <br> 235–271 | 24–30% <br> 118–151 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 5–8% <br> 0–24 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 11–15% <br> 44–69 |
+| N/A | [Poll Average](average.html) | 38–48% <br> 234–308 | 20–32% <br> 112–194 | N/A <br> N/A | N/A <br> N/A | 2–7% <br> 0–28 | N/A <br> N/A | 2–7% <br> 0–28 | 2–4% <br> 0 | 2–5% <br> 0 | 1–3% <br> 0 | 3–6% <br> 0–27 | N/A <br> N/A | 10–16% <br> 40–73 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 42–48% <br> 233–269 | 28–33% <br> 143–173 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 4–7% <br> 0–21 | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 37–61 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 43–49% <br> 227–262 | 24–29% <br> 115–146 | N/A <br> N/A | N/A <br> N/A | 2–4% <br> 0 | N/A <br> N/A | 5–8% <br> 11–27 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 13–17% <br> 50–77 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 40–46% <br> 236–250 | 24–30% <br> 133–146 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–15 | N/A <br> N/A | 4–6% <br> 0–22 | N/A <br> N/A | 3–5% <br> 0–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 61–68 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 42–48% <br> 256–297 | 19–24% <br> 104–146 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–11 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | 2–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–13% <br> 42–71 |
-| [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 42–48% <br> 248–292 | 27–33% <br> 154–190 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–18 | N/A <br> N/A | 4–7% <br> 0–24 | 3–6% <br> 0–15 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–9 | N/A <br> N/A | N/A <br> N/A |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 36–42% <br> 244–284 | 26–32% <br> 166–207 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–15 | N/A <br> N/A | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 | 4–7% <br> 0–28 | N/A <br> N/A | N/A <br> N/A |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 39–45% <br> 249–289 | 24–30% <br> 147–183 | N/A <br> N/A | N/A <br> N/A | 5–8% <br> 0–35 | N/A <br> N/A | 2–4% <br> 0 | 1–3% <br> 0 | 2–4% <br> 0 | 1–3% <br> 0 | 4–7% <br> 0–27 | N/A <br> N/A | N/A <br> N/A |
 | [4–11 July 2019](2019-07-11-CBOS.html) | CBOS | 41–47% <br> 275–319 | 20–24% <br> 121–157 | N/A <br> N/A | N/A <br> N/A | 3–5% <br> 0–15 | N/A <br> N/A | 5–8% <br> 0–35 | 2–4% <br> 0 | 2–4% <br> 0 | 1–2% <br> 0 | 3–5% <br> 0–18 | N/A <br> N/A | N/A <br> N/A |
@@ -39,4 +40,6 @@ Only polls for which at least the sample size has been published are included in
 ![Graph with voting intentions not yet produced](average.png "Voting Intentions")
 
 ![Graph with seats not yet produced](average-seats.png "Seats")
+
+![Graph with seating plan not yet produced](average-seating-plan.png "Seating Plan")
 ![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
