@@ -260,7 +260,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [28 June–5 July 2018](2018-07-05-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [27–28 June 2018](2018-06-28-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
-| [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 17 | 0–17 | 0–17 | 0–17 | 0–17 |
+| [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7 | 0–14 | 0–19 | 0–19 | 0–25 |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
@@ -286,7 +286,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [4–5 April 2018](2018-04-05-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 0 | 0 | 0–3 | 0–5 | 0–11 |
 | [4–5 April 2018](2018-04-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [4 April 2018](2018-04-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
-| [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–5 | 0–10 | 0–10 | 0–10 |
+| [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–3 | 0–4 | 0–8 | 0–12 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
