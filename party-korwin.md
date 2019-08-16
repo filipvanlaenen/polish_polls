@@ -177,7 +177,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0–2 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
-| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 0 | 0–4 | 0–5 | 0–5 | 0–5 |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 0 | 0 | 0–5 | 0–5 | 0–6 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0 | 0 | 0 | 0 | 0 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0 | 0 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–12 |
@@ -242,7 +242,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [1 October 2018](2018-10-01-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [22–23 September 2018](2018-09-23-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0 |
 | [20–21 September 2018](2018-09-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
-| [14–17 September 2018](2018-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 18 | 12–18 | 12–18 | 0–18 | 0–18 |
+| [14–17 September 2018](2018-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–23 | 0–25 | 0–27 | 0–34 |
 | [6–13 September 2018](2018-09-13-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [7–12 September 2018](2018-09-12-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [25 August–1 September 2018](2018-09-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
@@ -274,7 +274,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [14 May 2018](2018-05-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
-| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0 | 0 | 0 | 0 |
+| [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0 | 0 | 0–3 | 0–9 |
 | [10–11 May 2018](2018-05-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [27–29 April 2018](2018-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 0 | 0 | 0–4 | 0–8 | 0–13 |
 | [25–27 April 2018](2018-04-27-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Nowa TV, se.pl and Super Express | 0 | 0 | 0 | 0 | 0 |

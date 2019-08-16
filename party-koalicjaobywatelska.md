@@ -188,7 +188,7 @@ Last result: **166** seats (General Election of 25 October 2015)
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 131 | 109–143 | 106–143 | 104–146 | 99–147 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 143 | 132–148 | 128–151 | 124–152 | 118–157 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 170 | 159–184 | 157–189 | 154–190 | 149–197 |
-| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 144 | 144–165 | 144–167 | 144–167 | 144–168 |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 153 | 145–170 | 142–171 | 138–171 | 135–179 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 186 | 173–198 | 169–203 | 166–207 | 158–213 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 162 | 152–176 | 149–179 | 147–183 | 141–189 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 157 | 149–172 | 145–176 | 143–178 | 138–185 |

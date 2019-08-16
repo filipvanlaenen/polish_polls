@@ -179,7 +179,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–9 | 0–13 |
-| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 30 | 0–31 | 0–31 | 0–31 | 0–31 |
+| [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 13 | 8–27 | 0–27 | 0–28 | 0–31 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 14 | 0–25 | 0–27 | 0–28 | 0–31 |
 | [12–15 July 2019](2019-07-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 11 | 0–21 | 0–25 | 0–27 | 0–29 |
 | [12–13 July 2019](2019-07-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–9 | 0–12 | 0–15 | 0–21 |
@@ -206,18 +206,18 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0–15 | 0–23 |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 0 | 0–27 | 0–27 | 0–28 | 0–33 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28 | 19–35 | 16–36 | 12–37 | 10–41 |
-| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 41 | 39–41 | 39–41 | 39–41 | 39–42 |
+| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 35 | 30–44 | 29–46 | 28–49 | 27–51 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 57 | 51–61 | 49–63 | 47–68 | 44–77 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 57 | 47–70 | 47–73 | 46–75 | 39–77 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 54 | 50–70 | 49–75 | 47–76 | 44–78 |
-| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 86 | 79–86 | 79–86 | 79–86 | 79–86 |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 83 | 74–88 | 73–93 | 71–95 | 66–102 |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 86 | 77–98 | 76–103 | 75–106 | 71–107 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 37 | 29–40 | 28–42 | 28–44 | 23–46 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 57 | 55–63 | 55–63 | 55–74 | 53–74 |
 | [4–5 February 2019](2019-02-05-KantarMillwardBrown.html) | Kantar Millward Brown | 79 | 72–84 | 72–91 | 69–96 | 60–102 |
 | [30 January 2019](2019-01-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 45 | 39–56 | 37–57 | 35–65 | 30–66 |
 | [26–27 January 2019](2019-01-27-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 37 | 27–37 | 27–37 | 27–37 | 26–37 |
+| [25–26 January 2019](2019-01-26-IBRiS.html) | IBRiS <br> Onet | 24 | 0–36 | 0–38 | 0–40 | 0–40 |
 | [23–24 January 2019](2019-01-24-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [10–17 January 2019](2019-01-17-CBOS.html) | CBOS |  |  |  |  |  |
 | [11–16 January 2019](2019-01-16-KantarPublic.html) | Kantar Public |  |  |  |  |  |
