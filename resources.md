@@ -8,7 +8,7 @@ The following resources have been consulted in order to create this site:
 + Wikipedia page about the opinion polls for the 2019 legislative election: "[Opinion polling for the 2019 Polish parliamentary election](https://en.wikipedia.org/wiki/Opinion_polling_for_the_2019_Polish_parliamentary_election)"
 + Wikipedia page about the 2015 legislative election: "[2015 Polish parliamentary election](https://en.wikipedia.org/wiki/2015_Polish_parliamentary_election)"
 + Official page with the detailed results of the 2015 legislative election: "[PKW - Wybory do Sejmu RP i Senatu RP](https://parlament2015.pkw.gov.pl/355_Wyniki_Sejm_XLS)"
-+ Information about the electoral system in Austria: "[IPU PARLINE database: POLAND (Sejm), Electoral system](http://archive.ipu.org/parline/reports/2255_b.htm)"
++ Information about the electoral system in Poland: "[IPU PARLINE database: POLAND (Sejm), Electoral system](http://archive.ipu.org/parline/reports/2255_b.htm)"
 
 ## Similar Websites
 
