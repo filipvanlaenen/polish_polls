@@ -190,14 +190,14 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [21–26 June 2019](2019-06-26-SocialChanges.html) | Social Changes | 0 | 0–16 | 0–17 | 0–20 | 0–22 |
 | [19–20 June 2019](2019-06-20-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–14 | 0–16 | 0–18 | 0–23 |
 | [6–13 June 2019](2019-06-13-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0–11 |
-| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0–23 | 0–24 | 0–28 | 0–30 |
-| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 0 | 0–20 | 0–20 | 0–23 | 0–24 |
+| [7–8 June 2019](2019-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 0–24 | 0–24 | 0–26 | 0–29 |
+| [31 May–5 June 2019](2019-06-05-SocialChanges.html) | Social Changes | 0 | 0–18 | 0–20 | 0–22 | 0–24 |
 | [24–29 May 2019](2019-05-29-SocialChanges.html) | Social Changes | 15 | 0–23 | 0–24 | 0–25 | 0–27 |
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 0 | 0 | 0 | 0–18 | 0–21 |
-| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 0 | 0–15 | 0–18 | 0–18 | 0–23 |
+| [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 0 | 0–16 | 0–18 | 0–20 | 0–23 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 23 | 0–28 | 0–28 | 0–28 | 0–33 |
-| [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 19 | 13–23 | 13–24 | 0–25 | 0–25 |
-| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 24 | 13–26 | 0–26 | 0–26 | 0–29 |
+| [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 22 | 15–23 | 13–24 | 0–25 | 0–26 |
+| [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 17 | 0–26 | 0–26 | 0–26 | 0–29 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0 | 0–15 | 0–19 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 18 | 14–25 | 13–25 | 0–25 | 0–30 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 14 | 0–22 | 0–24 | 0–24 | 0–26 |
@@ -227,13 +227,13 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [4 January 2019](2019-01-04-IBRiS.html) | IBRiS <br> Rzeczpospolita | 29 | 23–33 | 20–36 | 19–36 | 0–40 |
 | [13–14 December 2018](2018-12-14-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 12 | 0–19 | 0–21 | 0–21 | 0–24 |
 | [12–13 December 2018](2018-12-13-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 12–26 | 12–27 | 11–27 | 0–29 |
-| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0–19 |
-| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 42 | 37–42 | 37–42 | 32–42 | 22–54 |
+| [30 November–11 December 2018](2018-12-11-KantarPublic.html) | Kantar Public | 0 | 0 | 0–20 | 0–22 | 0–24 |
+| [29 November–9 December 2018](2018-12-09-CBOS.html) | CBOS | 30 | 23–37 | 23–38 | 21–39 | 19–44 |
 | [7–8 December 2018](2018-12-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 0–22 | 0–23 | 0–24 | 0–27 |
 | [23–24 November 2018](2018-11-24-IBRiS.html) | IBRiS <br> Onet | 0 | 0–17 | 0–21 | 0–22 | 0–24 |
 | [20–21 November 2018](2018-11-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–13 | 0–16 | 0–17 | 0–22 |
 | [19–20 November 2018](2018-11-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–19 | 0–22 | 0–23 | 0–24 |
-| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0–23 |
+| [9–15 November 2018](2018-11-15-KantarPublic.html) | Kantar Public | 0 | 0–23 | 0–24 | 0–26 | 0–28 |
 | [8–15 November 2018](2018-11-15-CBOS.html) | CBOS | 28 | 23–37 | 22–38 | 20–41 | 19–47 |
 | [13 November 2018](2018-11-13-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0–16 | 0–17 | 0–23 |
 | [8–9 November 2018](2018-11-09-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0–17 | 0–21 | 0–23 |
@@ -251,11 +251,11 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [25 August–1 September 2018](2018-09-01-IBRiS.html) | IBRiS <br> Rzeczpospolita | 18 | 0–21 | 0–22 | 0–23 | 0–24 |
 | [22–23 August 2018](2018-08-23-Estymator.html) | Estymator <br> DoRzeczy.pl | 23 | 17–26 | 14–28 | 14–29 | 11–33 |
 | [16–23 August 2018](2018-08-23-CBOS.html) | CBOS | 20 | 0–23 | 0–23 | 0–26 | 0–30 |
-| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 22 | 20–27 | 17–29 | 0–33 | 0–35 |
+| [17–19 August 2018](2018-08-19-IPSOS.html) | IPSOS <br> OKO.press | 23 | 16–29 | 15–30 | 0–32 | 0–35 |
 | [11 August 2018](2018-08-11-KantarPublic.html) | Kantar Public <br> Gazeta Prawna | 0 | 0 | 0–18 | 0–19 | 0–23 |
 | [11 August 2018](2018-08-11-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 0–24 | 0–24 | 0–24 | 0–28 |
 | [9–10 August 2018](2018-08-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–12 | 0–13 | 0–15 | 0–19 |
-| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 0 | 0 | 0–14 | 0–18 | 0–21 |
+| [8–10 August 2018](2018-08-10-CBMIndicator.html) | CBM Indicator <br> TVP1 | 0 | 0–15 | 0–16 | 0–18 | 0–23 |
 | [8–9 August 2018](2018-08-09-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 13–24 | 11–26 | 0–27 | 0–31 |
 | [27 July 2018](2018-07-27-IBRiS.html) | IBRiS | 23 | 0–26 | 0–27 | 0–29 | 0–33 |
 | [11–12 July 2018](2018-07-12-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 20 | 13–24 | 0–24 | 0–25 | 0–28 |
@@ -269,7 +269,7 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 0–21 | 0–22 | 0–23 | 0–26 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 0 | 0 | 0–17 | 0–21 | 0–23 |
-| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 25 | 19–27 | 0–28 | 0–33 | 0–40 |
+| [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 26 | 21–29 | 16–29 | 0–31 | 0–38 |
 | [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–19 | 0–21 | 0–22 | 0–24 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0–20 | 0–24 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 17 | 0–23 | 0–27 | 0–28 | 0–30 |
@@ -294,7 +294,7 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [29–30 March 2018](2018-03-30-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 19 | 0–24 | 0–27 | 0–27 | 0–28 |
 | [26–27 March 2018](2018-03-27-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 21 | 0–26 | 0–27 | 0–28 | 0–31 |
 | [21–22 March 2018](2018-03-22-Estymator.html) | Estymator <br> DoRzeczy.pl | 12 | 0–20 | 0–21 | 0–23 | 0–23 |
-| [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet | 0 | 0–17 | 0–17 | 0–18 | 0–20 |
+| [17 March 2018](2018-03-17-IBRiS.html) | IBRiS <br> Onet | 0 | 0–18 | 0–19 | 0–20 | 0–22 |
 | [9–14 March 2018](2018-03-14-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
 | [1–8 March 2018](2018-03-08-CBOS.html) | CBOS | 0 | 0–23 | 0–25 | 0–29 | 0–30 |
 | [1–2 March 2018](2018-03-02-IBRiS.html) | IBRiS <br> Rzeczpospolita | 16 | 0–23 | 0–24 | 0–25 | 0–28 |
@@ -305,7 +305,7 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [19–20 February 2018](2018-02-20-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 19 | 0–24 | 0–25 | 0–29 | 0–31 |
 | [20 February 2018](2018-02-20-IBRiS.html) | IBRiS <br> Onet | 24 | 21–29 | 19–35 | 18–38 | 16–41 |
 | [1–8 February 2018](2018-02-08-CBOS.html) | CBOS | 0 | 0 | 0–19 | 0–23 | 0–23 |
-| [5 February 2018](2018-02-05-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 16–28 | 0–31 | 0–32 | 0–35 |
+| [5 February 2018](2018-02-05-IBRiS.html) | IBRiS <br> Rzeczpospolita | 23 | 16–28 | 0–31 | 0–33 | 0–39 |
 
 ### Probability Mass Function
 
@@ -332,17 +332,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 3% | 37% |  |
 | 15 | 3% | 34% |  |
 | 16 | 4% | 31% | Last Result |
-| 17 | 2% | 27% |  |
+| 17 | 2% | 28% |  |
 | 18 | 1.0% | 26% |  |
 | 19 | 2% | 25% |  |
 | 20 | 2% | 23% |  |
 | 21 | 4% | 21% |  |
-| 22 | 3% | 17% |  |
-| 23 | 6% | 14% |  |
-| 24 | 2% | 8% |  |
+| 22 | 3% | 16% |  |
+| 23 | 6% | 13% |  |
+| 24 | 1.4% | 8% |  |
 | 25 | 0.8% | 6% |  |
-| 26 | 0.4% | 5% |  |
-| 27 | 1.3% | 5% |  |
+| 26 | 0.5% | 5% |  |
+| 27 | 1.2% | 5% |  |
 | 28 | 1.5% | 4% |  |
 | 29 | 0.5% | 2% |  |
 | 30 | 0.8% | 2% |  |
