@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Fri, 16 Aug 2019 12:15:59 +0200</pubDate>
+    <pubDate>Fri, 16 Aug 2019 23:24:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-07-SocialChanges.png"
         length="192216"
         type="image/png"/>
-      <pubDate>Tue, 13 Aug 2019 17:46:58 +0200</pubDate>
-      <dc:date>2019-08-13T17:46:58.536776+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 23:24:28 +0200</pubDate>
+      <dc:date>2019-08-16T23:24:28.949939+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Voting Intentions</title>
@@ -50,14 +50,34 @@
       <dc:date>2019-08-12T11:08:48.924383+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by IBRiS for RMF, 26–27 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 259–297 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0–11 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna: 43–67 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 107–143 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS-seats.png"
+        length="136416"
+        type="image/png"/>
+      <pubDate>Fri, 16 Aug 2019 23:15:54 +0200</pubDate>
+      <dc:date>2019-08-16T23:15:54.189702+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IBRiS for RMF, 26–27 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS-coalitions-seats.png"
+        length="146251"
+        type="image/png"/>
+      <pubDate>Fri, 16 Aug 2019 23:15:54 +0200</pubDate>
+      <dc:date>2019-08-16T23:15:54.189702+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by IBRiS for RMF, 26–27 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 41.6–47.5%&lt;/li&gt;&lt;li&gt;Kukiz’15: 3.1–5.4%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 1.3–3.0%&lt;/li&gt;&lt;li&gt;KORWiN: 1.5–3.3%&lt;/li&gt;&lt;li&gt;Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna: 9.4–13.2%&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 19.4–24.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-27-IBRiS.png"
         length="189701"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 13:00:47 +0200</pubDate>
-      <dc:date>2019-08-12T13:00:47.692171+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 23:15:54 +0200</pubDate>
+      <dc:date>2019-08-16T23:15:54.189702+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 19–24 July 2019 – Voting Intentions</title>
@@ -346,8 +366,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-08-IBRiS.png"
         length="230546"
         type="image/png"/>
-      <pubDate>Wed, 31 Jul 2019 07:00:02 +0200</pubDate>
-      <dc:date>2019-07-31T07:00:02.522646+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 22:12:14 +0200</pubDate>
+      <dc:date>2019-08-16T22:12:14.471521+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 31 May–5 June 2019 – Voting Intentions</title>
@@ -356,8 +376,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-06-05-SocialChanges.png"
         length="234405"
         type="image/png"/>
-      <pubDate>Wed, 24 Jul 2019 07:03:08 +0200</pubDate>
-      <dc:date>2019-07-24T07:03:08.939661+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 22:27:26 +0200</pubDate>
+      <dc:date>2019-08-16T22:27:26.626448+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 24–29 May 2019 – Voting Intentions</title>
@@ -386,8 +406,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-05-15-SocialChanges.png"
         length="225481"
         type="image/png"/>
-      <pubDate>Mon, 22 Jul 2019 06:58:42 +0200</pubDate>
-      <dc:date>2019-07-22T06:58:42.739009+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 19:04:54 +0200</pubDate>
+      <dc:date>2019-08-16T19:04:54.553761+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, 10–15 May 2019 – Voting Intentions</title>
@@ -406,8 +426,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-05-04-PracowniaAnalizSpołeczno-Politycznych.png"
         length="243536"
         type="image/png"/>
-      <pubDate>Thu, 01 Aug 2019 07:00:12 +0200</pubDate>
-      <dc:date>2019-08-01T07:00:12.634236+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 13:46:42 +0200</pubDate>
+      <dc:date>2019-08-16T13:46:42.94015+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 26–30 April 2019 – Voting Intentions</title>
@@ -416,8 +436,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-04-30-SocialChanges.png"
         length="227035"
         type="image/png"/>
-      <pubDate>Wed, 14 Aug 2019 11:16:31 +0200</pubDate>
-      <dc:date>2019-08-14T11:16:31.333014+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 13:39:30 +0200</pubDate>
+      <dc:date>2019-08-16T13:39:30.097111+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 26–29 April 2019 – Voting Intentions</title>
@@ -586,8 +606,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-02-06-InstytutBadańSprawNarodowościowych.png"
         length="242960"
         type="image/png"/>
-      <pubDate>Sat, 10 Aug 2019 18:39:09 +0200</pubDate>
-      <dc:date>2019-08-10T18:39:09.593951+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 13:14:26 +0200</pubDate>
+      <dc:date>2019-08-16T13:14:26.108058+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Millward Brown, 4–5 February 2019 – Voting Intentions</title>
@@ -716,8 +736,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-12-11-KantarPublic.png"
         length="204975"
         type="image/png"/>
-      <pubDate>Sat, 10 Aug 2019 20:23:58 +0200</pubDate>
-      <dc:date>2019-08-10T20:23:58.807862+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 12:58:49 +0200</pubDate>
+      <dc:date>2019-08-16T12:58:49.630271+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 29 November–9 December 2018 – Voting Intentions</title>
@@ -726,8 +746,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-12-09-CBOS.png"
         length="213409"
         type="image/png"/>
-      <pubDate>Sat, 10 Aug 2019 20:35:16 +0200</pubDate>
-      <dc:date>2019-08-10T20:35:16.870092+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 12:33:54 +0200</pubDate>
+      <dc:date>2019-08-16T12:33:54.553187+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for Rzeczpospolita, 7–8 December 2018 – Voting Intentions</title>
@@ -776,8 +796,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-11-15-KantarPublic.png"
         length="202755"
         type="image/png"/>
-      <pubDate>Sat, 10 Aug 2019 21:09:12 +0200</pubDate>
-      <dc:date>2019-08-10T21:09:12.316841+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 12:46:14 +0200</pubDate>
+      <dc:date>2019-08-16T12:46:14.083281+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 8–15 November 2018 – Voting Intentions</title>
@@ -956,8 +976,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-08-19-IPSOS.png"
         length="221338"
         type="image/png"/>
-      <pubDate>Tue, 13 Aug 2019 23:51:24 +0200</pubDate>
-      <dc:date>2019-08-13T23:51:24.351156+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 19:14:00 +0200</pubDate>
+      <dc:date>2019-08-16T19:14:00.029462+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public for Gazeta Prawna, 11 August 2018 – Voting Intentions</title>
@@ -996,8 +1016,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-08-10-CBMIndicator.png"
         length="224104"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 13:16:37 +0200</pubDate>
-      <dc:date>2019-08-12T13:16:37.929029+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 13:27:15 +0200</pubDate>
+      <dc:date>2019-08-16T13:27:15.818547+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 8–9 August 2018 – Voting Intentions</title>
@@ -1136,8 +1156,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-06-08-IBRiS.png"
         length="229505"
         type="image/png"/>
-      <pubDate>Thu, 15 Aug 2019 22:48:30 +0200</pubDate>
-      <dc:date>2019-08-15T22:48:30.157128+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 22:16:49 +0200</pubDate>
+      <dc:date>2019-08-16T22:16:49.602295+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for TVP1, 6–7 June 2018 – Voting Intentions</title>
@@ -1386,8 +1406,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-03-17-IBRiS.png"
         length="221121"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 23:38:36 +0200</pubDate>
-      <dc:date>2019-08-12T23:38:36.889558+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 22:21:58 +0200</pubDate>
+      <dc:date>2019-08-16T22:21:58.959736+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 9–14 March 2018 – Voting Intentions</title>
@@ -1496,9 +1516,9 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-02-05-IBRiS.png"
         length="217297"
         type="image/png"/>
-      <pubDate>Fri, 16 Aug 2019 12:15:59 +0200</pubDate>
-      <dc:date>2019-08-16T12:15:59.034767+02:00</dc:date>
+      <pubDate>Fri, 16 Aug 2019 12:22:48 +0200</pubDate>
+      <dc:date>2019-08-16T12:22:48.400422+02:00</dc:date>
     </item>
-    <dc:date>2019-08-16T12:15:59.034767+02:00</dc:date>
+    <dc:date>2019-08-16T23:24:28.949939+02:00</dc:date>
   </channel>
 </rss>
