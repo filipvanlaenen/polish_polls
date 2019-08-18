@@ -8,7 +8,27 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Fri, 16 Aug 2019 23:24:28 +0200</pubDate>
+    <pubDate>Sun, 18 Aug 2019 20:04:20 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 231–268 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–21 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna: 35–60 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 142–173 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator-seats.png"
+        length="144583"
+        type="image/png"/>
+      <pubDate>Sun, 18 Aug 2019 20:04:20 +0200</pubDate>
+      <dc:date>2019-08-18T20:04:20.746924+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator-coalitions-seats.png"
+        length="151051"
+        type="image/png"/>
+      <pubDate>Sun, 18 Aug 2019 20:04:20 +0200</pubDate>
+      <dc:date>2019-08-18T20:04:20.746924+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html</link>
@@ -16,8 +36,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.png"
         length="192714"
         type="image/png"/>
-      <pubDate>Wed, 14 Aug 2019 11:10:38 +0200</pubDate>
-      <dc:date>2019-08-14T11:10:38.978471+02:00</dc:date>
+      <pubDate>Sun, 18 Aug 2019 20:04:20 +0200</pubDate>
+      <dc:date>2019-08-18T20:04:20.746924+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 2–7 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-08-07-SocialChanges.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 227–262 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 11–27 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna: 50–77 seats&lt;/li&gt;&lt;li&gt;Koalicja Obywatelska: 114–147 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-07-SocialChanges-seats.png"
+        length="142747"
+        type="image/png"/>
+      <pubDate>Sun, 18 Aug 2019 10:10:14 +0200</pubDate>
+      <dc:date>2019-08-18T10:10:14.217183+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Social Changes, 2–7 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-08-07-SocialChanges.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-07-SocialChanges-coalitions-seats.png"
+        length="152328"
+        type="image/png"/>
+      <pubDate>Sun, 18 Aug 2019 10:10:14 +0200</pubDate>
+      <dc:date>2019-08-18T10:10:14.217183+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 2–7 August 2019 – Voting Intentions</title>
@@ -26,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-07-SocialChanges.png"
         length="192216"
         type="image/png"/>
-      <pubDate>Fri, 16 Aug 2019 23:24:28 +0200</pubDate>
-      <dc:date>2019-08-16T23:24:28.949939+02:00</dc:date>
+      <pubDate>Sun, 18 Aug 2019 10:10:14 +0200</pubDate>
+      <dc:date>2019-08-18T10:10:14.217183+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Instytut Badań Pollster for Super Express, 6–7 August 2019 – Voting Intentions</title>
@@ -36,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-08-07-InstytutBadańPollster.png"
         length="197271"
         type="image/png"/>
-      <pubDate>Wed, 14 Aug 2019 10:35:42 +0200</pubDate>
-      <dc:date>2019-08-14T10:35:42.199993+02:00</dc:date>
+      <pubDate>Sun, 18 Aug 2019 10:26:50 +0200</pubDate>
+      <dc:date>2019-08-18T10:26:50.586233+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Social Changes, 26–31 July 2019 – Voting Intentions</title>
@@ -46,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-07-31-SocialChanges.png"
         length="192492"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 11:08:48 +0200</pubDate>
-      <dc:date>2019-08-12T11:08:48.924383+02:00</dc:date>
+      <pubDate>Sat, 17 Aug 2019 22:16:04 +0200</pubDate>
+      <dc:date>2019-08-17T22:16:04.127223+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IBRiS for RMF, 26–27 July 2019 – Seat Projections for the Parties</title>
@@ -1519,6 +1559,6 @@
       <pubDate>Fri, 16 Aug 2019 12:22:48 +0200</pubDate>
       <dc:date>2019-08-16T12:22:48.400422+02:00</dc:date>
     </item>
-    <dc:date>2019-08-16T23:24:28.949939+02:00</dc:date>
+    <dc:date>2019-08-18T20:04:20.746924+02:00</dc:date>
   </channel>
 </rss>
