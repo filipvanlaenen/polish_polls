@@ -174,8 +174,8 @@ Last result: **16** seats (General Election of 25 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–23 | 0–26 | 0–28 | 0–33 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 0–17 | 0–19 | 0–21 | 0–23 |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 21 | 14–25 | 12–27 | 11–27 | 0–30 |
-| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 11 | 0–18 | 0–20 | 0–22 | 0–23 |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 21 | 15–25 | 12–27 | 11–27 | 0–30 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–17 | 0–20 | 0–22 | 0–23 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 16 | 11–22 | 0–23 | 0–24 | 0–27 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–14 | 0–15 | 0–18 |
@@ -327,23 +327,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 0% | 42% |  |
 | 10 | 0.1% | 42% |  |
 | 11 | 2% | 42% |  |
-| 12 | 2% | 41% |  |
+| 12 | 2% | 40% |  |
 | 13 | 2% | 38% |  |
-| 14 | 3% | 37% |  |
+| 14 | 2% | 36% |  |
 | 15 | 3% | 34% |  |
-| 16 | 4% | 31% | Last Result |
+| 16 | 4% | 32% | Last Result |
 | 17 | 2% | 28% |  |
-| 18 | 1.0% | 26% |  |
+| 18 | 1.3% | 26% |  |
 | 19 | 2% | 25% |  |
 | 20 | 2% | 23% |  |
 | 21 | 4% | 21% |  |
-| 22 | 3% | 16% |  |
-| 23 | 6% | 13% |  |
-| 24 | 1.4% | 8% |  |
-| 25 | 0.8% | 6% |  |
+| 22 | 3% | 17% |  |
+| 23 | 5% | 13% |  |
+| 24 | 2% | 8% |  |
+| 25 | 0.9% | 6% |  |
 | 26 | 0.5% | 5% |  |
-| 27 | 1.2% | 5% |  |
-| 28 | 1.5% | 4% |  |
+| 27 | 1.1% | 5% |  |
+| 28 | 2% | 4% |  |
 | 29 | 0.5% | 2% |  |
 | 30 | 0.8% | 2% |  |
 | 31 | 0.2% | 1.0% |  |

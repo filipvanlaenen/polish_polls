@@ -173,7 +173,7 @@ Last result: **42** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 0 | 0–17 | 0–24 | 0–28 | 0–35 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
-| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 0–10 | 0–12 | 0–15 | 0–21 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 3 | 0–10 | 0–12 | 0–14 | 0–19 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0–9 | 0–11 | 0–15 |
 | [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
@@ -316,21 +316,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 77% | 100% | Median |
 | 1 | 0% | 23% |  |
 | 2 | 0% | 23% |  |
-| 3 | 0.8% | 23% |  |
-| 4 | 0.8% | 23% |  |
-| 5 | 1.0% | 22% |  |
-| 6 | 1.0% | 21% |  |
-| 7 | 0.8% | 20% |  |
-| 8 | 0.6% | 19% |  |
-| 9 | 0.9% | 18% |  |
+| 3 | 0.5% | 23% |  |
+| 4 | 1.0% | 23% |  |
+| 5 | 1.5% | 22% |  |
+| 6 | 1.1% | 20% |  |
+| 7 | 0.7% | 19% |  |
+| 8 | 0.8% | 19% |  |
+| 9 | 0.7% | 18% |  |
 | 10 | 2% | 17% |  |
-| 11 | 1.1% | 15% |  |
+| 11 | 1.2% | 15% |  |
 | 12 | 0.7% | 14% |  |
 | 13 | 0.8% | 14% |  |
 | 14 | 0.5% | 13% |  |
 | 15 | 1.4% | 12% |  |
 | 16 | 0.7% | 11% |  |
-| 17 | 1.1% | 10% |  |
+| 17 | 1.0% | 10% |  |
 | 18 | 0.4% | 9% |  |
 | 19 | 0.5% | 9% |  |
 | 20 | 0.9% | 8% |  |
