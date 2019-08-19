@@ -178,7 +178,7 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–17 | 0–20 | 0–22 | 0–23 |
 | [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 16 | 11–22 | 0–23 | 0–24 | 0–27 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–14 | 0–15 | 0–18 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–14 | 0–16 | 0–18 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 0–22 | 0–23 | 0–24 | 0–27 |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 16 | 0–25 | 0–26 | 0–27 | 0–28 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0 | 0 | 0 | 0 | 0 |
@@ -330,7 +330,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 2% | 40% |  |
 | 13 | 2% | 38% |  |
 | 14 | 2% | 36% |  |
-| 15 | 3% | 34% |  |
+| 15 | 2% | 34% |  |
 | 16 | 4% | 32% | Last Result |
 | 17 | 2% | 28% |  |
 | 18 | 1.3% | 26% |  |

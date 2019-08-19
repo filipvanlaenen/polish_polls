@@ -177,9 +177,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 45 | 39–54 | 37–57 | 35–60 | 32–64 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 65 | 57–71 | 53–75 | 50–77 | 47–82 |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 65 | 57–73 | 54–76 | 51–78 | 48–81 |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 58 | 48–65 | 46–67 | 44–68 | 41–73 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 58 | 48–65 | 46–66 | 44–68 | 42–73 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 54 | 45–65 | 43–66 | 43–67 | 40–73 |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 65 | 56–71 | 52–74 | 51–76 | 48–79 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 65 | 55–72 | 52–74 | 51–77 | 48–79 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET |  |  |  |  |  |
@@ -373,31 +373,31 @@ The following table shows the probability mass function per seat for the [poll a
 | 54 | 2% | 63% |  |
 | 55 | 2% | 61% |  |
 | 56 | 3% | 59% |  |
-| 57 | 2% | 56% |  |
+| 57 | 2% | 57% |  |
 | 58 | 2% | 55% |  |
 | 59 | 2% | 52% |  |
 | 60 | 2% | 51% | Median |
-| 61 | 3% | 49% |  |
+| 61 | 4% | 49% |  |
 | 62 | 4% | 45% |  |
-| 63 | 5% | 42% |  |
+| 63 | 5% | 41% |  |
 | 64 | 6% | 36% |  |
 | 65 | 8% | 30% |  |
 | 66 | 4% | 22% |  |
 | 67 | 4% | 18% |  |
 | 68 | 3% | 14% |  |
-| 69 | 1.4% | 10% |  |
+| 69 | 2% | 11% |  |
 | 70 | 2% | 9% |  |
-| 71 | 1.2% | 7% |  |
+| 71 | 1.1% | 7% |  |
 | 72 | 0.9% | 6% |  |
-| 73 | 1.0% | 5% |  |
-| 74 | 0.9% | 4% |  |
-| 75 | 0.6% | 3% |  |
+| 73 | 1.1% | 5% |  |
+| 74 | 0.8% | 4% |  |
+| 75 | 0.7% | 3% |  |
 | 76 | 0.6% | 2% |  |
 | 77 | 0.6% | 2% |  |
 | 78 | 0.5% | 1.3% |  |
 | 79 | 0.3% | 0.8% |  |
 | 80 | 0.2% | 0.5% |  |
-| 81 | 0.1% | 0.3% |  |
+| 81 | 0.1% | 0.4% |  |
 | 82 | 0.1% | 0.2% |  |
 | 83 | 0% | 0.1% |  |
 | 84 | 0% | 0.1% |  |

@@ -179,13 +179,13 @@ Last result: **235** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 260 | 239–292 | 234–298 | 230–308 | 223–316 |
+| N/A | [Poll Average](average.html) | 260 | 239–292 | 234–298 | 230–308 | 222–316 |
 | [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 249 | 239–260 | 235–264 | 231–268 | 224–273 |
 | [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 244 | 233–256 | 230–259 | 227–262 | 221–269 |
-| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 242 | 229–252 | 226–254 | 223–258 | 216–265 |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 251 | 241–264 | 238–267 | 235–271 | 229–277 |
+| [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 242 | 230–252 | 226–254 | 222–258 | 216–265 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 251 | 240–264 | 238–268 | 235–271 | 229–277 |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 279 | 267–291 | 262–293 | 259–297 | 253–302 |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 251 | 243–263 | 240–267 | 238–271 | 232–276 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 251 | 243–264 | 240–267 | 238–271 | 232–276 |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 276 | 253–286 | 251–292 | 248–292 | 243–296 |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 264 | 253–276 | 250–280 | 243–285 | 238–288 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 261 | 250–278 | 247–281 | 244–284 | 236–292 |
@@ -334,22 +334,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 224 | 0.2% | 99.4% |  |
 | 225 | 0.2% | 99.2% |  |
 | 226 | 0.2% | 99.0% |  |
-| 227 | 0.3% | 98.8% |  |
+| 227 | 0.3% | 98.7% |  |
 | 228 | 0.4% | 98% |  |
 | 229 | 0.5% | 98% |  |
 | 230 | 0.4% | 98% |  |
 | 231 | 0.6% | 97% | Majority |
-| 232 | 0.7% | 97% |  |
+| 232 | 0.6% | 97% |  |
 | 233 | 0.6% | 96% |  |
 | 234 | 0.8% | 95% |  |
-| 235 | 0.7% | 95% | Last Result |
-| 236 | 0.9% | 94% |  |
+| 235 | 0.8% | 95% | Last Result |
+| 236 | 1.0% | 94% |  |
 | 237 | 1.3% | 93% |  |
 | 238 | 2% | 92% |  |
-| 239 | 2% | 90% |  |
+| 239 | 1.5% | 90% |  |
 | 240 | 2% | 89% |  |
 | 241 | 2% | 87% |  |
-| 242 | 2% | 84% |  |
+| 242 | 2% | 85% |  |
 | 243 | 2% | 83% |  |
 | 244 | 2% | 81% |  |
 | 245 | 3% | 78% |  |
@@ -370,7 +370,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 260 | 2% | 50% | Median |
 | 261 | 2% | 48% |  |
 | 262 | 1.4% | 47% |  |
-| 263 | 0.7% | 45% |  |
+| 263 | 0.6% | 45% |  |
 | 264 | 1.5% | 45% |  |
 | 265 | 2% | 43% |  |
 | 266 | 2% | 42% |  |
