@@ -270,7 +270,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 45 | 36–53 | 36–54 | 35–56 | 32–64 |
 | [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 29 | 16–30 | 12–35 | 11–35 | 9–40 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0–27 | 0–27 | 0–28 | 0–31 |
-| [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 47 | 42–62 | 41–67 | 39–67 | 35–70 |
+| [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 47 | 40–58 | 39–63 | 37–67 | 35–70 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 35 | 30–41 | 28–43 | 28–44 | 25–47 |
 | [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 25 | 14–30 | 0–31 | 0–34 | 0–37 |
 | [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 29 | 27–33 | 26–34 | 17–35 | 0–43 |
