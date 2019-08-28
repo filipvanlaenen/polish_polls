@@ -195,12 +195,12 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 22 | 13–29 | 0–31 | 0–35 | 0–36 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 72 | 66–79 | 64–84 | 62–87 | 52–88 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 28 | 14–34 | 0–35 | 0–36 | 0–42 |
-| [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 0 | 0–10 | 0–13 | 0–14 | 0–17 |
+| [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 0 | 0–10 | 0–12 | 0–13 | 0–19 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 66 | 54–74 | 50–76 | 48–77 | 44–80 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 46 | 42–58 | 40–63 | 38–65 | 34–71 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 46 | 42–55 | 41–57 | 39–63 | 35–69 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 45 | 39–52 | 38–57 | 37–59 | 34–65 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 47 | 43–51 | 40–52 | 38–56 | 35–61 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 51 | 43–53 | 40–60 | 39–63 | 34–68 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 36 | 29–42 | 29–46 | 28–48 | 27–52 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 21 | 10–29 | 10–31 | 9–31 | 0–34 |
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0–15 | 0–23 |
@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 57 | 51–61 | 49–63 | 47–68 | 44–77 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 57 | 47–70 | 47–73 | 46–75 | 39–77 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 54 | 50–70 | 49–75 | 47–76 | 44–78 |
-| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 83 | 74–88 | 73–93 | 71–95 | 66–102 |
+| [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 80 | 72–91 | 71–94 | 69–97 | 66–104 |
 | [7–8 February 2019](2019-02-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 86 | 77–98 | 76–103 | 75–106 | 71–107 |
 | [5–7 February 2019](2019-02-07-Estymator.html) | Estymator <br> DoRzeczy.pl | 37 | 29–40 | 28–42 | 28–44 | 23–46 |
 | [31 January–6 February 2019](2019-02-06-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 51 | 49–67 | 48–70 | 46–70 | 42–75 |

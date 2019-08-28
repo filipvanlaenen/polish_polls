@@ -193,12 +193,12 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [16–23 May 2019](2019-05-23-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
 | [10–15 May 2019](2019-05-15-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [10–15 May 2019](2019-05-15-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0 | 0 | 0 |
-| [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 0 | 0 | 0 | 0–6 | 0–8 |
+| [1–4 May 2019](2019-05-04-PracowniaAnalizSpołeczno-Politycznych.html) | Pracownia Analiz Społeczno-Politycznych <br> Gazeta Bałtycka | 0 | 0 | 0–6 | 0–8 | 0–12 |
 | [26–30 April 2019](2019-04-30-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [26–29 April 2019](2019-04-29-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0–5 | 0–7 | 0–12 |
 | [19–24 April 2019](2019-04-24-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
 | [12–17 April 2019](2019-04-17-SocialChanges.html) | Social Changes | 0 | 0 | 0 | 0 | 0 |
-| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 0 | 0 | 0 | 0–4 | 0–12 |
+| [25–27 March 2019](2019-03-27-InstytutBadańSprawNarodowościowych.html) | Instytut Badań Spraw Narodowościowych <br> Radio ZET | 0 | 0 | 0 | 0–4 | 0–7 |
 | [20–22 March 2019](2019-03-22-CBMIndicator.html) | CBM Indicator <br> TVP1 | 0 | 0 | 0 | 0 | 0 |
 | [20–21 March 2019](2019-03-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
