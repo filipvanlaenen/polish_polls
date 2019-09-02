@@ -207,7 +207,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 0 | 0–27 | 0–27 | 0–28 | 0–33 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 28 | 19–35 | 16–36 | 12–37 | 10–41 |
 | [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 35 | 30–44 | 29–46 | 28–49 | 27–51 |
-| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 57 | 51–61 | 49–63 | 47–68 | 44–77 |
+| [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 57 | 50–72 | 47–75 | 46–76 | 44–77 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 57 | 47–70 | 47–73 | 46–75 | 39–77 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 54 | 50–70 | 49–75 | 47–76 | 44–78 |
 | [8–11 February 2019](2019-02-11-OPBAriadna.html) | OPB Ariadna <br> WP | 80 | 72–91 | 71–94 | 69–97 | 66–104 |
