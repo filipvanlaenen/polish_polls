@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Sat, 31 Aug 2019 19:43:52 +0200</pubDate>
+    <pubDate>Mon, 02 Sep 2019 19:50:18 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html#seats</link>
@@ -686,8 +686,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-02-16-IPSOS.png"
         length="240303"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 23:23:05 +0200</pubDate>
-      <dc:date>2019-08-12T23:23:05.760243+02:00</dc:date>
+      <pubDate>Mon, 02 Sep 2019 19:50:18 +0200</pubDate>
+      <dc:date>2019-09-02T19:50:18.154635+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 7–14 February 2019 – Voting Intentions</title>
@@ -1799,6 +1799,6 @@
       <pubDate>Fri, 16 Aug 2019 12:22:48 +0200</pubDate>
       <dc:date>2019-08-16T12:22:48.400422+02:00</dc:date>
     </item>
-    <dc:date>2019-08-31T19:43:52.16933+02:00</dc:date>
+    <dc:date>2019-09-02T19:50:18.154635+02:00</dc:date>
   </channel>
 </rss>
