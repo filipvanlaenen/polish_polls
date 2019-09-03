@@ -8,7 +8,7 @@
     <title>All Registered Polls for the Sejm</title>
     <link>https://filipvanlaenen.github.io/polish_polls</link>
     <description>All Registered Polls for the Sejm</description>
-    <pubDate>Mon, 02 Sep 2019 19:50:18 +0200</pubDate>
+    <pubDate>Tue, 03 Sep 2019 19:39:28 +0200</pubDate>
     <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 6–8 August 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html#seats</link>
@@ -676,8 +676,28 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-02-21-Estymator.png"
         length="232951"
         type="image/png"/>
-      <pubDate>Wed, 14 Aug 2019 22:28:22 +0200</pubDate>
-      <dc:date>2019-08-14T22:28:22.904011+02:00</dc:date>
+      <pubDate>Tue, 03 Sep 2019 19:39:28 +0200</pubDate>
+      <dc:date>2019-09-03T19:39:28.443475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for OKO.press, 14–16 February 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-02-16-IPSOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 196–234 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 121–155 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 17–44 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna: 0 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 0 seats&lt;/li&gt;&lt;li&gt;Wiosna: 46–76 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0–30 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-02-16-IPSOS-seats.png"
+        length="194692"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 20:33:28 +0200</pubDate>
+      <dc:date>2019-09-02T20:33:28.61067+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for OKO.press, 14–16 February 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2019-02-16-IPSOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-02-16-IPSOS-coalitions-seats.png"
+        length="213575"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 20:33:28 +0200</pubDate>
+      <dc:date>2019-09-02T20:33:28.61067+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by IPSOS for OKO.press, 14–16 February 2019 – Voting Intentions</title>
@@ -686,8 +706,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2019-02-16-IPSOS.png"
         length="240303"
         type="image/png"/>
-      <pubDate>Mon, 02 Sep 2019 19:50:18 +0200</pubDate>
-      <dc:date>2019-09-02T19:50:18.154635+02:00</dc:date>
+      <pubDate>Mon, 02 Sep 2019 20:33:28 +0200</pubDate>
+      <dc:date>2019-09-02T20:33:28.61067+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 7–14 February 2019 – Voting Intentions</title>
@@ -1350,14 +1370,34 @@
       <dc:date>2019-08-14T11:03:14.276655+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 June 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2018-06-14-Estymator.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 209–247 seats&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 131–169 seats&lt;/li&gt;&lt;li&gt;Kukiz’15: 19–45 seats&lt;/li&gt;&lt;li&gt;.Nowoczesna: 0–10 seats&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 0–24 seats&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 26–44 seats&lt;/li&gt;&lt;li&gt;KORWiN: 0 seats&lt;/li&gt;&lt;li&gt;Lewica Razem: 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-06-14-Estymator-seats.png"
+        length="190856"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 22:43:38 +0200</pubDate>
+      <dc:date>2019-09-02T22:43:38.118103+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 June 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/polish_polls/2018-06-14-Estymator.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-06-14-Estymator-coalitions-seats.png"
+        length="226038"
+        type="image/png"/>
+      <pubDate>Mon, 02 Sep 2019 22:43:38 +0200</pubDate>
+      <dc:date>2019-09-02T22:43:38.118103+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Estymator for DoRzeczy.pl, 13–14 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/polish_polls/2018-06-14-Estymator.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Prawo i Sprawiedliwość: 37.8–43.8%&lt;/li&gt;&lt;li&gt;Platforma Obywatelska: 25.2–30.8%&lt;/li&gt;&lt;li&gt;Kukiz’15: 6.8–10.2%&lt;/li&gt;&lt;li&gt;.Nowoczesna: 3.1–5.6%&lt;/li&gt;&lt;li&gt;Polskie Stronnictwo Ludowe: 4.2–7.0%&lt;/li&gt;&lt;li&gt;Sojusz Lewicy Demokratycznej: 7.0–10.5%&lt;/li&gt;&lt;li&gt;KORWiN: 1.2–2.9%&lt;/li&gt;&lt;li&gt;Lewica Razem: 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-06-14-Estymator.png"
         length="223107"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 09:16:46 +0200</pubDate>
-      <dc:date>2019-08-12T09:16:46.295991+02:00</dc:date>
+      <pubDate>Mon, 02 Sep 2019 22:43:38 +0200</pubDate>
+      <dc:date>2019-09-02T22:43:38.118103+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by CBOS, 7–14 June 2018 – Voting Intentions</title>
@@ -1446,8 +1486,8 @@
       <enclosure url="https://filipvanlaenen.github.io/polish_polls/2018-05-17-CBOS.png"
         length="212402"
         type="image/png"/>
-      <pubDate>Mon, 12 Aug 2019 21:14:38 +0200</pubDate>
-      <dc:date>2019-08-12T21:14:38.971956+02:00</dc:date>
+      <pubDate>Mon, 02 Sep 2019 22:52:10 +0200</pubDate>
+      <dc:date>2019-09-02T22:52:10.378346+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar Public, 11–16 May 2018 – Voting Intentions</title>
@@ -1799,6 +1839,6 @@
       <pubDate>Fri, 16 Aug 2019 12:22:48 +0200</pubDate>
       <dc:date>2019-08-16T12:22:48.400422+02:00</dc:date>
     </item>
-    <dc:date>2019-09-02T19:50:18.154635+02:00</dc:date>
+    <dc:date>2019-09-03T19:39:28.443475+02:00</dc:date>
   </channel>
 </rss>
