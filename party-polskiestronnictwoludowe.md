@@ -207,7 +207,7 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 0 | 0 | 0 | 0–19 | 0–23 |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 20 | 0–26 | 0–28 | 0–31 | 0–35 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 22 | 0–25 | 0–26 | 0–28 | 0–32 |
-| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 0–23 | 0–24 | 0–24 | 0–27 |
+| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 19 | 0–23 | 0–24 | 0–24 | 0–27 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 0 | 0 | 0 | 0 | 0–19 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 23 | 0–24 | 0–26 | 0–29 | 0–30 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 0 | 0 | 0–17 | 0–19 | 0–23 |
@@ -267,14 +267,14 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [21–22 June 2018](2018-06-22-IBRiS.html) | IBRiS <br> Onet | 19 | 0–24 | 0–26 | 0–27 | 0–29 |
 | [18 June 2018](2018-06-18-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–20 | 0–23 | 0–24 | 0–26 |
 | [9–17 June 2018](2018-06-17-KantarPublic.html) | Kantar Public | 0 | 0 | 0 | 0 | 0 |
-| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 0–21 | 0–22 | 0–23 | 0–26 |
+| [13–14 June 2018](2018-06-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 15 | 0–21 | 0–23 | 0–24 | 0–26 |
 | [7–14 June 2018](2018-06-14-CBOS.html) | CBOS | 0 | 0 | 0–17 | 0–21 | 0–23 |
 | [7–8 June 2018](2018-06-08-IBRiS.html) | IBRiS <br> Rzeczpospolita | 26 | 21–29 | 16–29 | 0–31 | 0–38 |
 | [6–7 June 2018](2018-06-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–19 | 0–21 | 0–23 | 0–24 |
 | [28–29 May 2018](2018-05-29-KantarMillwardBrown.html) | Kantar Millward Brown <br> TVN and TVN24 | 0 | 0 | 0 | 0–20 | 0–24 |
 | [24–25 May 2018](2018-05-25-IBRiS.html) | IBRiS <br> Onet | 20 | 0–25 | 0–26 | 0–27 | 0–29 |
 | [23–24 May 2018](2018-05-24-Estymator.html) | Estymator <br> DoRzeczy.pl | 20 | 13–25 | 0–26 | 0–26 | 0–30 |
-| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 16 | 0–22 | 0–24 | 0–25 | 0–28 |
+| [10–17 May 2018](2018-05-17-CBOS.html) | CBOS | 17 | 0–23 | 0–24 | 0–24 | 0–28 |
 | [11–16 May 2018](2018-05-16-KantarPublic.html) | Kantar Public | 0 | 0–22 | 0–22 | 0–23 | 0–26 |
 | [14 May 2018](2018-05-14-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 0–22 | 0–24 | 0–24 | 0–24 |
 | [10–11 May 2018](2018-05-11-InstytutBadańPollster.html) | Instytut Badań Pollster <br> TVP1 | 0 | 0–23 | 0–24 | 0–24 | 0–25 |
