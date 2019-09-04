@@ -214,7 +214,7 @@ Last result: **235** seats (General Election of 25 October 2015)
 | [7–14 March 2019](2019-03-14-CBOS.html) | CBOS | 312 | 303–324 | 295–338 | 294–340 | 285–340 |
 | [8–13 March 2019](2019-03-13-KantarPublic.html) | Kantar Public | 282 | 262–292 | 255–294 | 254–298 | 248–321 |
 | [9–10 March 2019](2019-03-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 244 | 228–253 | 224–258 | 221–263 | 215–267 |
-| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 235 | 221–248 | 219–255 | 216–257 | 211–264 |
+| [20–21 February 2019](2019-02-21-Estymator.html) | Estymator <br> DoRzeczy.pl | 233 | 221–249 | 219–254 | 216–256 | 211–264 |
 | [14–16 February 2019](2019-02-16-IPSOS.html) | IPSOS <br> OKO.press | 214 | 202–226 | 200–231 | 196–234 | 190–238 |
 | [7–14 February 2019](2019-02-14-CBOS.html) | CBOS | 285 | 269–292 | 266–300 | 262–307 | 255–316 |
 | [8–13 February 2019](2019-02-13-KantarPublic.html) | Kantar Public | 245 | 227–249 | 221–249 | 213–250 | 203–265 |
