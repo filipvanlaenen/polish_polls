@@ -6,7 +6,31 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-09-03T20:44:19.565233+02:00</updated>
+  <updated>2019-09-09T15:56:57.501743+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 38.7–44.5%, 218–253 seats</li><li>Koalicja Obywatelska: 24.1–29.3%, 126–157 seats</li><li>Lewica: 10.4–14.3%, 43–67 seats</li><li>Koalicja Polska: 5.8–8.9%, 12–37 seats</li><li>Konfederacja: 3.6–6.2%, 0–12 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-08-26-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-08-26-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Onet, 26 August 2019</title>
+    <updated>2019-09-09T15:01:55.276176+02:00</updated>
+    <dc:date>2019-09-09T15:01:55.276176+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 39.9–46.0%, 208–242 seats</li><li>Koalicja Obywatelska: 28.0–33.7%, 136–167 seats</li><li>Lewica: 11.4–15.6%, 44–68 seats</li><li>Koalicja Polska: 6.8–10.2%, 15–42 seats</li><li>Konfederacja: 3.4–5.9%, 0–6 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-08-21-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-08-21-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes, 16–21 August 2019</title>
+    <updated>2019-09-09T15:56:57.501743+02:00</updated>
+    <dc:date>2019-09-09T15:56:57.501743+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 38.4–44.2%, 221–256 seats</li><li>Koalicja Obywatelska: 24.4–29.7%, 131–163 seats</li><li>Lewica: 9.9–13.7%, 40–65 seats</li><li>Koalicja Polska: 5.2–8.2%, 9–32 seats</li><li>Konfederacja: 2.0–4.0%, 0 seats</li><li>Bezpartyjni Samorządowcy: 1.2–2.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-08-10-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-08-10-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for Rzeczpospolita, 9–10 August 2019</title>
+    <updated>2019-09-09T14:07:40.718654+02:00</updated>
+    <dc:date>2019-09-09T14:07:40.718654+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-08-08-Estymator.html</id>
@@ -215,5 +239,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-09-03T20:44:19.565233+02:00</dc:date>
+  <dc:date>2019-09-09T15:56:57.501743+02:00</dc:date>
 </feed>
