@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-09-09T20:06:40.831066+02:00</updated>
+  <updated>2019-09-09T21:37:08.03065+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 38.7–44.5%, 218–253 seats</li><li>Koalicja Obywatelska: 24.1–29.3%, 126–157 seats</li><li>Lewica: 10.4–14.3%, 43–67 seats</li><li>Koalicja Polska: 5.8–8.9%, 12–37 seats</li><li>Konfederacja: 3.6–6.2%, 0–12 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-08-26-IBRiS.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by IBRiS for RMF, 23–24 August 2019</title>
     <updated>2019-09-09T16:57:53.60262+02:00</updated>
     <dc:date>2019-09-09T16:57:53.60262+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 36.1–42.1%, 205–243 seats</li><li>Koalicja Obywatelska: 27.3–32.9%, 148–181 seats</li><li>Lewica: 9.2–13.0%, 36–60 seats</li><li>Koalicja Polska: 4.7–7.7%, 0–27 seats</li><li>Konfederacja: 4.7–7.7%, 0–26 seats</li><li>Bezpartyjni Samorządowcy: 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-08-22-KantarPublic.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-08-22-KantarPublic.html"/>
+    <title>Opinion Poll by Kantar Public for TVN, 22 August 2019</title>
+    <updated>2019-09-09T21:37:08.03065+02:00</updated>
+    <dc:date>2019-09-09T21:37:08.03065+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 41.9–48.0%, 228–262 seats</li><li>Koalicja Obywatelska: 27.7–33.3%, 142–172 seats</li><li>Lewica: 8.2–11.8%, 30–48 seats</li><li>Koalicja Polska: 5.4–8.5%, 8–30 seats</li><li>Konfederacja: 2.8–5.2%, 0–3 seats</li><li>Bezpartyjni Samorządowcy: 1.5–3.4%, 0 seats</li></ul></div></content>
@@ -263,5 +271,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-09-09T20:06:40.831066+02:00</dc:date>
+  <dc:date>2019-09-09T21:37:08.03065+02:00</dc:date>
 </feed>
