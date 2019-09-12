@@ -42,7 +42,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Voting Intentions
 
-![Graph with voting intentions not yet produced](average----------------.png "Voting Intentions")
+![Graph with voting intentions not yet produced](average------------------.png "Voting Intentions")
 
 ### Confidence Intervals
 
@@ -165,9 +165,9 @@ Only polls for which at least the sample size has been published are included in
 
 ## Seats
 
-![Graph with seats not yet produced](average-----------------seats.png "Seats")
+![Graph with seats not yet produced](average-------------------seats.png "Seats")
 
-![Graph with seating plan not yet produced](average-----------------seating-plan.png "Seating Plan")
+![Graph with seating plan not yet produced](average-------------------seating-plan.png "Seating Plan")
 
 ### Confidence Intervals
 
@@ -191,7 +191,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Prawo i Sprawiedliwość](party-prawoisprawiedliwość.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----------------seats-pmf-prawoisprawiedliwość.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------seats-pmf-prawoisprawiedliwość.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -265,7 +265,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Koalicja Obywatelska](party-koalicjaobywatelska.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----------------seats-pmf-koalicjaobywatelska.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------seats-pmf-koalicjaobywatelska.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -330,7 +330,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna](party-lewicarazem–sojuszlewicydemokratycznej–wiosna.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----------------seats-pmf-lewicarazem–sojuszlewicydemokratycznej–wiosna.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------seats-pmf-lewicarazem–sojuszlewicydemokratycznej–wiosna.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -428,7 +428,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Kukiz’15](party-kukiz’15.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----------------seats-pmf-kukiz’15.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------seats-pmf-kukiz’15.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -480,7 +480,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [Polskie Stronnictwo Ludowe](party-polskiestronnictwoludowe.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----------------seats-pmf-polskiestronnictwoludowe.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------seats-pmf-polskiestronnictwoludowe.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -517,7 +517,7 @@ Only polls for which at least the sample size has been published are included in
 
 *For a full overview of the results for this party, see the [KORWiN](party-korwin.html) page.*
 
-![Graph with seats probability mass function not yet produced](average-----------------seats-pmf-korwin.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------seats-pmf-korwin.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -540,7 +540,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Coalitions
 
-![Graph with coalitions seats not yet produced](average-----------------coalitions-seats.png "Coalitions Seats")
+![Graph with coalitions seats not yet produced](average-------------------coalitions-seats.png "Coalitions Seats")
 
 ### Confidence Intervals
 
@@ -554,7 +554,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Prawo i Sprawiedliwość
 
-![Graph with seats probability mass function not yet produced](average-----------------coalitions-seats-pmf-pis.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------coalitions-seats-pmf-pis.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -626,7 +626,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Koalicja Obywatelska – Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna – Polskie Stronnictwo Ludowe
 
-![Graph with seats probability mass function not yet produced](average-----------------coalitions-seats-pmf-ko–rsw–psl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------coalitions-seats-pmf-ko–rsw–psl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -698,7 +698,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Koalicja Obywatelska – Lewica Razem–Sojusz Lewicy Demokratycznej–Wiosna
 
-![Graph with seats probability mass function not yet produced](average-----------------coalitions-seats-pmf-ko–rsw.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------coalitions-seats-pmf-ko–rsw.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -777,7 +777,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Koalicja Obywatelska – Polskie Stronnictwo Ludowe
 
-![Graph with seats probability mass function not yet produced](average-----------------coalitions-seats-pmf-ko–psl.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------coalitions-seats-pmf-ko–psl.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -849,7 +849,7 @@ Only polls for which at least the sample size has been published are included in
 
 ### Koalicja Obywatelska
 
-![Graph with seats probability mass function not yet produced](average-----------------coalitions-seats-pmf-ko.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-------------------coalitions-seats-pmf-ko.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
