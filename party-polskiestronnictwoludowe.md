@@ -11,6 +11,12 @@ Last result: **5.1%** (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
+| [4–6 September 2019](2019-09-06-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
+| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 0.0% | N/A | N/A | N/A | N/A |
+| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO | 0.0% | N/A | N/A | N/A | N/A |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP | 0.0% | N/A | N/A | N/A | N/A |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
@@ -20,12 +26,12 @@ Last result: **5.1%** (General Election of 25 October 2015)
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna | 0.0% | N/A | N/A | N/A | N/A |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN | 0.0% | N/A | N/A | N/A | N/A |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.0% | N/A | N/A | N/A | N/A |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | 5.1–7.0% | 4.8–7.3% | 4.6–7.6% | 4.3–8.1% |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 2.0% | 1.6–2.7% | 1.4–2.9% | 1.3–3.0% | 1.1–3.4% |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0.0% | N/A | N/A | N/A | N/A |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 5.2% | 4.4–6.2% | 4.1–6.4% | 3.9–6.7% | 3.6–7.2% |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.2–3.0% | 1.1–3.4% |
@@ -179,6 +185,12 @@ Last result: **16** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–17 | 0–20 | 0–22 | 0–23 |
+| [4–6 September 2019](2019-09-06-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
+| [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG |  |  |  |  |  |
+| [22–29 August 2019](2019-08-29-CBOS.html) | CBOS |  |  |  |  |  |
+| [23–28 August 2019](2019-08-28-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
+| [26–28 August 2019](2019-08-28-Ipsos.html) | Ipsos <br> OKO |  |  |  |  |  |
 | [26 August 2019](2019-08-26-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [24–26 August 2019](2019-08-26-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
 | [23–24 August 2019](2019-08-24-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
@@ -188,12 +200,12 @@ Last result: **16** seats (General Election of 25 October 2015)
 | [16–20 August 2019](2019-08-20-Ariadna.html) | Ariadna |  |  |  |  |  |
 | [13 August 2019](2019-08-13-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
 | [9–10 August 2019](2019-08-10-IBRiS.html) | IBRiS <br> Rzeczpospolita |  |  |  |  |  |
-| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 0–17 | 0–19 | 0–21 | 0–23 |
-| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes | 21 | 15–25 | 12–27 | 11–27 | 0–30 |
+| [6–8 August 2019](2019-08-08-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [2–7 August 2019](2019-08-07-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [6–7 August 2019](2019-08-07-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–17 | 0–20 | 0–22 | 0–23 |
-| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes | 16 | 11–22 | 0–23 | 0–24 | 0–27 |
+| [26–31 July 2019](2019-07-31-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [26–27 July 2019](2019-07-27-IBRiS.html) | IBRiS <br> RMF | 0 | 0 | 0 | 0 | 0 |
-| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes | 0 | 0–11 | 0–14 | 0–16 | 0–18 |
+| [19–24 July 2019](2019-07-24-SocialChanges.html) | Social Changes |  |  |  |  |  |
 | [18–19 July 2019](2019-07-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 14 | 0–22 | 0–23 | 0–24 | 0–27 |
 | [12–17 July 2019](2019-07-17-SocialChanges.html) | Social Changes | 16 | 0–25 | 0–26 | 0–27 | 0–28 |
 | [12–17 July 2019](2019-07-17-KantarPublic.html) | Kantar Public <br> Radio ZET | 0 | 0 | 0 | 0 | 0 |
