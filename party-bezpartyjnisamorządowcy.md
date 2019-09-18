@@ -10,14 +10,14 @@ Last result: **0.1%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.4% | 0.6–3.6% | 0.5–4.0% | 0.4–4.2% | 0.3–4.8% |
+| N/A | [Poll Average](average.html) | 2.2% | 0.7–3.5% | 0.5–3.9% | 0.4–4.2% | 0.3–4.7% |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 0.0% | N/A | N/A | N/A | N/A |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 0.0% | N/A | N/A | N/A | N/A |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.6% | 0.8–2.5% | 0.8–2.5% | 0.8–2.9% | 0.8–2.9% |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 0.0% | N/A | N/A | N/A | N/A |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 2.5% | 2.3–2.7% | 2.2–2.8% | 2.2–2.9% | 2.1–3.0% |
@@ -173,12 +173,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% | Last Result |
-| 0.5–1.5% | 20% | 92% |  |
-| 1.5–2.5% | 34% | 72% | Median |
-| 2.5–3.5% | 27% | 38% |  |
-| 3.5–4.5% | 10% | 11% |  |
-| 4.5–5.5% | 1.0% | 1.0% |  |
+| 0.0–0.5% | 6% | 100% | Last Result |
+| 0.5–1.5% | 24% | 94% |  |
+| 1.5–2.5% | 39% | 70% | Median |
+| 2.5–3.5% | 22% | 31% |  |
+| 3.5–4.5% | 8% | 9% |  |
+| 4.5–5.5% | 0.8% | 0.8% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -197,7 +197,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0 |
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet |  |  |  |  |  |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 0 | 0 | 0 | 0 | 0 |
@@ -377,7 +377,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 19 | 0% | 0.2% |  |
 | 20 | 0% | 0.2% |  |
 | 21 | 0% | 0.2% |  |
-| 22 | 0% | 0.2% |  |
+| 22 | 0% | 0.1% |  |
 | 23 | 0.1% | 0.1% |  |
 | 24 | 0% | 0% |  |
 
