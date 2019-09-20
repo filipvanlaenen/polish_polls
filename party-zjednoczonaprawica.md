@@ -209,13 +209,13 @@ Last result: **235** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 247 | 233–275 | 228–292 | 224–299 | 218–308 |
-| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 246 | 233–255 | 229–258 | 226–260 | 221–265 |
+| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 246 | 233–255 | 229–258 | 226–260 | 221–266 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 241 | 229–251 | 225–255 | 222–258 | 217–264 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 236 | 224–248 | 222–250 | 219–253 | 212–260 |
-| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 247 | 236–260 | 232–265 | 228–269 | 222–276 |
+| [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 247 | 236–260 | 232–265 | 228–269 | 222–275 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 254 | 242–271 | 240–274 | 237–276 | 231–281 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 241 | 228–249 | 225–252 | 222–255 | 217–262 |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 252 | 243–268 | 240–273 | 238–275 | 233–279 |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 252 | 243–267 | 241–271 | 238–275 | 233–279 |
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 225 | 214–238 | 212–242 | 210–245 | 206–250 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 261 | 256–267 | 254–268 | 253–269 | 251–271 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 247 | 245–251 | 244–252 | 244–253 | 242–255 |
@@ -390,7 +390,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 224 | 0.6% | 98% |  |
 | 225 | 0.6% | 97% |  |
 | 226 | 0.6% | 96% |  |
-| 227 | 0.5% | 96% |  |
+| 227 | 0.6% | 96% |  |
 | 228 | 0.7% | 95% |  |
 | 229 | 0.7% | 95% |  |
 | 230 | 0.8% | 94% |  |
@@ -405,10 +405,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 239 | 2% | 79% |  |
 | 240 | 2% | 77% |  |
 | 241 | 2% | 75% |  |
-| 242 | 3% | 73% |  |
+| 242 | 3% | 72% |  |
 | 243 | 3% | 69% |  |
 | 244 | 4% | 66% |  |
-| 245 | 4% | 62% |  |
+| 245 | 5% | 62% |  |
 | 246 | 4% | 57% |  |
 | 247 | 5% | 53% | Median |
 | 248 | 4% | 49% |  |
@@ -416,28 +416,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 250 | 4% | 41% |  |
 | 251 | 3% | 37% |  |
 | 252 | 3% | 34% |  |
-| 253 | 2% | 31% |  |
+| 253 | 2% | 32% |  |
 | 254 | 2% | 29% |  |
 | 255 | 2% | 27% |  |
-| 256 | 2% | 25% |  |
-| 257 | 1.5% | 24% |  |
-| 258 | 1.3% | 22% |  |
-| 259 | 1.4% | 21% |  |
+| 256 | 2% | 26% |  |
+| 257 | 2% | 24% |  |
+| 258 | 1.4% | 22% |  |
+| 259 | 1.3% | 21% |  |
 | 260 | 1.1% | 20% |  |
-| 261 | 0.8% | 18% |  |
-| 262 | 0.9% | 18% |  |
-| 263 | 0.7% | 17% |  |
-| 264 | 0.9% | 16% |  |
-| 265 | 0.6% | 15% |  |
+| 261 | 0.8% | 19% |  |
+| 262 | 1.0% | 18% |  |
+| 263 | 0.8% | 17% |  |
+| 264 | 0.8% | 16% |  |
+| 265 | 0.7% | 15% |  |
 | 266 | 0.7% | 14% |  |
 | 267 | 0.7% | 14% |  |
 | 268 | 0.5% | 13% |  |
-| 269 | 0.5% | 13% |  |
+| 269 | 0.6% | 13% |  |
 | 270 | 0.4% | 12% |  |
 | 271 | 0.4% | 12% |  |
 | 272 | 0.4% | 11% |  |
 | 273 | 0.5% | 11% |  |
-| 274 | 0.4% | 10% |  |
+| 274 | 0.3% | 10% |  |
 | 275 | 0.4% | 10% |  |
 | 276 | 0.2% | 10% |  |
 | 277 | 0.2% | 9% |  |

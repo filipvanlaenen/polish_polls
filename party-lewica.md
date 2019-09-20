@@ -202,7 +202,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 52 | 44–64 | 42–65 | 40–66 | 37–71 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 65 | 56–75 | 53–78 | 51–79 | 47–84 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 63 | 51–67 | 49–70 | 47–73 | 45–78 |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 54 | 46–65 | 44–65 | 43–67 | 40–72 |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 54 | 46–64 | 44–65 | 43–67 | 40–72 |
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 60 | 49–67 | 47–69 | 46–71 | 43–76 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 71 | 66–76 | 66–77 | 66–77 | 65–79 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 44 | 42–46 | 42–47 | 42–48 | 40–50 |
@@ -410,17 +410,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 4% | 66% |  |
 | 48 | 3% | 62% |  |
 | 49 | 3% | 59% |  |
-| 50 | 3% | 56% |  |
+| 50 | 3% | 57% |  |
 | 51 | 3% | 53% |  |
 | 52 | 3% | 50% | Median |
-| 53 | 2% | 47% |  |
+| 53 | 2% | 48% |  |
 | 54 | 2% | 45% |  |
 | 55 | 2% | 43% |  |
 | 56 | 2% | 41% |  |
 | 57 | 2% | 38% |  |
 | 58 | 3% | 36% |  |
 | 59 | 2% | 34% |  |
-| 60 | 3% | 32% |  |
+| 60 | 2% | 32% |  |
 | 61 | 2% | 29% |  |
 | 62 | 3% | 27% |  |
 | 63 | 3% | 24% |  |
@@ -429,7 +429,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 3% | 11% |  |
 | 67 | 2% | 8% |  |
 | 68 | 1.3% | 6% |  |
-| 69 | 0.8% | 4% |  |
+| 69 | 0.7% | 4% |  |
 | 70 | 0.5% | 4% |  |
 | 71 | 0.5% | 3% |  |
 | 72 | 0.5% | 3% |  |
