@@ -195,13 +195,13 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–7 | 0–11 | 0–15 | 0–22 |
-| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 10 | 4–19 | 2–22 | 0–24 | 0–27 |
+| [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 10 | 4–20 | 2–22 | 0–24 | 0–27 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 0–6 | 0–9 | 0–12 | 0–15 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0 | 0–2 | 0–2 | 0–4 | 0–6 |
 | [6–11 September 2019](2019-09-11-KantarPublic.html) | Kantar Public <br> TVN | 0 | 0 | 0 | 0 | 0 |
 | [6–7 September 2019](2019-09-07-IBRiS.html) | IBRiS <br> Rzeczpospolita | 0 | 0 | 0 | 0 | 0–6 |
 | [4–6 September 2019](2019-09-06-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0 | 0–2 | 0–3 | 0–6 |
-| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–3 | 0–5 |
+| [4–5 September 2019](2019-09-05-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0–2 | 0–3 | 0–5 |
 | [30 August–4 September 2019](2019-09-04-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0 | 0–6 | 0–8 | 0–10 | 0–13 |
 | [24 August–4 September 2019](2019-09-04-IBRiS.html) | IBRiS <br> Onet | 0 | 0–4 | 0–5 | 0–6 | 0–8 |
 | [23–29 August 2019](2019-08-29-DobraOpinia.html) | Dobra Opinia <br> PPG | 0 | 0 | 0 | 0 | 0 |
@@ -359,29 +359,29 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 80% | 100% | Last Result, Median |
-| 1 | 0% | 20% |  |
-| 2 | 3% | 20% |  |
+| 0 | 79% | 100% | Last Result, Median |
+| 1 | 0% | 21% |  |
+| 2 | 3% | 21% |  |
 | 3 | 2% | 18% |  |
 | 4 | 2% | 16% |  |
 | 5 | 2% | 14% |  |
 | 6 | 2% | 12% |  |
-| 7 | 1.4% | 10% |  |
-| 8 | 1.2% | 9% |  |
-| 9 | 2% | 8% |  |
+| 7 | 1.3% | 10% |  |
+| 8 | 1.3% | 9% |  |
+| 9 | 1.4% | 8% |  |
 | 10 | 1.1% | 6% |  |
-| 11 | 0.7% | 5% |  |
-| 12 | 0.7% | 5% |  |
+| 11 | 0.9% | 5% |  |
+| 12 | 0.6% | 4% |  |
 | 13 | 0.7% | 4% |  |
-| 14 | 0.6% | 3% |  |
-| 15 | 0.5% | 3% |  |
-| 16 | 0.2% | 2% |  |
-| 17 | 0.2% | 2% |  |
+| 14 | 0.5% | 3% |  |
+| 15 | 0.4% | 3% |  |
+| 16 | 0.3% | 2% |  |
+| 17 | 0.3% | 2% |  |
 | 18 | 0.3% | 2% |  |
-| 19 | 0.3% | 1.3% |  |
+| 19 | 0.2% | 1.3% |  |
 | 20 | 0.2% | 1.0% |  |
 | 21 | 0.2% | 0.8% |  |
-| 22 | 0.1% | 0.5% |  |
+| 22 | 0.1% | 0.6% |  |
 | 23 | 0.1% | 0.4% |  |
 | 24 | 0.1% | 0.3% |  |
 | 25 | 0.1% | 0.2% |  |
