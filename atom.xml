@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-09-18T20:03:02.262577+02:00</updated>
+  <updated>2019-09-20T11:25:29.609698+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 42.1–48.1%, 222–258 seats</li><li>Koalicja Obywatelska: 23.4–28.7%, 113–146 seats</li><li>Lewica: 12.0–16.2%, 47–73 seats</li><li>Koalicja Polska: 6.5–9.8%, 15–41 seats</li><li>Konfederacja: 3.8–6.5%, 0–12 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-09-13-InstytutBadańPollster.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-09-13-InstytutBadańPollster.html"/>
+    <title>Opinion Poll by Instytut Badań Pollster for Super Express, 12–13 September 2019</title>
+    <updated>2019-09-18T22:34:59.125894+02:00</updated>
+    <dc:date>2019-09-18T22:34:59.125894+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 42.6–48.7%, 219–253 seats</li><li>Koalicja Obywatelska: 23.9–29.3%, 112–144 seats</li><li>Lewica: 11.9–16.2%, 45–68 seats</li><li>Koalicja Polska: 8.1–11.8%, 26–47 seats</li><li>Konfederacja: 3.1–5.6%, 0–4 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-09-11-SocialChanges.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-09-11-SocialChanges.html"/>
+    <title>Opinion Poll by Social Changes for wpolityce.pl, 6–11 September 2019</title>
+    <updated>2019-09-20T11:25:29.609698+02:00</updated>
+    <dc:date>2019-09-20T11:25:29.609698+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 39.4–45.5%, 237–276 seats</li><li>Koalicja Obywatelska: 20.2–25.4%, 109–145 seats</li><li>Lewica: 11.1–15.3%, 51–79 seats</li><li>Koalicja Polska: 4.3–7.2%, 0–26 seats</li><li>Konfederacja: 2.4–4.7%, 0 seats</li><li>Bezpartyjni Samorządowcy: 0.3–1.3%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-09-07-IBRiS.html</id>
@@ -335,5 +351,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-09-18T20:03:02.262577+02:00</dc:date>
+  <dc:date>2019-09-20T11:25:29.609698+02:00</dc:date>
 </feed>
