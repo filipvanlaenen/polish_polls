@@ -10,7 +10,10 @@ Last result: **0.1%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 0.7–3.5% | 0.5–3.9% | 0.4–4.2% | 0.3–4.7% |
+| N/A | [Poll Average](average.html) | 2.0% | 0.5–2.7% | 0.4–2.8% | 0.4–2.9% | 0.3–3.2% |
+| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
+| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0.0% | N/A | N/A | N/A | N/A |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 0.0% | N/A | N/A | N/A | N/A |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 0.0% | N/A | N/A | N/A | N/A |
@@ -173,13 +176,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 6% | 100% | Last Result |
-| 0.5–1.5% | 24% | 94% |  |
-| 1.5–2.5% | 39% | 70% | Median |
-| 2.5–3.5% | 22% | 31% |  |
-| 3.5–4.5% | 8% | 9% |  |
-| 4.5–5.5% | 0.8% | 0.8% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.0–0.5% | 10% | 100% | Last Result |
+| 0.5–1.5% | 26% | 90% |  |
+| 1.5–2.5% | 44% | 63% | Median |
+| 2.5–3.5% | 19% | 19% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -191,6 +193,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
+| [12–19 September 2019](2019-09-19-CBOS.html) | CBOS |  |  |  |  |  |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza |  |  |  |  |  |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP |  |  |  |  |  |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
@@ -355,30 +360,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.8% | 100% | Last Result, Median |
-| 1 | 0% | 0.2% |  |
-| 2 | 0% | 0.2% |  |
-| 3 | 0% | 0.2% |  |
-| 4 | 0% | 0.2% |  |
-| 5 | 0% | 0.2% |  |
-| 6 | 0% | 0.2% |  |
-| 7 | 0% | 0.2% |  |
-| 8 | 0% | 0.2% |  |
-| 9 | 0% | 0.2% |  |
-| 10 | 0% | 0.2% |  |
-| 11 | 0% | 0.2% |  |
-| 12 | 0% | 0.2% |  |
-| 13 | 0% | 0.2% |  |
-| 14 | 0% | 0.2% |  |
-| 15 | 0% | 0.2% |  |
-| 16 | 0% | 0.2% |  |
-| 17 | 0% | 0.2% |  |
-| 18 | 0% | 0.2% |  |
-| 19 | 0% | 0.2% |  |
-| 20 | 0% | 0.2% |  |
-| 21 | 0% | 0.2% |  |
-| 22 | 0% | 0.1% |  |
-| 23 | 0.1% | 0.1% |  |
-| 24 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
