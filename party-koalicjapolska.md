@@ -202,7 +202,7 @@ Last result: **58** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 13 | 0–37 | 0–42 | 0–43 | 0–47 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 6–19 | 0–23 | 0–24 | 0–28 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 37 | 27–44 | 25–45 | 23–47 | 17–50 |
-| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0 | 0–8 | 0–13 |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–7 | 0–8 | 0–13 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 0 | 0–6 | 0–7 | 0–9 | 0–12 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 27 | 19–36 | 16–39 | 15–41 | 12–43 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 39 | 30–44 | 28–46 | 26–47 | 23–51 |
@@ -379,14 +379,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 9 | 3% | 70% |  |
 | 10 | 3% | 68% |  |
 | 11 | 5% | 65% |  |
-| 12 | 9% | 60% |  |
+| 12 | 9% | 59% |  |
 | 13 | 5% | 51% | Median |
 | 14 | 3% | 46% |  |
-| 15 | 2% | 42% |  |
+| 15 | 1.5% | 42% |  |
 | 16 | 2% | 41% |  |
 | 17 | 2% | 38% |  |
 | 18 | 1.0% | 37% |  |
-| 19 | 1.3% | 36% |  |
+| 19 | 1.4% | 36% |  |
 | 20 | 0.9% | 34% |  |
 | 21 | 1.4% | 33% |  |
 | 22 | 1.3% | 32% |  |
@@ -397,8 +397,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 2% | 22% |  |
 | 28 | 1.2% | 21% |  |
 | 29 | 1.3% | 19% |  |
-| 30 | 1.2% | 18% |  |
-| 31 | 1.1% | 17% |  |
+| 30 | 1.3% | 18% |  |
+| 31 | 1.0% | 17% |  |
 | 32 | 1.0% | 16% |  |
 | 33 | 1.1% | 15% |  |
 | 34 | 1.0% | 14% |  |
@@ -407,13 +407,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 1.4% | 10% |  |
 | 38 | 0.8% | 9% |  |
 | 39 | 1.1% | 8% |  |
-| 40 | 0.8% | 7% |  |
+| 40 | 0.9% | 7% |  |
 | 41 | 1.0% | 6% |  |
 | 42 | 1.4% | 5% |  |
 | 43 | 1.5% | 4% |  |
 | 44 | 1.1% | 2% |  |
-| 45 | 0.5% | 1.3% |  |
-| 46 | 0.3% | 0.8% |  |
+| 45 | 0.4% | 1.3% |  |
+| 46 | 0.4% | 0.9% |  |
 | 47 | 0.1% | 0.5% |  |
 | 48 | 0.1% | 0.4% |  |
 | 49 | 0.1% | 0.3% |  |

@@ -205,7 +205,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 51 | 36–65 | 11–68 | 0–71 | 0–78 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 54 | 47–64 | 44–65 | 43–67 | 40–72 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 10 | 0–23 | 0–24 | 0–25 | 0–29 |
-| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 45 | 39–57 | 37–59 | 35–62 | 33–66 |
+| [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 46 | 40–56 | 37–59 | 36–61 | 33–66 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 49 | 43–58 | 41–61 | 38–64 | 36–68 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 63 | 51–67 | 49–70 | 47–73 | 45–78 |
 | [6–11 September 2019](2019-09-11-SocialChanges.html) | Social Changes <br> wpolityce.pl | 60 | 49–66 | 46–66 | 45–68 | 42–74 |
@@ -385,7 +385,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 0.2% | 95% |  |
 | 13 | 0.2% | 95% |  |
 | 14 | 0.4% | 94% |  |
-| 15 | 0.4% | 94% |  |
+| 15 | 0.3% | 94% |  |
 | 16 | 0.3% | 94% |  |
 | 17 | 0.2% | 93% |  |
 | 18 | 0.2% | 93% |  |
@@ -400,16 +400,16 @@ The following table shows the probability mass function per seat for the [poll a
 | 27 | 0% | 92% |  |
 | 28 | 0% | 92% |  |
 | 29 | 0% | 92% |  |
-| 30 | 0.1% | 92% |  |
+| 30 | 0% | 92% |  |
 | 31 | 0.1% | 92% |  |
 | 32 | 0.5% | 92% |  |
 | 33 | 0.3% | 91% |  |
 | 34 | 0.3% | 91% |  |
-| 35 | 0.5% | 90% |  |
-| 36 | 0.7% | 90% |  |
+| 35 | 0.4% | 91% |  |
+| 36 | 0.6% | 90% |  |
 | 37 | 0.7% | 89% |  |
 | 38 | 0.6% | 89% |  |
-| 39 | 1.1% | 88% |  |
+| 39 | 1.0% | 88% |  |
 | 40 | 0.9% | 87% |  |
 | 41 | 0.9% | 86% |  |
 | 42 | 4% | 85% |  |
@@ -417,18 +417,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 44 | 8% | 79% |  |
 | 45 | 3% | 71% |  |
 | 46 | 4% | 68% |  |
-| 47 | 4% | 64% |  |
+| 47 | 4% | 63% |  |
 | 48 | 3% | 60% |  |
 | 49 | 3% | 57% |  |
 | 50 | 3% | 54% |  |
 | 51 | 3% | 51% | Median |
 | 52 | 3% | 48% |  |
-| 53 | 2% | 46% |  |
+| 53 | 2% | 45% |  |
 | 54 | 2% | 43% |  |
 | 55 | 2% | 41% |  |
-| 56 | 2% | 39% |  |
+| 56 | 2% | 38% |  |
 | 57 | 2% | 36% |  |
-| 58 | 3% | 34% |  |
+| 58 | 2% | 34% |  |
 | 59 | 2% | 31% |  |
 | 60 | 2% | 29% |  |
 | 61 | 2% | 27% |  |
