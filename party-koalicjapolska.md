@@ -203,7 +203,7 @@ Last result: **58** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 0–28 | 0–36 | 0–41 | 0–45 |
-| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 21 | 12–28 | 11–30 | 9–32 | 7–37 |
+| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 21 | 12–28 | 10–30 | 8–32 | 7–37 |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 15 | 7–25 | 0–26 | 0–26 | 0–30 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 6–19 | 0–23 | 0–24 | 0–28 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 37 | 27–44 | 25–45 | 23–47 | 17–50 |
@@ -389,20 +389,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 13 | 5% | 47% |  |
 | 14 | 4% | 42% |  |
 | 15 | 2% | 38% |  |
-| 16 | 4% | 36% |  |
-| 17 | 3% | 32% |  |
+| 16 | 3% | 36% |  |
+| 17 | 3% | 33% |  |
 | 18 | 2% | 30% |  |
 | 19 | 2% | 28% |  |
-| 20 | 1.0% | 26% |  |
+| 20 | 1.1% | 26% |  |
 | 21 | 2% | 25% |  |
-| 22 | 1.4% | 23% |  |
+| 22 | 2% | 23% |  |
 | 23 | 3% | 22% |  |
 | 24 | 2% | 19% |  |
 | 25 | 2% | 17% |  |
 | 26 | 2% | 14% |  |
 | 27 | 1.3% | 12% |  |
 | 28 | 0.9% | 11% |  |
-| 29 | 0.7% | 10% |  |
+| 29 | 0.8% | 10% |  |
 | 30 | 0.7% | 9% |  |
 | 31 | 0.5% | 8% |  |
 | 32 | 0.6% | 8% |  |
