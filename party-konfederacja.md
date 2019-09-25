@@ -10,9 +10,12 @@ Last result: **4.8%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.0% | 2.6–5.8% | 2.2–6.4% | 1.9–6.9% | 1.5–7.7% |
+| N/A | [Poll Average](average.html) | 4.3% | 2.6–6.9% | 2.1–7.6% | 1.9–8.2% | 1.5–9.0% |
+| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.2–5.9% | 4.0–6.2% | 3.9–6.4% | 3.5–6.9% |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 3.0% | 2.4–3.9% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.5–7.0% |
@@ -177,15 +180,17 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.7% | 100% |  |
-| 1.5–2.5% | 9% | 99.3% |  |
-| 2.5–3.5% | 23% | 91% |  |
-| 3.5–4.5% | 34% | 68% | Median |
-| 4.5–5.5% | 20% | 33% | Last Result |
-| 5.5–6.5% | 10% | 14% |  |
-| 6.5–7.5% | 3% | 4% |  |
-| 7.5–8.5% | 0.6% | 0.7% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 9% | 99.2% |  |
+| 2.5–3.5% | 18% | 90% |  |
+| 3.5–4.5% | 28% | 72% | Median |
+| 4.5–5.5% | 20% | 44% | Last Result |
+| 5.5–6.5% | 11% | 24% |  |
+| 6.5–7.5% | 7% | 12% |  |
+| 7.5–8.5% | 4% | 5% |  |
+| 8.5–9.5% | 1.2% | 1.3% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -196,9 +201,12 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–8 | 0–11 | 0–15 | 0–22 |
+| N/A | [Poll Average](average.html) | 0 | 0–8 | 0–12 | 0–16 | 0–23 |
+| [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–2 | 0–8 | 0–16 | 0–16 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 0 | 0–3 | 0–3 | 0–3 | 0–3 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0–3 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl |  |  |  |  |  |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 3 | 0–10 | 0–12 | 0–15 | 0–21 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 10 | 4–20 | 2–22 | 0–24 | 0–27 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 0–6 | 0–9 | 0–12 | 0–15 |
@@ -366,31 +374,31 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 77% | 100% | Last Result, Median |
 | 1 | 0% | 23% |  |
-| 2 | 3% | 23% |  |
-| 3 | 2% | 20% |  |
-| 4 | 2% | 18% |  |
-| 5 | 2% | 16% |  |
-| 6 | 2% | 14% |  |
-| 7 | 2% | 12% |  |
-| 8 | 2% | 10% |  |
-| 9 | 2% | 8% |  |
-| 10 | 1.4% | 7% |  |
-| 11 | 1.0% | 5% |  |
-| 12 | 0.7% | 4% |  |
-| 13 | 0.7% | 4% |  |
-| 14 | 0.5% | 3% |  |
+| 2 | 0.8% | 23% |  |
+| 3 | 3% | 22% |  |
+| 4 | 2% | 19% |  |
+| 5 | 2% | 17% |  |
+| 6 | 2% | 15% |  |
+| 7 | 2% | 14% |  |
+| 8 | 2% | 12% |  |
+| 9 | 2% | 10% |  |
+| 10 | 2% | 8% |  |
+| 11 | 1.0% | 6% |  |
+| 12 | 0.7% | 5% |  |
+| 13 | 0.9% | 5% |  |
+| 14 | 0.6% | 4% |  |
 | 15 | 0.4% | 3% |  |
-| 16 | 0.3% | 2% |  |
+| 16 | 0.6% | 3% |  |
 | 17 | 0.3% | 2% |  |
-| 18 | 0.3% | 2% |  |
-| 19 | 0.2% | 1.2% |  |
-| 20 | 0.2% | 1.0% |  |
-| 21 | 0.2% | 0.8% |  |
-| 22 | 0.1% | 0.6% |  |
-| 23 | 0.1% | 0.4% |  |
+| 18 | 0.4% | 2% |  |
+| 19 | 0.3% | 1.5% |  |
+| 20 | 0.3% | 1.2% |  |
+| 21 | 0.2% | 0.9% |  |
+| 22 | 0.2% | 0.7% |  |
+| 23 | 0.2% | 0.5% |  |
 | 24 | 0.1% | 0.3% |  |
 | 25 | 0.1% | 0.2% |  |
-| 26 | 0% | 0.1% |  |
+| 26 | 0.1% | 0.1% |  |
 | 27 | 0% | 0.1% |  |
 | 28 | 0% | 0% |  |
 
