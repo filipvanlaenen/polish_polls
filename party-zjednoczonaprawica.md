@@ -213,7 +213,7 @@ Last result: **235** seats (General Election of 25 October 2015)
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 251 | 241–265 | 239–271 | 236–274 | 230–278 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 253 | 243–267 | 241–271 | 239–274 | 234–279 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 282 | 269–297 | 265–302 | 262–305 | 256–311 |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 248 | 238–260 | 232–265 | 230–267 | 223–273 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 248 | 237–261 | 233–265 | 230–267 | 224–273 |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 248 | 235–257 | 231–261 | 228–264 | 222–270 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 246 | 233–255 | 229–258 | 226–260 | 221–266 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 241 | 229–251 | 225–255 | 222–258 | 217–264 |
@@ -396,10 +396,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 227 | 0.5% | 97% |  |
 | 228 | 0.6% | 97% |  |
 | 229 | 0.7% | 96% |  |
-| 230 | 0.9% | 95% |  |
-| 231 | 0.9% | 95% | Majority |
+| 230 | 0.8% | 95% |  |
+| 231 | 1.0% | 95% | Majority |
 | 232 | 0.9% | 94% |  |
-| 233 | 1.0% | 93% |  |
+| 233 | 1.1% | 93% |  |
 | 234 | 1.2% | 92% |  |
 | 235 | 1.3% | 90% | Last Result |
 | 236 | 2% | 89% |  |
@@ -414,22 +414,22 @@ The following table shows the probability mass function per seat for the [poll a
 | 245 | 5% | 64% |  |
 | 246 | 5% | 59% |  |
 | 247 | 5% | 54% | Median |
-| 248 | 5% | 50% |  |
+| 248 | 5% | 49% |  |
 | 249 | 4% | 45% |  |
 | 250 | 4% | 41% |  |
 | 251 | 4% | 36% |  |
-| 252 | 2% | 33% |  |
+| 252 | 3% | 33% |  |
 | 253 | 2% | 30% |  |
 | 254 | 2% | 28% |  |
 | 255 | 2% | 25% |  |
 | 256 | 2% | 23% |  |
 | 257 | 2% | 21% |  |
 | 258 | 1.0% | 19% |  |
-| 259 | 1.0% | 18% |  |
+| 259 | 0.9% | 18% |  |
 | 260 | 1.2% | 17% |  |
 | 261 | 1.0% | 16% |  |
 | 262 | 0.8% | 15% |  |
-| 263 | 0.7% | 14% |  |
+| 263 | 0.8% | 14% |  |
 | 264 | 1.0% | 13% |  |
 | 265 | 0.6% | 12% |  |
 | 266 | 0.5% | 12% |  |

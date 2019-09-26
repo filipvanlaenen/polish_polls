@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 66 | 61–76 | 55–78 | 53–80 | 49–85 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 54 | 47–64 | 44–65 | 43–67 | 40–72 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 10 | 0–23 | 0–24 | 0–25 | 0–29 |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 48 | 41–59 | 40–62 | 37–63 | 35–66 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 49 | 41–59 | 39–61 | 37–63 | 35–66 |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 46 | 40–56 | 37–59 | 36–61 | 33–66 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 49 | 43–58 | 41–61 | 38–64 | 36–68 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 63 | 51–67 | 49–70 | 47–73 | 45–78 |
@@ -412,27 +412,27 @@ The following table shows the probability mass function per seat for the [poll a
 | 33 | 0.1% | 91% |  |
 | 34 | 0.1% | 91% |  |
 | 35 | 0.2% | 91% |  |
-| 36 | 0.3% | 90% |  |
-| 37 | 0.5% | 90% |  |
-| 38 | 0.5% | 90% |  |
+| 36 | 0.3% | 91% |  |
+| 37 | 0.4% | 90% |  |
+| 38 | 0.6% | 90% |  |
 | 39 | 0.6% | 89% |  |
-| 40 | 0.8% | 89% |  |
-| 41 | 1.0% | 88% |  |
+| 40 | 0.7% | 89% |  |
+| 41 | 0.8% | 88% |  |
 | 42 | 3% | 87% |  |
 | 43 | 2% | 84% |  |
 | 44 | 9% | 81% |  |
-| 45 | 3% | 72% |  |
+| 45 | 3% | 73% |  |
 | 46 | 5% | 70% |  |
 | 47 | 4% | 65% |  |
-| 48 | 4% | 61% |  |
-| 49 | 3% | 57% |  |
+| 48 | 3% | 61% |  |
+| 49 | 3% | 58% |  |
 | 50 | 3% | 55% |  |
 | 51 | 4% | 52% | Median |
 | 52 | 3% | 48% |  |
-| 53 | 3% | 45% |  |
+| 53 | 2% | 45% |  |
 | 54 | 3% | 43% |  |
-| 55 | 2% | 40% |  |
-| 56 | 2% | 38% |  |
+| 55 | 3% | 40% |  |
+| 56 | 2% | 37% |  |
 | 57 | 2% | 35% |  |
 | 58 | 2% | 33% |  |
 | 59 | 2% | 31% |  |
@@ -445,7 +445,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 66 | 2% | 11% |  |
 | 67 | 2% | 9% |  |
 | 68 | 2% | 7% |  |
-| 69 | 0.8% | 5% |  |
+| 69 | 0.7% | 5% |  |
 | 70 | 0.6% | 4% |  |
 | 71 | 0.5% | 4% |  |
 | 72 | 0.7% | 3% |  |

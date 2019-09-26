@@ -207,7 +207,7 @@ Last result: **58** seats (General Election of 25 October 2015)
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 15 | 7–25 | 0–26 | 0–26 | 0–30 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 6–19 | 0–23 | 0–24 | 0–28 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 37 | 27–44 | 25–45 | 23–47 | 17–50 |
-| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 17 | 9–25 | 7–27 | 6–28 | 0–34 |
+| [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 9–25 | 7–27 | 6–28 | 0–34 |
 | [13–17 September 2019](2019-09-17-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza | 0 | 0 | 0–7 | 0–8 | 0–13 |
 | [12–14 September 2019](2019-09-14-IBSP.html) | IBSP | 0 | 0–6 | 0–7 | 0–9 | 0–12 |
 | [12–13 September 2019](2019-09-13-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 27 | 19–36 | 16–39 | 15–41 | 12–43 |
@@ -379,7 +379,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 3 | 0% | 76% |  |
 | 4 | 0.1% | 76% |  |
 | 5 | 0.2% | 76% |  |
-| 6 | 1.4% | 76% |  |
+| 6 | 1.5% | 76% |  |
 | 7 | 3% | 74% |  |
 | 8 | 3% | 71% |  |
 | 9 | 3% | 69% |  |
@@ -390,13 +390,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 14 | 4% | 42% |  |
 | 15 | 2% | 38% |  |
 | 16 | 3% | 36% |  |
-| 17 | 3% | 33% |  |
-| 18 | 2% | 30% |  |
+| 17 | 3% | 32% |  |
+| 18 | 1.4% | 30% |  |
 | 19 | 2% | 28% |  |
-| 20 | 1.1% | 26% |  |
+| 20 | 1.2% | 26% |  |
 | 21 | 2% | 25% |  |
 | 22 | 2% | 23% |  |
-| 23 | 3% | 22% |  |
+| 23 | 3% | 21% |  |
 | 24 | 2% | 19% |  |
 | 25 | 2% | 17% |  |
 | 26 | 2% | 14% |  |
