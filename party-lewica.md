@@ -205,9 +205,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 51 | 37–66 | 10–69 | 0–73 | 0–79 |
+| N/A | [Poll Average](average.html) | 51 | 37–66 | 10–69 | 0–73 | 0–78 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 64 | 53–69 | 50–72 | 49–75 | 45–79 |
-| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 66 | 61–76 | 55–78 | 53–80 | 49–85 |
+| [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 66 | 60–76 | 55–78 | 53–80 | 49–84 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 54 | 47–64 | 44–65 | 43–67 | 40–72 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 10 | 0–23 | 0–24 | 0–25 | 0–29 |
 | [13–18 September 2019](2019-09-18-SocialChanges.html) | Social Changes <br> wpolityce.pl | 49 | 41–59 | 39–61 | 37–63 | 35–66 |
@@ -432,7 +432,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 53 | 2% | 45% |  |
 | 54 | 3% | 43% |  |
 | 55 | 3% | 40% |  |
-| 56 | 2% | 37% |  |
+| 56 | 2% | 38% |  |
 | 57 | 2% | 35% |  |
 | 58 | 2% | 33% |  |
 | 59 | 2% | 31% |  |
@@ -440,23 +440,23 @@ The following table shows the probability mass function per seat for the [poll a
 | 61 | 2% | 27% |  |
 | 62 | 3% | 25% |  |
 | 63 | 3% | 22% |  |
-| 64 | 4% | 19% |  |
-| 65 | 4% | 15% |  |
+| 64 | 5% | 19% |  |
+| 65 | 4% | 14% |  |
 | 66 | 2% | 11% |  |
-| 67 | 2% | 9% |  |
+| 67 | 2% | 8% |  |
 | 68 | 2% | 7% |  |
-| 69 | 0.7% | 5% |  |
+| 69 | 0.8% | 5% |  |
 | 70 | 0.6% | 4% |  |
-| 71 | 0.5% | 4% |  |
+| 71 | 0.6% | 4% |  |
 | 72 | 0.7% | 3% |  |
-| 73 | 0.3% | 3% |  |
-| 74 | 0.3% | 2% |  |
-| 75 | 0.4% | 2% |  |
-| 76 | 0.4% | 2% |  |
+| 73 | 0.4% | 3% |  |
+| 74 | 0.5% | 2% |  |
+| 75 | 0.3% | 2% |  |
+| 76 | 0.3% | 1.4% |  |
 | 77 | 0.3% | 1.1% |  |
 | 78 | 0.3% | 0.8% |  |
 | 79 | 0.2% | 0.5% |  |
-| 80 | 0.2% | 0.4% |  |
+| 80 | 0.1% | 0.3% |  |
 | 81 | 0.1% | 0.2% |  |
 | 82 | 0% | 0.1% |  |
 | 83 | 0% | 0.1% |  |
