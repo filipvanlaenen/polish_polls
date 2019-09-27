@@ -203,8 +203,8 @@ Last result: **58** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12 | 0–28 | 0–37 | 0–41 | 0–45 |
-| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 10 | 0–16 | 0–18 | 0–21 | 0–25 |
+| N/A | [Poll Average](average.html) | 11 | 0–28 | 0–37 | 0–41 | 0–45 |
+| [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 8 | 0–14 | 0–17 | 0–20 | 0–25 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 21 | 12–28 | 11–30 | 8–32 | 7–37 |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 7–24 | 0–25 | 0–26 | 0–30 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 11 | 6–19 | 0–23 | 0–24 | 0–28 |
@@ -375,24 +375,24 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 27% | 100% |  |
-| 1 | 0% | 73% |  |
-| 2 | 0% | 73% |  |
-| 3 | 0% | 73% |  |
-| 4 | 0.1% | 73% |  |
-| 5 | 0.3% | 72% |  |
-| 6 | 2% | 72% |  |
-| 7 | 3% | 71% |  |
-| 8 | 3% | 67% |  |
-| 9 | 4% | 64% |  |
-| 10 | 4% | 61% |  |
-| 11 | 6% | 57% |  |
-| 12 | 8% | 51% | Median |
-| 13 | 6% | 43% |  |
-| 14 | 4% | 37% |  |
-| 15 | 2% | 33% |  |
-| 16 | 3% | 31% |  |
-| 17 | 2% | 28% |  |
+| 0 | 29% | 100% |  |
+| 1 | 0% | 71% |  |
+| 2 | 0% | 71% |  |
+| 3 | 0% | 71% |  |
+| 4 | 0.1% | 71% |  |
+| 5 | 0.3% | 71% |  |
+| 6 | 2% | 71% |  |
+| 7 | 3% | 69% |  |
+| 8 | 3% | 66% |  |
+| 9 | 4% | 63% |  |
+| 10 | 4% | 59% |  |
+| 11 | 6% | 55% | Median |
+| 12 | 8% | 49% |  |
+| 13 | 6% | 41% |  |
+| 14 | 3% | 36% |  |
+| 15 | 2% | 32% |  |
+| 16 | 3% | 30% |  |
+| 17 | 2% | 27% |  |
 | 18 | 1.4% | 25% |  |
 | 19 | 2% | 24% |  |
 | 20 | 1.1% | 22% |  |
