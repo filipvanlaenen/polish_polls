@@ -13,6 +13,7 @@ Last result: **0.1%** (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 2.4% | 1.7–2.7% | 1.5–2.8% | 1.4–2.9% | 1.2–3.3% |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 0.0% | N/A | N/A | N/A | N/A |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0.0% | N/A | N/A | N/A | N/A |
+| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 0.0% | N/A | N/A | N/A | N/A |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 0.0% | N/A | N/A | N/A | N/A |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0.0% | N/A | N/A | N/A | N/A |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 0.0% | N/A | N/A | N/A | N/A |
@@ -199,6 +200,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN |  |  |  |  |  |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express |  |  |  |  |  |
+| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP |  |  |  |  |  |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF |  |  |  |  |  |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl |  |  |  |  |  |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS |  |  |  |  |  |
