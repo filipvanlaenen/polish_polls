@@ -12,6 +12,7 @@ Last result: **13.9%** (General Election of 25 October 2015)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5.9% | 4.1–7.7% | 3.7–8.2% | 3.5–8.7% | 3.0–9.5% |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6.8% | 5.9–8.0% | 5.7–8.3% | 5.4–8.6% | 5.0–9.1% |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 6.0% | 5.2–7.0% | 4.9–7.3% | 4.7–7.6% | 4.4–8.1% |
@@ -185,7 +186,7 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 3% | 100% |  |
 | 3.5–4.5% | 15% | 97% |  |
 | 4.5–5.5% | 20% | 82% |  |
-| 5.5–6.5% | 32% | 61% | Median |
+| 5.5–6.5% | 32% | 62% | Median |
 | 6.5–7.5% | 18% | 30% |  |
 | 7.5–8.5% | 9% | 12% |  |
 | 8.5–9.5% | 3% | 3% |  |
@@ -206,6 +207,7 @@ Last result: **58** seats (General Election of 25 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12 | 0–27 | 0–36 | 0–41 | 0–45 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 8 | 0–14 | 0–17 | 0–20 | 0–25 |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 16 | 10–26 | 9–28 | 7–29 | 4–34 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 21 | 12–28 | 11–30 | 8–32 | 7–37 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 14 | 8–24 | 0–26 | 0–28 | 0–32 |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 13 | 7–24 | 0–25 | 0–26 | 0–30 |
@@ -381,13 +383,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 73% |  |
 | 2 | 0% | 73% |  |
 | 3 | 0% | 73% |  |
-| 4 | 0.1% | 73% |  |
+| 4 | 0% | 73% |  |
 | 5 | 0.2% | 73% |  |
-| 6 | 2% | 73% |  |
+| 6 | 1.5% | 73% |  |
 | 7 | 3% | 71% |  |
 | 8 | 3% | 68% |  |
 | 9 | 4% | 65% |  |
-| 10 | 4% | 61% |  |
+| 10 | 3% | 62% |  |
 | 11 | 6% | 58% |  |
 | 12 | 9% | 52% | Median |
 | 13 | 6% | 43% |  |
@@ -397,15 +399,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 17 | 2% | 28% |  |
 | 18 | 2% | 26% |  |
 | 19 | 2% | 24% |  |
-| 20 | 1.2% | 23% |  |
-| 21 | 1.4% | 21% |  |
-| 22 | 1.4% | 20% |  |
+| 20 | 0.9% | 23% |  |
+| 21 | 1.4% | 22% |  |
+| 22 | 2% | 21% |  |
 | 23 | 2% | 19% |  |
-| 24 | 2% | 16% |  |
-| 25 | 2% | 14% |  |
+| 24 | 2% | 17% |  |
+| 25 | 2% | 15% |  |
 | 26 | 2% | 13% |  |
 | 27 | 1.1% | 11% |  |
-| 28 | 0.7% | 10% |  |
+| 28 | 0.9% | 10% |  |
 | 29 | 0.6% | 9% |  |
 | 30 | 0.6% | 8% |  |
 | 31 | 0.5% | 8% |  |
