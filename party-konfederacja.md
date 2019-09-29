@@ -205,7 +205,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 0 | 0–21 | 0–25 | 0–28 | 0–34 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 22 | 12–30 | 10–33 | 8–37 | 5–41 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 0–7 | 0–10 | 0–12 | 0–15 |
-| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 0 | 0–3 | 0–5 | 0–6 | 0–11 |
+| [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 0 | 0–2 | 0–5 | 0–6 | 0–11 |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 0 | 0–4 | 0–6 | 0–8 | 0–12 |
 | [17–19 September 2019](2019-09-19-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0 | 0–3 |
 | [12–19 September 2019](2019-09-19-CBOS.html) | CBOS | 0 | 0 | 0 | 0 | 0 |
