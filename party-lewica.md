@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 50 | 35–66 | 10–68 | 0–73 | 0–79 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 43 | 36–51 | 34–54 | 33–56 | 31–61 |
-| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 49 | 44–60 | 42–63 | 40–64 | 37–66 |
+| [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 49 | 44–61 | 42–64 | 40–64 | 36–66 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 64 | 53–69 | 50–72 | 48–75 | 45–79 |
 | [23–25 September 2019](2019-09-25-CBMIndicator.html) | CBM Indicator <br> TVP | 51 | 44–64 | 43–64 | 41–65 | 37–69 |
 | [20–21 September 2019](2019-09-21-IBRiS.html) | IBRiS <br> RMF | 66 | 60–76 | 55–78 | 53–80 | 49–84 |
@@ -422,7 +422,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 37 | 0.9% | 89% |  |
 | 38 | 1.0% | 88% |  |
 | 39 | 0.7% | 87% |  |
-| 40 | 0.9% | 86% |  |
+| 40 | 1.0% | 86% |  |
 | 41 | 0.9% | 86% |  |
 | 42 | 4% | 85% |  |
 | 43 | 3% | 81% |  |
@@ -432,14 +432,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 47 | 4% | 62% |  |
 | 48 | 3% | 58% |  |
 | 49 | 3% | 55% |  |
-| 50 | 3% | 51% | Median |
+| 50 | 3% | 52% | Median |
 | 51 | 3% | 49% |  |
-| 52 | 3% | 46% |  |
+| 52 | 3% | 45% |  |
 | 53 | 3% | 43% |  |
 | 54 | 2% | 40% |  |
-| 55 | 2% | 37% |  |
-| 56 | 2% | 35% |  |
-| 57 | 2% | 33% |  |
+| 55 | 2% | 38% |  |
+| 56 | 2% | 36% |  |
+| 57 | 2% | 34% |  |
 | 58 | 2% | 32% |  |
 | 59 | 2% | 30% |  |
 | 60 | 2% | 28% |  |
