@@ -204,7 +204,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–24 | 0–27 | 0–34 |
-| [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 0 | 0–5 | 0–8 | 0–9 | 0–14 |
+| [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 0 | 0–5 | 0–7 | 0–10 | 0–13 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 22 | 12–30 | 10–33 | 8–37 | 5–41 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 0–14 | 0–16 | 0–19 | 0–24 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 2 | 0–7 | 0–10 | 0–12 | 0–15 |
@@ -381,9 +381,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 53% | 100% | Last Result, Median |
 | 1 | 0% | 47% |  |
 | 2 | 3% | 47% |  |
-| 3 | 4% | 43% |  |
+| 3 | 4% | 44% |  |
 | 4 | 4% | 40% |  |
-| 5 | 3% | 36% |  |
+| 5 | 4% | 36% |  |
 | 6 | 3% | 32% |  |
 | 7 | 3% | 30% |  |
 | 8 | 3% | 27% |  |

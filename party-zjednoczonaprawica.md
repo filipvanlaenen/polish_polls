@@ -213,7 +213,7 @@ Last result: **235** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 248 | 234–273 | 229–283 | 225–291 | 217–302 |
-| [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 246 | 236–259 | 232–262 | 229–265 | 223–273 |
+| [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 245 | 236–258 | 233–262 | 229–266 | 223–273 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 236 | 222–248 | 219–250 | 216–253 | 210–259 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 247 | 236–258 | 233–264 | 229–267 | 224–272 |
 | [24–25 September 2019](2019-09-25-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 243 | 233–254 | 229–258 | 226–262 | 220–269 |
@@ -412,15 +412,15 @@ The following table shows the probability mass function per seat for the [poll a
 | 231 | 1.0% | 94% | Majority |
 | 232 | 1.1% | 93% |  |
 | 233 | 1.1% | 92% |  |
-| 234 | 2% | 91% |  |
+| 234 | 1.5% | 91% |  |
 | 235 | 1.4% | 89% | Last Result |
-| 236 | 1.4% | 88% |  |
+| 236 | 1.5% | 88% |  |
 | 237 | 2% | 87% |  |
 | 238 | 2% | 85% |  |
 | 239 | 2% | 82% |  |
 | 240 | 3% | 80% |  |
 | 241 | 3% | 77% |  |
-| 242 | 4% | 75% |  |
+| 242 | 4% | 74% |  |
 | 243 | 4% | 71% |  |
 | 244 | 4% | 67% |  |
 | 245 | 4% | 63% |  |
@@ -428,21 +428,21 @@ The following table shows the probability mass function per seat for the [poll a
 | 247 | 4% | 55% |  |
 | 248 | 4% | 51% | Median |
 | 249 | 4% | 47% |  |
-| 250 | 4% | 44% |  |
+| 250 | 4% | 43% |  |
 | 251 | 3% | 40% |  |
-| 252 | 3% | 37% |  |
+| 252 | 3% | 36% |  |
 | 253 | 2% | 34% |  |
 | 254 | 3% | 31% |  |
 | 255 | 3% | 29% |  |
 | 256 | 2% | 26% |  |
 | 257 | 2% | 24% |  |
-| 258 | 1.2% | 22% |  |
+| 258 | 1.3% | 22% |  |
 | 259 | 1.2% | 21% |  |
-| 260 | 1.3% | 20% |  |
-| 261 | 0.9% | 18% |  |
-| 262 | 1.0% | 17% |  |
+| 260 | 1.2% | 19% |  |
+| 261 | 1.0% | 18% |  |
+| 262 | 0.9% | 17% |  |
 | 263 | 0.9% | 16% |  |
-| 264 | 0.9% | 15% |  |
+| 264 | 0.9% | 16% |  |
 | 265 | 0.7% | 15% |  |
 | 266 | 0.7% | 14% |  |
 | 267 | 0.5% | 13% |  |
