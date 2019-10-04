@@ -10,7 +10,8 @@ Last result: **11.7%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 6.1–14.2% | 5.0–14.7% | 4.6–15.2% | 4.0–16.0% |
+| N/A | [Poll Average](average.html) | 12.1% | 6.1–14.2% | 5.0–14.7% | 4.6–15.1% | 4.0–16.0% |
+| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 13.9% | 12.6–15.3% | 12.3–15.7% | 11.9–16.1% | 11.4–16.8% |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 13.1% | 11.9–14.5% | 11.5–14.9% | 11.2–15.2% | 10.7–15.9% |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 12.6% | 11.3–14.0% | 11.0–14.4% | 10.7–14.8% | 10.1–15.5% |
@@ -192,12 +193,12 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 3% | 88% |  |
 | 9.5–10.5% | 9% | 85% |  |
 | 10.5–11.5% | 15% | 76% |  |
-| 11.5–12.5% | 20% | 62% | Last Result, Median |
+| 11.5–12.5% | 21% | 62% | Last Result, Median |
 | 12.5–13.5% | 21% | 41% |  |
 | 13.5–14.5% | 14% | 20% |  |
 | 14.5–15.5% | 5% | 6% |  |
-| 15.5–16.5% | 1.2% | 1.3% |  |
-| 16.5–17.5% | 0.1% | 0.2% |  |
+| 15.5–16.5% | 1.0% | 1.2% |  |
+| 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
 
 
@@ -209,7 +210,8 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 50 | 23–65 | 8–67 | 0–69 | 0–76 |
+| N/A | [Poll Average](average.html) | 50 | 23–64 | 8–66 | 0–69 | 0–76 |
+| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 61 | 54–66 | 51–71 | 47–74 | 44–78 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 64 | 53–69 | 50–73 | 48–76 | 46–79 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 43 | 36–51 | 34–54 | 33–56 | 31–61 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 50 | 44–62 | 42–64 | 40–64 | 36–67 |
@@ -429,7 +431,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 42 | 2% | 81% |  |
 | 43 | 2% | 79% |  |
 | 44 | 6% | 77% |  |
-| 45 | 3% | 72% |  |
+| 45 | 4% | 71% |  |
 | 46 | 4% | 68% |  |
 | 47 | 4% | 64% |  |
 | 48 | 4% | 60% |  |
@@ -437,33 +439,33 @@ The following table shows the probability mass function per seat for the [poll a
 | 50 | 3% | 52% | Median |
 | 51 | 4% | 49% |  |
 | 52 | 3% | 45% |  |
-| 53 | 3% | 41% |  |
+| 53 | 3% | 42% |  |
 | 54 | 2% | 38% |  |
-| 55 | 2% | 36% |  |
+| 55 | 3% | 36% |  |
 | 56 | 2% | 33% |  |
-| 57 | 2% | 32% |  |
-| 58 | 2% | 30% |  |
-| 59 | 2% | 28% |  |
-| 60 | 2% | 26% |  |
-| 61 | 2% | 24% |  |
-| 62 | 3% | 22% |  |
-| 63 | 3% | 19% |  |
-| 64 | 6% | 16% |  |
-| 65 | 4% | 11% |  |
-| 66 | 1.5% | 7% |  |
-| 67 | 2% | 5% |  |
-| 68 | 0.8% | 3% |  |
+| 57 | 3% | 31% |  |
+| 58 | 2% | 29% |  |
+| 59 | 2% | 26% |  |
+| 60 | 2% | 24% |  |
+| 61 | 2% | 22% |  |
+| 62 | 3% | 19% |  |
+| 63 | 3% | 16% |  |
+| 64 | 5% | 13% |  |
+| 65 | 3% | 8% |  |
+| 66 | 1.1% | 5% |  |
+| 67 | 1.0% | 4% |  |
+| 68 | 0.5% | 3% |  |
 | 69 | 0.5% | 3% |  |
 | 70 | 0.3% | 2% |  |
 | 71 | 0.3% | 2% |  |
-| 72 | 0.3% | 2% |  |
-| 73 | 0.3% | 1.3% |  |
-| 74 | 0.2% | 1.0% |  |
-| 75 | 0.1% | 0.8% |  |
+| 72 | 0.3% | 1.5% |  |
+| 73 | 0.3% | 1.2% |  |
+| 74 | 0.2% | 0.9% |  |
+| 75 | 0.1% | 0.7% |  |
 | 76 | 0.2% | 0.6% |  |
-| 77 | 0.2% | 0.5% |  |
-| 78 | 0.1% | 0.3% |  |
-| 79 | 0.1% | 0.2% |  |
+| 77 | 0.2% | 0.4% |  |
+| 78 | 0.1% | 0.2% |  |
+| 79 | 0.1% | 0.1% |  |
 | 80 | 0% | 0.1% |  |
 | 81 | 0% | 0% |  |
 

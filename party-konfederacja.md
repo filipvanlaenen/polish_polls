@@ -10,7 +10,8 @@ Last result: **4.8%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 3.2–6.9% | 2.9–7.4% | 2.6–7.8% | 2.2–8.5% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.2–6.9% | 2.9–7.4% | 2.6–7.8% | 2.2–8.5% |
+| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.7–6.2% | 3.3–6.7% |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 4.4% | 3.7–5.3% | 3.5–5.5% | 3.3–5.7% | 3.0–6.2% |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
@@ -186,9 +187,9 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
 | 2.5–3.5% | 14% | 98% |  |
-| 3.5–4.5% | 25% | 84% |  |
-| 4.5–5.5% | 25% | 59% | Last Result, Median |
-| 5.5–6.5% | 19% | 34% |  |
+| 3.5–4.5% | 26% | 84% |  |
+| 4.5–5.5% | 24% | 58% | Last Result, Median |
+| 5.5–6.5% | 18% | 33% |  |
 | 6.5–7.5% | 11% | 15% |  |
 | 7.5–8.5% | 4% | 4% |  |
 | 8.5–9.5% | 0.5% | 0.5% |  |
@@ -204,6 +205,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–18 | 0–24 | 0–27 | 0–34 |
+| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–6 | 0–7 | 0–9 | 0–13 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 0 | 0–5 | 0–7 | 0–10 | 0–13 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 22 | 12–30 | 10–33 | 8–37 | 5–41 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6 | 0–14 | 0–16 | 0–19 | 0–24 |
@@ -378,22 +380,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 53% | 100% | Last Result, Median |
-| 1 | 0% | 47% |  |
-| 2 | 3% | 47% |  |
-| 3 | 4% | 44% |  |
-| 4 | 4% | 40% |  |
-| 5 | 4% | 36% |  |
+| 0 | 55% | 100% | Last Result, Median |
+| 1 | 0% | 45% |  |
+| 2 | 3% | 45% |  |
+| 3 | 4% | 42% |  |
+| 4 | 4% | 38% |  |
+| 5 | 3% | 35% |  |
 | 6 | 3% | 32% |  |
-| 7 | 3% | 30% |  |
-| 8 | 3% | 27% |  |
+| 7 | 3% | 29% |  |
+| 8 | 3% | 26% |  |
 | 9 | 2% | 24% |  |
-| 10 | 2% | 22% |  |
-| 11 | 2% | 20% |  |
+| 10 | 2% | 21% |  |
+| 11 | 2% | 19% |  |
 | 12 | 2% | 17% |  |
-| 13 | 1.5% | 16% |  |
-| 14 | 1.3% | 14% |  |
-| 15 | 1.2% | 13% |  |
+| 13 | 1.4% | 16% |  |
+| 14 | 1.2% | 14% |  |
+| 15 | 1.1% | 13% |  |
 | 16 | 0.8% | 12% |  |
 | 17 | 0.9% | 11% |  |
 | 18 | 0.9% | 10% |  |
