@@ -213,8 +213,8 @@ Last result: **235** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 247 | 230–273 | 225–283 | 221–291 | 214–302 |
-| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 231 | 219–243 | 216–244 | 214–246 | 210–251 |
+| N/A | [Poll Average](average.html) | 247 | 230–273 | 224–283 | 221–291 | 214–302 |
+| [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 231 | 219–243 | 216–245 | 214–248 | 210–252 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 245 | 236–258 | 233–262 | 229–266 | 223–273 |
 | [25–26 September 2019](2019-09-26-KantarPublic.html) | Kantar Public <br> TVN | 236 | 222–248 | 219–250 | 216–253 | 210–259 |
 | [20–25 September 2019](2019-09-25-SocialChanges.html) | Social Changes <br> wpolityce.pl | 247 | 236–258 | 233–264 | 229–267 | 224–272 |
@@ -396,28 +396,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 212 | 0.1% | 99.8% |  |
 | 213 | 0.1% | 99.7% |  |
 | 214 | 0.2% | 99.6% |  |
-| 215 | 0.2% | 99.5% |  |
+| 215 | 0.2% | 99.4% |  |
 | 216 | 0.2% | 99.3% |  |
-| 217 | 0.3% | 99.1% |  |
-| 218 | 0.4% | 98.8% |  |
-| 219 | 0.3% | 98% |  |
+| 217 | 0.3% | 99.0% |  |
+| 218 | 0.3% | 98.7% |  |
+| 219 | 0.4% | 98% |  |
 | 220 | 0.5% | 98% |  |
 | 221 | 0.5% | 98% |  |
 | 222 | 0.6% | 97% |  |
 | 223 | 0.6% | 96% |  |
-| 224 | 0.7% | 96% |  |
-| 225 | 1.0% | 95% |  |
+| 224 | 0.8% | 96% |  |
+| 225 | 0.9% | 95% |  |
 | 226 | 0.9% | 94% |  |
 | 227 | 0.9% | 93% |  |
-| 228 | 0.8% | 92% |  |
+| 228 | 1.0% | 92% |  |
 | 229 | 1.0% | 91% |  |
-| 230 | 1.2% | 90% |  |
-| 231 | 1.3% | 89% | Majority |
-| 232 | 1.1% | 88% |  |
-| 233 | 1.3% | 87% |  |
+| 230 | 1.1% | 90% |  |
+| 231 | 1.2% | 89% | Majority |
+| 232 | 1.2% | 88% |  |
+| 233 | 1.4% | 87% |  |
 | 234 | 2% | 85% |  |
 | 235 | 2% | 84% | Last Result |
-| 236 | 1.5% | 82% |  |
+| 236 | 2% | 82% |  |
 | 237 | 2% | 81% |  |
 | 238 | 2% | 79% |  |
 | 239 | 2% | 77% |  |
@@ -426,7 +426,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 242 | 3% | 69% |  |
 | 243 | 3% | 66% |  |
 | 244 | 4% | 62% |  |
-| 245 | 3% | 58% |  |
+| 245 | 3% | 59% |  |
 | 246 | 3% | 55% |  |
 | 247 | 4% | 52% | Median |
 | 248 | 4% | 48% |  |
