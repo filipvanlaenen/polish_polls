@@ -213,7 +213,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 51 | 23–64 | 8–65 | 0–67 | 0–73 |
-| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 54 | 47–64 | 44–66 | 43–67 | 40–73 |
+| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 54 | 46–64 | 44–66 | 43–67 | 40–73 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 61 | 49–66 | 47–68 | 45–70 | 42–76 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 62 | 51–67 | 48–70 | 47–72 | 44–78 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 64 | 53–69 | 50–73 | 48–76 | 46–79 |
@@ -457,7 +457,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 64 | 5% | 13% |  |
 | 65 | 3% | 8% |  |
 | 66 | 1.4% | 5% |  |
-| 67 | 1.1% | 3% |  |
+| 67 | 1.2% | 3% |  |
 | 68 | 0.6% | 2% |  |
 | 69 | 0.4% | 2% |  |
 | 70 | 0.2% | 1.2% |  |

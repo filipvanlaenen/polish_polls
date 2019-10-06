@@ -216,7 +216,7 @@ Last result: **235** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 248 | 230–274 | 225–283 | 221–291 | 214–302 |
-| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 257 | 245–273 | 243–275 | 241–277 | 236–283 |
+| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 257 | 245–273 | 243–275 | 241–278 | 236–283 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 247 | 237–261 | 234–265 | 230–268 | 224–274 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 231 | 219–243 | 216–245 | 214–248 | 210–252 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 245 | 236–258 | 233–262 | 229–266 | 223–273 |
@@ -429,7 +429,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 241 | 2% | 74% |  |
 | 242 | 3% | 72% |  |
 | 243 | 3% | 69% |  |
-| 244 | 4% | 66% |  |
+| 244 | 3% | 66% |  |
 | 245 | 3% | 63% |  |
 | 246 | 3% | 60% |  |
 | 247 | 4% | 57% |  |
@@ -448,7 +448,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 260 | 1.4% | 23% |  |
 | 261 | 1.2% | 22% |  |
 | 262 | 1.1% | 21% |  |
-| 263 | 1.1% | 20% |  |
+| 263 | 1.2% | 20% |  |
 | 264 | 1.1% | 18% |  |
 | 265 | 0.9% | 17% |  |
 | 266 | 0.9% | 16% |  |
@@ -459,9 +459,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 271 | 0.8% | 13% |  |
 | 272 | 0.6% | 12% |  |
 | 273 | 0.7% | 11% |  |
-| 274 | 0.5% | 11% |  |
+| 274 | 0.6% | 11% |  |
 | 275 | 0.6% | 10% |  |
-| 276 | 0.7% | 9% |  |
+| 276 | 0.6% | 9% |  |
 | 277 | 0.7% | 9% |  |
 | 278 | 0.6% | 8% |  |
 | 279 | 0.6% | 7% |  |

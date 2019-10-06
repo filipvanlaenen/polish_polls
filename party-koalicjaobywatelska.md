@@ -215,7 +215,7 @@ Last result: **166** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 143 | 124–160 | 120–166 | 117–170 | 112–177 |
-| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 133 | 119–145 | 116–146 | 115–148 | 111–152 |
+| [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 133 | 119–145 | 117–146 | 115–148 | 111–152 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 127 | 117–139 | 114–143 | 111–145 | 104–149 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 144 | 131–152 | 129–155 | 127–157 | 123–162 |
 | [2 October 2019](2019-10-02-IBRiS.html) | IBRiS <br> Radio ZET | 138 | 125–147 | 121–149 | 119–151 | 115–154 |
@@ -407,17 +407,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 115 | 0.5% | 99.0% |  |
 | 116 | 0.6% | 98.5% |  |
 | 117 | 0.5% | 98% |  |
-| 118 | 0.6% | 97% |  |
+| 118 | 0.7% | 97% |  |
 | 119 | 1.3% | 97% |  |
 | 120 | 1.2% | 96% |  |
 | 121 | 1.1% | 94% |  |
 | 122 | 1.3% | 93% |  |
 | 123 | 2% | 92% |  |
-| 124 | 2% | 90% |  |
+| 124 | 1.5% | 90% |  |
 | 125 | 2% | 89% |  |
-| 126 | 1.4% | 87% |  |
+| 126 | 2% | 87% |  |
 | 127 | 2% | 85% |  |
-| 128 | 2% | 84% |  |
+| 128 | 2% | 83% |  |
 | 129 | 2% | 82% |  |
 | 130 | 2% | 80% |  |
 | 131 | 2% | 78% |  |
@@ -430,9 +430,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 2% | 64% |  |
 | 139 | 2% | 62% |  |
 | 140 | 3% | 60% |  |
-| 141 | 3% | 58% |  |
+| 141 | 3% | 57% |  |
 | 142 | 2% | 55% |  |
-| 143 | 2% | 52% | Median |
+| 143 | 3% | 52% | Median |
 | 144 | 3% | 50% |  |
 | 145 | 3% | 47% |  |
 | 146 | 3% | 44% |  |
