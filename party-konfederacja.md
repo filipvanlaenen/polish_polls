@@ -210,7 +210,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–16 | 0–23 | 0–27 | 0–33 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 4 | 0–10 | 0–13 | 0–15 | 0–20 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 3 | 0–10 | 0–12 | 0–15 | 0–21 |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–2 | 0–4 |
 | [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0–6 |
@@ -394,12 +394,12 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 38% |  |
 | 2 | 4% | 38% |  |
 | 3 | 3% | 34% |  |
-| 4 | 3% | 32% |  |
-| 5 | 3% | 29% |  |
-| 6 | 2% | 26% |  |
-| 7 | 2% | 24% |  |
-| 8 | 2% | 22% |  |
-| 9 | 2% | 20% |  |
+| 4 | 3% | 31% |  |
+| 5 | 3% | 28% |  |
+| 6 | 2% | 25% |  |
+| 7 | 2% | 23% |  |
+| 8 | 2% | 21% |  |
+| 9 | 2% | 19% |  |
 | 10 | 2% | 18% |  |
 | 11 | 1.5% | 16% |  |
 | 12 | 1.2% | 14% |  |

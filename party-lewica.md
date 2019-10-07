@@ -216,8 +216,8 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 51 | 30–65 | 10–67 | 0–69 | 0–74 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 60 | 51–69 | 48–72 | 46–74 | 44–77 |
-| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 53 | 46–64 | 44–65 | 42–67 | 40–71 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 61 | 51–69 | 48–71 | 46–74 | 44–77 |
+| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 53 | 46–64 | 44–65 | 43–67 | 40–71 |
 | [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 49 | 47–51 | 47–52 | 46–53 | 44–57 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 54 | 46–64 | 44–66 | 43–67 | 40–73 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 61 | 49–66 | 47–68 | 45–70 | 42–76 |
@@ -444,34 +444,34 @@ The following table shows the probability mass function per seat for the [poll a
 | 45 | 2% | 79% |  |
 | 46 | 3% | 76% |  |
 | 47 | 4% | 73% |  |
-| 48 | 7% | 69% |  |
+| 48 | 6% | 69% |  |
 | 49 | 4% | 63% |  |
 | 50 | 5% | 59% |  |
-| 51 | 5% | 53% | Median |
+| 51 | 5% | 54% | Median |
 | 52 | 4% | 49% |  |
 | 53 | 4% | 45% |  |
 | 54 | 3% | 41% |  |
 | 55 | 3% | 38% |  |
-| 56 | 3% | 36% |  |
+| 56 | 2% | 36% |  |
 | 57 | 2% | 33% |  |
-| 58 | 3% | 31% |  |
+| 58 | 2% | 31% |  |
 | 59 | 2% | 28% |  |
 | 60 | 2% | 26% |  |
 | 61 | 2% | 24% |  |
-| 62 | 3% | 21% |  |
-| 63 | 3% | 19% |  |
-| 64 | 5% | 15% |  |
+| 62 | 3% | 22% |  |
+| 63 | 4% | 19% |  |
+| 64 | 5% | 16% |  |
 | 65 | 3% | 11% |  |
 | 66 | 2% | 7% |  |
-| 67 | 2% | 6% |  |
-| 68 | 1.1% | 4% |  |
+| 67 | 2% | 5% |  |
+| 68 | 1.2% | 4% |  |
 | 69 | 0.7% | 3% |  |
 | 70 | 0.3% | 2% |  |
-| 71 | 0.4% | 2% |  |
+| 71 | 0.4% | 1.5% |  |
 | 72 | 0.3% | 1.1% |  |
-| 73 | 0.3% | 0.9% |  |
+| 73 | 0.2% | 0.8% |  |
 | 74 | 0.1% | 0.6% |  |
-| 75 | 0.1% | 0.5% |  |
+| 75 | 0.2% | 0.5% |  |
 | 76 | 0.1% | 0.3% |  |
 | 77 | 0.1% | 0.2% |  |
 | 78 | 0.1% | 0.1% |  |

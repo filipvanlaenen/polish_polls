@@ -220,8 +220,8 @@ Last result: **235** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 250 | 230–274 | 225–282 | 221–289 | 214–302 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 242 | 228–252 | 225–255 | 223–257 | 218–262 |
-| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 262 | 248–275 | 245–278 | 244–280 | 240–285 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 242 | 228–252 | 225–254 | 223–257 | 218–262 |
+| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 262 | 247–275 | 245–278 | 244–280 | 240–285 |
 | [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 255 | 252–260 | 251–261 | 251–262 | 248–265 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 257 | 245–273 | 243–275 | 241–278 | 236–283 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 247 | 237–261 | 234–265 | 230–268 | 224–274 |
@@ -412,20 +412,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 217 | 0.3% | 99.1% |  |
 | 218 | 0.3% | 98.8% |  |
 | 219 | 0.4% | 98.5% |  |
-| 220 | 0.4% | 98% |  |
+| 220 | 0.5% | 98% |  |
 | 221 | 0.5% | 98% |  |
 | 222 | 0.6% | 97% |  |
 | 223 | 0.6% | 97% |  |
 | 224 | 0.8% | 96% |  |
 | 225 | 0.9% | 95% |  |
-| 226 | 0.9% | 94% |  |
+| 226 | 0.8% | 94% |  |
 | 227 | 0.9% | 94% |  |
 | 228 | 1.0% | 93% |  |
-| 229 | 1.0% | 92% |  |
+| 229 | 0.9% | 92% |  |
 | 230 | 0.9% | 91% |  |
 | 231 | 1.3% | 90% | Majority |
 | 232 | 0.9% | 88% |  |
-| 233 | 1.4% | 88% |  |
+| 233 | 1.3% | 88% |  |
 | 234 | 1.3% | 86% |  |
 | 235 | 2% | 85% | Last Result |
 | 236 | 1.3% | 83% |  |
@@ -442,28 +442,28 @@ The following table shows the probability mass function per seat for the [poll a
 | 247 | 3% | 59% |  |
 | 248 | 2% | 56% |  |
 | 249 | 2% | 54% |  |
-| 250 | 3% | 52% | Median |
+| 250 | 3% | 51% | Median |
 | 251 | 3% | 49% |  |
 | 252 | 3% | 46% |  |
 | 253 | 3% | 43% |  |
 | 254 | 4% | 40% |  |
 | 255 | 3% | 37% |  |
-| 256 | 3% | 34% |  |
+| 256 | 2% | 33% |  |
 | 257 | 2% | 31% |  |
 | 258 | 2% | 29% |  |
 | 259 | 2% | 27% |  |
 | 260 | 2% | 25% |  |
-| 261 | 1.5% | 23% |  |
+| 261 | 1.4% | 23% |  |
 | 262 | 1.2% | 21% |  |
-| 263 | 1.0% | 20% |  |
+| 263 | 1.1% | 20% |  |
 | 264 | 1.1% | 19% |  |
 | 265 | 0.9% | 18% |  |
 | 266 | 0.9% | 17% |  |
 | 267 | 0.9% | 16% |  |
-| 268 | 0.8% | 16% |  |
-| 269 | 1.0% | 15% |  |
-| 270 | 0.7% | 14% |  |
-| 271 | 0.8% | 13% |  |
+| 268 | 0.8% | 15% |  |
+| 269 | 0.9% | 15% |  |
+| 270 | 0.8% | 14% |  |
+| 271 | 0.9% | 13% |  |
 | 272 | 0.7% | 12% |  |
 | 273 | 0.7% | 11% |  |
 | 274 | 0.7% | 11% |  |
