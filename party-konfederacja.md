@@ -10,7 +10,10 @@ Last result: **4.8%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.1–6.9% | 2.8–7.4% | 2.6–7.8% | 2.2–8.5% |
+| N/A | [Poll Average](average.html) | 4.5% | 3.2–6.8% | 2.9–7.3% | 2.7–7.7% | 2.3–8.5% |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 5.0% | 4.2–6.0% | 4.0–6.2% | 3.8–6.5% | 3.4–7.0% |
+| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.5–5.6% |
+| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 4.2% | 3.9–4.5% | 3.8–4.6% | 3.8–4.7% | 3.6–4.8% |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 3.6% | 3.0–4.5% | 2.8–4.7% | 2.7–4.9% | 2.4–5.3% |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4.8% | 4.0–5.7% | 3.8–6.0% | 3.7–6.2% | 3.3–6.7% |
@@ -188,13 +191,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 18% | 98% |  |
-| 3.5–4.5% | 27% | 80% |  |
-| 4.5–5.5% | 23% | 53% | Last Result, Median |
-| 5.5–6.5% | 17% | 31% |  |
-| 6.5–7.5% | 10% | 14% |  |
-| 7.5–8.5% | 3% | 4% |  |
-| 8.5–9.5% | 0.4% | 0.5% |  |
+| 2.5–3.5% | 15% | 98% |  |
+| 3.5–4.5% | 34% | 83% |  |
+| 4.5–5.5% | 21% | 49% | Last Result, Median |
+| 5.5–6.5% | 15% | 28% |  |
+| 6.5–7.5% | 9% | 13% |  |
+| 7.5–8.5% | 3% | 3% |  |
+| 8.5–9.5% | 0.4% | 0.4% |  |
 | 9.5–10.5% | 0% | 0% |  |
 
 
@@ -206,7 +209,10 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–17 | 0–24 | 0–27 | 0–34 |
+| N/A | [Poll Average](average.html) | 0 | 0–16 | 0–23 | 0–27 | 0–33 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 4 | 0–10 | 0–13 | 0–15 | 0–20 |
+| [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0 | 0 | 0–2 | 0–4 |
+| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 0 | 0 | 0 | 0 | 0 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0–6 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 3 | 0–11 | 0–13 | 0–15 | 0–20 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–6 | 0–7 | 0–9 | 0–13 |
@@ -384,43 +390,43 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 58% | 100% | Last Result, Median |
-| 1 | 0% | 42% |  |
-| 2 | 4% | 42% |  |
-| 3 | 4% | 38% |  |
-| 4 | 3% | 34% |  |
-| 5 | 3% | 31% |  |
-| 6 | 2% | 28% |  |
-| 7 | 2% | 26% |  |
-| 8 | 2% | 24% |  |
-| 9 | 2% | 22% |  |
-| 10 | 2% | 20% |  |
-| 11 | 2% | 18% |  |
-| 12 | 1.3% | 16% |  |
-| 13 | 1.2% | 15% |  |
-| 14 | 1.0% | 13% |  |
-| 15 | 1.0% | 12% |  |
-| 16 | 0.7% | 11% |  |
-| 17 | 0.9% | 11% |  |
-| 18 | 0.9% | 10% |  |
-| 19 | 0.9% | 9% |  |
-| 20 | 0.7% | 8% |  |
-| 21 | 0.8% | 7% |  |
-| 22 | 0.7% | 7% |  |
-| 23 | 0.8% | 6% |  |
-| 24 | 0.8% | 5% |  |
-| 25 | 0.7% | 4% |  |
-| 26 | 0.6% | 4% |  |
+| 0 | 62% | 100% | Last Result, Median |
+| 1 | 0% | 38% |  |
+| 2 | 4% | 38% |  |
+| 3 | 3% | 34% |  |
+| 4 | 3% | 32% |  |
+| 5 | 3% | 29% |  |
+| 6 | 2% | 26% |  |
+| 7 | 2% | 24% |  |
+| 8 | 2% | 22% |  |
+| 9 | 2% | 20% |  |
+| 10 | 2% | 18% |  |
+| 11 | 1.5% | 16% |  |
+| 12 | 1.2% | 14% |  |
+| 13 | 1.1% | 13% |  |
+| 14 | 0.9% | 12% |  |
+| 15 | 0.9% | 11% |  |
+| 16 | 0.7% | 10% |  |
+| 17 | 0.8% | 10% |  |
+| 18 | 0.8% | 9% |  |
+| 19 | 0.8% | 8% |  |
+| 20 | 0.6% | 7% |  |
+| 21 | 0.7% | 7% |  |
+| 22 | 0.7% | 6% |  |
+| 23 | 0.7% | 5% |  |
+| 24 | 0.7% | 5% |  |
+| 25 | 0.6% | 4% |  |
+| 26 | 0.6% | 3% |  |
 | 27 | 0.6% | 3% |  |
 | 28 | 0.4% | 2% |  |
-| 29 | 0.5% | 2% |  |
-| 30 | 0.4% | 1.4% |  |
-| 31 | 0.2% | 1.0% |  |
+| 29 | 0.4% | 2% |  |
+| 30 | 0.4% | 1.3% |  |
+| 31 | 0.2% | 0.9% |  |
 | 32 | 0.1% | 0.7% |  |
-| 33 | 0.1% | 0.6% |  |
+| 33 | 0.1% | 0.5% |  |
 | 34 | 0.1% | 0.5% |  |
 | 35 | 0.1% | 0.4% |  |
-| 36 | 0.1% | 0.4% |  |
+| 36 | 0.1% | 0.3% |  |
 | 37 | 0.1% | 0.3% |  |
 | 38 | 0.1% | 0.2% |  |
 | 39 | 0% | 0.1% |  |
