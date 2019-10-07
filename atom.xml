@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-10-06T12:28:54.488714+02:00</updated>
+  <updated>2019-10-07T20:55:35.784898+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 46.4–52.5%, 244–280 seats</li><li>Koalicja Obywatelska: 23.8–29.2%, 114–147 seats</li><li>Lewica: 11.2–15.3%, 43–67 seats</li><li>Koalicja Polska: 5.0–8.1%, 4–27 seats</li><li>Konfederacja: 2.7–5.1%, 0–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-10-04-Estymator.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-10-04-Estymator.html"/>
+    <title>Opinion Poll by Estymator for DoRzeczy.pl, 3–4 October 2019</title>
+    <updated>2019-10-07T20:55:35.784898+02:00</updated>
+    <dc:date>2019-10-07T20:55:35.784898+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 41.4–47.2%, 241–278 seats</li><li>Koalicja Obywatelska: 21.8–26.9%, 115–148 seats</li><li>Lewica: 10.2–14.1%, 43–67 seats</li><li>Koalicja Polska: 4.7–7.5%, 0–27 seats</li><li>Konfederacja: 2.7–4.9%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-10-03-IBRiS.html</id>
@@ -487,5 +495,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-10-06T12:28:54.488714+02:00</dc:date>
+  <dc:date>2019-10-07T20:55:35.784898+02:00</dc:date>
 </feed>
