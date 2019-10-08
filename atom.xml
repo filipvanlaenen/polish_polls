@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-10-08T19:31:28.347734+02:00</updated>
+  <updated>2019-10-08T20:22:26.833755+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 39.0–45.1%, 223–257 seats</li><li>Koalicja Obywatelska: 26.2–31.8%, 141–173 seats</li><li>Lewica: 11.1–15.3%, 46–73 seats</li><li>Koalicja Polska: 2.9–5.4%, 0–10 seats</li><li>Konfederacja: 3.8–6.5%, 0–15 seats</li><li>Bezpartyjni Samorządowcy: 0.5–1.8%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-10-05-KantarMillwardBrown.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Estymator for DoRzeczy.pl, 3–4 October 2019</title>
     <updated>2019-10-07T20:55:35.784898+02:00</updated>
     <dc:date>2019-10-07T20:55:35.784898+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 47.2–49.4%, 250–262 seats</li><li>Koalicja Obywatelska: 26.7–28.7%, 135–146 seats</li><li>Lewica: 11.7–13.2%, 46–53 seats</li><li>Koalicja Polska: 6.0–7.1%, 11–19 seats</li><li>Konfederacja: 3.8–4.7%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-10-04-DobraOpinia.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-10-04-DobraOpinia.html"/>
+    <title>Opinion Poll by Dobra Opinia for PPG, 30 September–4 October 2019</title>
+    <updated>2019-10-08T20:22:26.833755+02:00</updated>
+    <dc:date>2019-10-08T20:22:26.833755+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 41.4–47.2%, 241–278 seats</li><li>Koalicja Obywatelska: 21.8–26.9%, 115–148 seats</li><li>Lewica: 10.2–14.1%, 43–67 seats</li><li>Koalicja Polska: 4.7–7.5%, 0–27 seats</li><li>Konfederacja: 2.7–4.9%, 0 seats</li></ul></div></content>
@@ -503,5 +511,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-10-08T19:31:28.347734+02:00</dc:date>
+  <dc:date>2019-10-08T20:22:26.833755+02:00</dc:date>
 </feed>
