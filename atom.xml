@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-10-07T20:55:35.784898+02:00</updated>
+  <updated>2019-10-08T19:31:28.347734+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 39.0–45.1%, 223–257 seats</li><li>Koalicja Obywatelska: 26.2–31.8%, 141–173 seats</li><li>Lewica: 11.1–15.3%, 46–73 seats</li><li>Koalicja Polska: 2.9–5.4%, 0–10 seats</li><li>Konfederacja: 3.8–6.5%, 0–15 seats</li><li>Bezpartyjni Samorządowcy: 0.5–1.8%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-10-05-KantarMillwardBrown.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-10-05-KantarMillwardBrown.html"/>
+    <title>Opinion Poll by Kantar Millward Brown for Gazeta Wyborcza, Gazeta.pl and TOK FM, 1–5 October 2019</title>
+    <updated>2019-10-08T19:31:28.347734+02:00</updated>
+    <dc:date>2019-10-08T19:31:28.347734+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 46.4–52.5%, 244–280 seats</li><li>Koalicja Obywatelska: 23.8–29.2%, 114–147 seats</li><li>Lewica: 11.2–15.3%, 43–67 seats</li><li>Koalicja Polska: 5.0–8.1%, 4–27 seats</li><li>Konfederacja: 2.7–5.1%, 0–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-10-04-Estymator.html</id>
@@ -495,5 +503,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-10-07T20:55:35.784898+02:00</dc:date>
+  <dc:date>2019-10-08T19:31:28.347734+02:00</dc:date>
 </feed>
