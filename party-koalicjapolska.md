@@ -215,7 +215,7 @@ Last result: **58** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 13 | 0–31 | 0–37 | 0–41 | 0–45 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0 | 0 | 0–8 | 0–10 | 0–12 |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 13 | 6–23 | 6–25 | 4–27 | 0–30 |
-| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 13 | 12–17 | 12–18 | 11–19 | 9–22 |
+| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 12 | 12–17 | 11–18 | 11–19 | 9–22 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 13 | 7–24 | 0–26 | 0–27 | 0–31 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 23 | 12–29 | 11–32 | 10–34 | 7–40 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 25 | 15–33 | 12–35 | 12–37 | 10–41 |
@@ -406,14 +406,14 @@ The following table shows the probability mass function per seat for the [poll a
 | 10 | 2% | 67% |  |
 | 11 | 3% | 65% |  |
 | 12 | 10% | 62% |  |
-| 13 | 4% | 52% | Median |
+| 13 | 4% | 51% | Median |
 | 14 | 3% | 48% |  |
-| 15 | 3% | 45% |  |
+| 15 | 2% | 45% |  |
 | 16 | 4% | 42% |  |
-| 17 | 3% | 38% |  |
+| 17 | 3% | 39% |  |
 | 18 | 2% | 35% |  |
 | 19 | 2% | 33% |  |
-| 20 | 1.5% | 31% |  |
+| 20 | 1.5% | 32% |  |
 | 21 | 2% | 30% |  |
 | 22 | 2% | 28% |  |
 | 23 | 3% | 26% |  |

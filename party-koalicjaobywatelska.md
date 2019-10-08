@@ -218,9 +218,9 @@ Last result: **166** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 142 | 123–157 | 119–161 | 116–166 | 111–173 |
-| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 153 | 145–166 | 143–169 | 140–173 | 135–178 |
+| [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 153 | 145–166 | 143–168 | 141–173 | 135–178 |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 129 | 117–143 | 116–145 | 114–147 | 109–150 |
-| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 142 | 138–145 | 137–145 | 135–146 | 131–147 |
+| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 142 | 138–145 | 136–145 | 135–146 | 130–147 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 133 | 119–145 | 117–146 | 115–148 | 111–152 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 127 | 117–139 | 114–143 | 111–145 | 104–149 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 144 | 131–152 | 129–155 | 127–157 | 123–162 |
@@ -436,43 +436,43 @@ The following table shows the probability mass function per seat for the [poll a
 | 138 | 3% | 63% |  |
 | 139 | 3% | 60% |  |
 | 140 | 3% | 58% |  |
-| 141 | 4% | 55% |  |
+| 141 | 4% | 54% |  |
 | 142 | 3% | 50% | Median |
 | 143 | 3% | 48% |  |
-| 144 | 4% | 45% |  |
-| 145 | 4% | 40% |  |
+| 144 | 4% | 44% |  |
+| 145 | 4% | 41% |  |
 | 146 | 3% | 37% |  |
 | 147 | 3% | 34% |  |
 | 148 | 3% | 31% |  |
 | 149 | 3% | 28% |  |
-| 150 | 2% | 25% |  |
-| 151 | 3% | 23% |  |
+| 150 | 3% | 25% |  |
+| 151 | 2% | 23% |  |
 | 152 | 2% | 20% |  |
 | 153 | 3% | 18% |  |
 | 154 | 2% | 15% |  |
-| 155 | 1.3% | 13% |  |
+| 155 | 1.4% | 13% |  |
 | 156 | 2% | 12% |  |
-| 157 | 1.4% | 10% |  |
+| 157 | 1.3% | 10% |  |
 | 158 | 1.3% | 9% |  |
-| 159 | 1.0% | 7% |  |
-| 160 | 0.8% | 6% |  |
+| 159 | 1.1% | 7% |  |
+| 160 | 0.9% | 6% |  |
 | 161 | 0.7% | 5% |  |
 | 162 | 0.5% | 5% |  |
 | 163 | 0.5% | 4% |  |
 | 164 | 0.5% | 4% |  |
-| 165 | 0.4% | 3% |  |
-| 166 | 0.7% | 3% | Last Result |
+| 165 | 0.5% | 3% |  |
+| 166 | 0.6% | 3% | Last Result |
 | 167 | 0.4% | 2% |  |
 | 168 | 0.3% | 2% |  |
 | 169 | 0.2% | 1.4% |  |
-| 170 | 0.3% | 1.3% |  |
+| 170 | 0.2% | 1.2% |  |
 | 171 | 0.2% | 1.0% |  |
 | 172 | 0.2% | 0.8% |  |
 | 173 | 0.2% | 0.6% |  |
 | 174 | 0.1% | 0.4% |  |
 | 175 | 0.1% | 0.3% |  |
 | 176 | 0.1% | 0.2% |  |
-| 177 | 0.1% | 0.2% |  |
+| 177 | 0% | 0.2% |  |
 | 178 | 0% | 0.1% |  |
 | 179 | 0% | 0.1% |  |
 | 180 | 0% | 0.1% |  |
