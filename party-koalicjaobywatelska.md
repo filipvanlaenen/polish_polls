@@ -220,7 +220,7 @@ Last result: **166** seats (General Election of 25 October 2015)
 | N/A | [Poll Average](average.html) | 142 | 123–157 | 119–161 | 116–166 | 111–173 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 153 | 145–166 | 143–168 | 141–173 | 135–178 |
 | [3–4 October 2019](2019-10-04-Estymator.html) | Estymator <br> DoRzeczy.pl | 129 | 117–143 | 116–145 | 114–147 | 109–150 |
-| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 142 | 138–145 | 136–145 | 135–146 | 130–147 |
+| [30 September–4 October 2019](2019-10-04-DobraOpinia.html) | Dobra Opinia <br> PPG | 142 | 138–145 | 136–145 | 135–146 | 131–147 |
 | [2–3 October 2019](2019-10-03-IBRiS.html) | IBRiS <br> Onet | 133 | 119–145 | 117–146 | 115–148 | 111–152 |
 | [27 September–2 October 2019](2019-10-02-SocialChanges.html) | Social Changes <br> wpolityce.pl | 127 | 117–139 | 114–143 | 111–145 | 104–149 |
 | [1–2 October 2019](2019-10-02-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 144 | 131–152 | 129–155 | 127–157 | 123–162 |
