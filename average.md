@@ -283,8 +283,8 @@ Only polls for which at least the sample size has been published are included in
 | 258 | 2% | 29% |  |
 | 259 | 2% | 27% |  |
 | 260 | 2% | 25% |  |
-| 261 | 1.5% | 23% |  |
-| 262 | 1.2% | 21% |  |
+| 261 | 2% | 23% |  |
+| 262 | 1.2% | 22% |  |
 | 263 | 1.1% | 20% |  |
 | 264 | 1.1% | 19% |  |
 | 265 | 0.9% | 18% |  |
@@ -547,10 +547,10 @@ Only polls for which at least the sample size has been published are included in
 | 44 | 3% | 82% |  |
 | 45 | 2% | 79% |  |
 | 46 | 3% | 76% |  |
-| 47 | 4% | 73% |  |
-| 48 | 7% | 69% |  |
+| 47 | 5% | 73% |  |
+| 48 | 6% | 69% |  |
 | 49 | 4% | 62% |  |
-| 50 | 5% | 58% |  |
+| 50 | 5% | 59% |  |
 | 51 | 5% | 54% | Median |
 | 52 | 4% | 49% |  |
 | 53 | 4% | 45% |  |
@@ -654,7 +654,7 @@ Only polls for which at least the sample size has been published are included in
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Zjednoczona Prawica | 235 | 250 | 90% | 230–274 | 225–282 | 221–289 | 214–302 |
-| Koalicja Obywatelska – Koalicja Polska – Lewica | 224 | 205 | 5% | 185–223 | 178–230 | 171–235 | 158–243 |
+| Koalicja Obywatelska – Koalicja Polska – Lewica | 224 | 206 | 5% | 185–223 | 178–230 | 171–235 | 158–243 |
 | Koalicja Obywatelska – Lewica | 166 | 193 | 0.5% | 163–212 | 142–217 | 134–222 | 123–230 |
 | Koalicja Obywatelska – Koalicja Polska | 224 | 155 | 0% | 141–171 | 135–176 | 130–180 | 125–187 |
 | Koalicja Obywatelska | 166 | 142 | 0% | 123–157 | 119–161 | 116–166 | 111–173 |
@@ -718,8 +718,8 @@ Only polls for which at least the sample size has been published are included in
 | 258 | 2% | 29% |  |
 | 259 | 2% | 27% |  |
 | 260 | 2% | 25% |  |
-| 261 | 1.5% | 23% |  |
-| 262 | 1.2% | 21% |  |
+| 261 | 2% | 23% |  |
+| 262 | 1.2% | 22% |  |
 | 263 | 1.1% | 20% |  |
 | 264 | 1.1% | 19% |  |
 | 265 | 0.9% | 18% |  |
@@ -832,11 +832,11 @@ Only polls for which at least the sample size has been published are included in
 | 201 | 3% | 67% |  |
 | 202 | 3% | 64% |  |
 | 203 | 3% | 61% |  |
-| 204 | 4% | 57% |  |
+| 204 | 3% | 57% |  |
 | 205 | 4% | 54% |  |
 | 206 | 4% | 50% | Median |
 | 207 | 4% | 46% |  |
-| 208 | 3% | 42% |  |
+| 208 | 4% | 43% |  |
 | 209 | 3% | 39% |  |
 | 210 | 3% | 36% |  |
 | 211 | 2% | 33% |  |
@@ -963,7 +963,7 @@ Only polls for which at least the sample size has been published are included in
 | 190 | 3% | 60% |  |
 | 191 | 4% | 57% |  |
 | 192 | 3% | 54% |  |
-| 193 | 3% | 50% | Median |
+| 193 | 3% | 51% | Median |
 | 194 | 3% | 48% |  |
 | 195 | 3% | 45% |  |
 | 196 | 3% | 42% |  |
@@ -1048,10 +1048,10 @@ Only polls for which at least the sample size has been published are included in
 | 145 | 2% | 85% |  |
 | 146 | 2% | 83% |  |
 | 147 | 2% | 81% |  |
-| 148 | 3% | 78% |  |
+| 148 | 3% | 79% |  |
 | 149 | 3% | 76% |  |
 | 150 | 3% | 73% |  |
-| 151 | 4% | 70% |  |
+| 151 | 3% | 70% |  |
 | 152 | 4% | 66% |  |
 | 153 | 5% | 62% |  |
 | 154 | 4% | 57% |  |
@@ -1216,6 +1216,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 10
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 9,961,472
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 10,485,760
 + **Error estimate:** 0.84%
