@@ -223,7 +223,7 @@ Last result: **166** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 140 | 120–154 | 116–159 | 114–163 | 106–172 |
-| [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 138 | 128–148 | 126–151 | 125–152 | 121–157 |
+| [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 138 | 128–148 | 126–150 | 125–152 | 120–156 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 121 | 112–133 | 106–135 | 105–140 | 98–144 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 119 | 110–133 | 106–136 | 103–139 | 98–143 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 153 | 145–166 | 143–168 | 141–173 | 135–178 |
@@ -427,11 +427,11 @@ The following table shows the probability mass function per seat for the [poll a
 | 115 | 1.1% | 97% |  |
 | 116 | 1.3% | 96% |  |
 | 117 | 0.6% | 95% |  |
-| 118 | 0.8% | 94% |  |
+| 118 | 0.9% | 94% |  |
 | 119 | 2% | 93% |  |
 | 120 | 2% | 92% |  |
 | 121 | 2% | 90% |  |
-| 122 | 1.4% | 88% |  |
+| 122 | 1.5% | 88% |  |
 | 123 | 2% | 86% |  |
 | 124 | 2% | 84% |  |
 | 125 | 2% | 83% |  |
@@ -446,18 +446,18 @@ The following table shows the probability mass function per seat for the [poll a
 | 134 | 2% | 64% |  |
 | 135 | 2% | 62% |  |
 | 136 | 2% | 60% |  |
-| 137 | 3% | 58% |  |
-| 138 | 2% | 55% |  |
+| 137 | 2% | 58% |  |
+| 138 | 3% | 55% |  |
 | 139 | 3% | 53% |  |
 | 140 | 3% | 50% | Median |
-| 141 | 5% | 47% |  |
+| 141 | 4% | 47% |  |
 | 142 | 3% | 43% |  |
 | 143 | 3% | 40% |  |
-| 144 | 4% | 36% |  |
+| 144 | 4% | 37% |  |
 | 145 | 4% | 33% |  |
 | 146 | 3% | 29% |  |
 | 147 | 3% | 26% |  |
-| 148 | 2% | 24% |  |
+| 148 | 3% | 23% |  |
 | 149 | 2% | 21% |  |
 | 150 | 2% | 19% |  |
 | 151 | 2% | 17% |  |
