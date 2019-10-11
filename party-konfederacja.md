@@ -221,7 +221,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 0–25 | 0–30 | 0–34 | 0–38 |
-| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 29 | 19–37 | 15–38 | 14–40 | 11–44 |
+| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 29 | 19–37 | 16–38 | 14–40 | 11–44 |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 2–15 | 0–18 | 0–21 | 0–26 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 21 | 12–27 | 10–29 | 9–33 | 7–36 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–5 | 0–7 | 0–9 | 0–13 |
@@ -426,10 +426,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 12 | 2% | 30% |  |
 | 13 | 3% | 28% |  |
 | 14 | 2% | 25% |  |
-| 15 | 1.3% | 24% |  |
-| 16 | 1.2% | 22% |  |
-| 17 | 0.9% | 21% |  |
-| 18 | 0.9% | 20% |  |
+| 15 | 1.2% | 24% |  |
+| 16 | 1.2% | 23% |  |
+| 17 | 1.0% | 21% |  |
+| 18 | 1.0% | 20% |  |
 | 19 | 1.3% | 19% |  |
 | 20 | 2% | 18% |  |
 | 21 | 2% | 16% |  |
@@ -437,17 +437,17 @@ The following table shows the probability mass function per seat for the [poll a
 | 23 | 0.9% | 13% |  |
 | 24 | 1.3% | 12% |  |
 | 25 | 2% | 11% |  |
-| 26 | 1.0% | 9% |  |
-| 27 | 1.4% | 8% |  |
-| 28 | 0.8% | 7% |  |
+| 26 | 1.1% | 9% |  |
+| 27 | 1.2% | 8% |  |
+| 28 | 0.7% | 7% |  |
 | 29 | 0.6% | 6% |  |
-| 30 | 0.5% | 5% |  |
-| 31 | 0.8% | 5% |  |
-| 32 | 0.3% | 4% |  |
-| 33 | 0.8% | 4% |  |
-| 34 | 0.9% | 3% |  |
+| 30 | 0.6% | 5% |  |
+| 31 | 0.7% | 5% |  |
+| 32 | 0.5% | 4% |  |
+| 33 | 0.7% | 3% |  |
+| 34 | 0.8% | 3% |  |
 | 35 | 0.4% | 2% |  |
-| 36 | 0.4% | 2% |  |
+| 36 | 0.5% | 2% |  |
 | 37 | 0.4% | 1.1% |  |
 | 38 | 0.3% | 0.7% |  |
 | 39 | 0.1% | 0.4% |  |

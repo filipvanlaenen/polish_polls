@@ -227,7 +227,7 @@ Last result: **58** seats (General Election of 25 October 2015)
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 11 | 6–20 | 0–23 | 0–25 | 0–28 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 23 | 16–29 | 13–32 | 11–34 | 10–38 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 11–27 | 9–29 | 7–31 | 6–36 |
-| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 9–25 | 7–27 | 7–29 | 0–34 |
+| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 9–25 | 7–27 | 6–29 | 0–34 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 34 | 25–42 | 23–45 | 22–46 | 17–49 |
 | [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 23 | 12–29 | 11–31 | 9–33 | 6–37 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 25 | 16–33 | 12–35 | 11–38 | 7–42 |
@@ -416,19 +416,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 10% | 100% |  |
 | 1 | 0% | 90% |  |
 | 2 | 0% | 90% |  |
-| 3 | 0% | 90% |  |
+| 3 | 0.1% | 90% |  |
 | 4 | 0.1% | 90% |  |
-| 5 | 0.5% | 90% |  |
-| 6 | 0.7% | 89% |  |
+| 5 | 0.6% | 90% |  |
+| 6 | 0.8% | 89% |  |
 | 7 | 3% | 88% |  |
 | 8 | 2% | 85% |  |
 | 9 | 2% | 83% |  |
 | 10 | 3% | 81% |  |
-| 11 | 4% | 79% |  |
+| 11 | 4% | 78% |  |
 | 12 | 9% | 75% |  |
 | 13 | 4% | 66% |  |
 | 14 | 3% | 62% |  |
-| 15 | 2% | 59% |  |
+| 15 | 2% | 60% |  |
 | 16 | 5% | 57% |  |
 | 17 | 4% | 52% | Median |
 | 18 | 3% | 48% |  |
@@ -436,13 +436,13 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 2% | 42% |  |
 | 21 | 3% | 40% |  |
 | 22 | 3% | 37% |  |
-| 23 | 4% | 35% |  |
+| 23 | 3% | 35% |  |
 | 24 | 4% | 31% |  |
 | 25 | 5% | 27% |  |
 | 26 | 4% | 22% |  |
 | 27 | 3% | 18% |  |
 | 28 | 2% | 15% |  |
-| 29 | 1.5% | 13% |  |
+| 29 | 2% | 13% |  |
 | 30 | 1.1% | 12% |  |
 | 31 | 1.3% | 11% |  |
 | 32 | 1.4% | 9% |  |
