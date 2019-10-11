@@ -232,7 +232,7 @@ Last result: **166** seats (General Election of 25 October 2015)
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 116 | 104–128 | 101–132 | 99–134 | 97–140 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 139 | 128–148 | 126–150 | 125–152 | 120–156 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 136 | 125–146 | 122–149 | 119–151 | 115–154 |
-| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 99 | 92–110 | 90–114 | 88–117 | 85–123 |
+| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 99 | 92–110 | 90–114 | 88–117 | 85–122 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 121 | 111–131 | 107–136 | 104–138 | 98–144 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 119 | 110–133 | 106–136 | 103–139 | 98–143 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 153 | 145–166 | 143–168 | 141–173 | 135–178 |
@@ -425,20 +425,20 @@ The following table shows the probability mass function per seat for the [poll a
 | 91 | 0.2% | 99.4% |  |
 | 92 | 0.4% | 99.2% |  |
 | 93 | 0.5% | 98.8% |  |
-| 94 | 0.5% | 98% |  |
+| 94 | 0.6% | 98% |  |
 | 95 | 0.6% | 98% |  |
 | 96 | 0.6% | 97% |  |
-| 97 | 0.6% | 97% |  |
+| 97 | 0.7% | 96% |  |
 | 98 | 0.7% | 96% |  |
 | 99 | 0.9% | 95% |  |
-| 100 | 0.8% | 94% |  |
-| 101 | 0.7% | 93% |  |
-| 102 | 0.6% | 93% |  |
-| 103 | 0.4% | 92% |  |
-| 104 | 0.8% | 92% |  |
+| 100 | 0.7% | 94% |  |
+| 101 | 0.7% | 94% |  |
+| 102 | 0.7% | 93% |  |
+| 103 | 0.5% | 92% |  |
+| 104 | 0.7% | 92% |  |
 | 105 | 0.5% | 91% |  |
-| 106 | 0.7% | 90% |  |
-| 107 | 0.6% | 90% |  |
+| 106 | 0.6% | 90% |  |
+| 107 | 0.7% | 90% |  |
 | 108 | 0.6% | 89% |  |
 | 109 | 0.7% | 89% |  |
 | 110 | 0.6% | 88% |  |
@@ -447,7 +447,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 113 | 0.7% | 86% |  |
 | 114 | 1.1% | 85% |  |
 | 115 | 1.0% | 84% |  |
-| 116 | 1.5% | 83% |  |
+| 116 | 1.4% | 83% |  |
 | 117 | 0.9% | 81% |  |
 | 118 | 1.2% | 80% |  |
 | 119 | 2% | 79% |  |

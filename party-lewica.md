@@ -225,7 +225,7 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 73 | 65–82 | 63–84 | 62–86 | 55–90 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 53 | 45–61 | 44–63 | 43–65 | 38–68 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 64 | 53–69 | 50–72 | 48–76 | 45–79 |
-| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 37 | 32–45 | 31–46 | 29–49 | 26–54 |
+| [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 37 | 32–44 | 31–46 | 29–49 | 26–54 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 64 | 53–70 | 50–73 | 49–76 | 46–81 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 66 | 60–76 | 55–78 | 53–80 | 49–84 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 61 | 51–68 | 48–71 | 46–73 | 44–77 |
@@ -440,19 +440,19 @@ The following table shows the probability mass function per seat for the [poll a
 | 28 | 0.1% | 99.9% |  |
 | 29 | 0.1% | 99.8% |  |
 | 30 | 0.2% | 99.7% |  |
-| 31 | 0.2% | 99.6% |  |
+| 31 | 0.3% | 99.6% |  |
 | 32 | 0.8% | 99.3% |  |
-| 33 | 1.0% | 98.5% |  |
-| 34 | 0.7% | 98% |  |
-| 35 | 0.6% | 97% |  |
-| 36 | 0.9% | 96% |  |
+| 33 | 1.0% | 98.6% |  |
+| 34 | 0.8% | 98% |  |
+| 35 | 0.7% | 97% |  |
+| 36 | 0.8% | 96% |  |
 | 37 | 1.0% | 95% |  |
 | 38 | 0.7% | 94% |  |
-| 39 | 0.8% | 94% |  |
-| 40 | 0.7% | 93% |  |
+| 39 | 0.7% | 94% |  |
+| 40 | 0.8% | 93% |  |
 | 41 | 0.8% | 92% |  |
 | 42 | 1.2% | 91% |  |
-| 43 | 1.2% | 90% |  |
+| 43 | 1.3% | 90% |  |
 | 44 | 3% | 89% |  |
 | 45 | 2% | 86% |  |
 | 46 | 3% | 84% |  |
