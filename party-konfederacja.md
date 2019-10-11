@@ -225,9 +225,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 2–15 | 0–18 | 0–21 | 0–26 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 21 | 12–27 | 10–29 | 9–33 | 7–36 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–5 | 0–7 | 0–9 | 0–13 |
-| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–5 | 0–8 | 0–10 | 0–14 |
+| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 0 | 0–5 | 0–8 | 0–11 | 0–14 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 15 | 5–24 | 0–27 | 0–27 | 0–31 |
-| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 2 | 0–8 | 0–8 | 0–10 | 0–16 |
+| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 2 | 0–8 | 0–11 | 0–13 | 0–17 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 0 | 0–5 | 0–6 | 0–9 | 0–13 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 0 | 0 | 0 | 0 | 0–5 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 3 | 0–10 | 0–12 | 0–15 | 0–20 |
@@ -411,22 +411,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 38% | 100% | Last Result |
-| 1 | 0% | 62% |  |
-| 2 | 11% | 62% |  |
-| 3 | 4% | 51% | Median |
-| 4 | 3% | 47% |  |
-| 5 | 3% | 45% |  |
-| 6 | 2% | 42% |  |
-| 7 | 2% | 39% |  |
-| 8 | 2% | 37% |  |
+| 0 | 40% | 100% | Last Result |
+| 1 | 0% | 60% |  |
+| 2 | 6% | 60% |  |
+| 3 | 4% | 54% | Median |
+| 4 | 3% | 50% |  |
+| 5 | 4% | 46% |  |
+| 6 | 3% | 42% |  |
+| 7 | 2% | 40% |  |
+| 8 | 2% | 38% |  |
 | 9 | 2% | 36% |  |
-| 10 | 3% | 34% |  |
-| 11 | 2% | 31% |  |
-| 12 | 2% | 29% |  |
-| 13 | 2% | 28% |  |
-| 14 | 1.5% | 25% |  |
-| 15 | 1.2% | 24% |  |
+| 10 | 2% | 34% |  |
+| 11 | 2% | 32% |  |
+| 12 | 2% | 30% |  |
+| 13 | 3% | 28% |  |
+| 14 | 2% | 25% |  |
+| 15 | 1.3% | 24% |  |
 | 16 | 1.2% | 22% |  |
 | 17 | 0.9% | 21% |  |
 | 18 | 0.9% | 20% |  |
