@@ -10,13 +10,14 @@ Last result: **13.9%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.6% | 4.9–8.0% | 4.0–8.4% | 3.6–8.8% | 3.1–9.6% |
+| N/A | [Poll Average](average.html) | 6.7% | 5.0–8.1% | 4.0–8.5% | 3.6–8.9% | 3.1–9.6% |
 | [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–8.0% | 4.5–8.5% |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
 | [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 6.8% | 5.8–7.9% | 5.6–8.2% | 5.3–8.5% | 5.0–9.1% |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.4% |
+| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 6.9% | 6.0–8.0% | 5.8–8.3% | 5.5–8.6% | 5.2–9.1% |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 6.2% | 5.3–7.2% | 5.1–7.5% | 4.9–7.8% | 4.5–8.3% |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
@@ -201,12 +202,12 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 2% | 100% |  |
 | 3.5–4.5% | 6% | 98% |  |
-| 4.5–5.5% | 8% | 92% |  |
-| 5.5–6.5% | 31% | 84% |  |
-| 6.5–7.5% | 35% | 53% | Median |
-| 7.5–8.5% | 14% | 18% |  |
-| 8.5–9.5% | 3% | 4% |  |
-| 9.5–10.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 6% | 92% |  |
+| 5.5–6.5% | 28% | 86% |  |
+| 6.5–7.5% | 36% | 58% | Median |
+| 7.5–8.5% | 17% | 22% |  |
+| 8.5–9.5% | 4% | 5% |  |
+| 9.5–10.5% | 0.5% | 0.6% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% |  |
@@ -221,13 +222,14 @@ Last result: **58** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16 | 0–31 | 0–35 | 0–39 | 0–45 |
-| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 11 | 6–20 | 4–24 | 0–27 | 0–28 |
+| N/A | [Poll Average](average.html) | 17 | 0–31 | 0–36 | 0–39 | 0–45 |
+| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 11 | 7–22 | 5–24 | 0–26 | 0–29 |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 11 | 6–20 | 0–23 | 0–25 | 0–28 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 23 | 16–29 | 13–32 | 11–34 | 10–38 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 11–27 | 9–29 | 7–31 | 6–36 |
-| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 16 | 16–24 | 11–24 | 6–27 | 6–35 |
+| [9–10 October 2019](2019-10-10-Estymator.html) | Estymator <br> DoRzeczy.pl | 17 | 8–25 | 7–27 | 7–28 | 0–35 |
 | [3–10 October 2019](2019-10-10-CBOS.html) | CBOS | 34 | 25–42 | 23–45 | 22–46 | 17–49 |
+| [9–10 October 2019](2019-10-10-CBMIndicator.html) | CBM Indicator <br> TVP | 19 | 8–25 | 8–30 | 8–30 | 7–41 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 25 | 16–33 | 12–35 | 11–38 | 7–42 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 16 | 8–25 | 7–27 | 0–29 | 0–34 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0 | 0 | 0–8 | 0–10 | 0–12 |
@@ -411,48 +413,48 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 11% | 100% |  |
-| 1 | 0% | 89% |  |
-| 2 | 0% | 89% |  |
-| 3 | 0% | 89% |  |
-| 4 | 0% | 89% |  |
-| 5 | 0.6% | 89% |  |
-| 6 | 0.9% | 88% |  |
-| 7 | 2% | 88% |  |
-| 8 | 1.5% | 85% |  |
-| 9 | 2% | 84% |  |
-| 10 | 3% | 82% |  |
-| 11 | 5% | 79% |  |
-| 12 | 9% | 73% |  |
-| 13 | 3% | 64% |  |
-| 14 | 3% | 61% |  |
-| 15 | 2% | 59% |  |
-| 16 | 12% | 57% | Median |
-| 17 | 3% | 45% |  |
-| 18 | 2% | 41% |  |
+| 0 | 10% | 100% |  |
+| 1 | 0% | 90% |  |
+| 2 | 0% | 90% |  |
+| 3 | 0% | 90% |  |
+| 4 | 0.1% | 90% |  |
+| 5 | 0.5% | 90% |  |
+| 6 | 0.7% | 89% |  |
+| 7 | 3% | 88% |  |
+| 8 | 2% | 85% |  |
+| 9 | 2% | 83% |  |
+| 10 | 3% | 81% |  |
+| 11 | 4% | 79% |  |
+| 12 | 8% | 75% |  |
+| 13 | 3% | 67% |  |
+| 14 | 3% | 64% |  |
+| 15 | 2% | 61% |  |
+| 16 | 5% | 59% |  |
+| 17 | 12% | 54% | Median |
+| 18 | 3% | 42% |  |
 | 19 | 3% | 39% |  |
-| 20 | 2% | 36% |  |
-| 21 | 2% | 34% |  |
-| 22 | 2% | 32% |  |
-| 23 | 2% | 30% |  |
-| 24 | 4% | 27% |  |
-| 25 | 4% | 23% |  |
-| 26 | 4% | 20% |  |
-| 27 | 2% | 16% |  |
-| 28 | 2% | 14% |  |
-| 29 | 1.3% | 12% |  |
-| 30 | 0.9% | 11% |  |
+| 20 | 2% | 37% |  |
+| 21 | 2% | 35% |  |
+| 22 | 2% | 33% |  |
+| 23 | 3% | 31% |  |
+| 24 | 3% | 28% |  |
+| 25 | 4% | 25% |  |
+| 26 | 4% | 21% |  |
+| 27 | 2% | 17% |  |
+| 28 | 2% | 15% |  |
+| 29 | 2% | 13% |  |
+| 30 | 1.2% | 12% |  |
 | 31 | 1.1% | 10% |  |
 | 32 | 1.2% | 9% |  |
-| 33 | 1.0% | 8% |  |
+| 33 | 1.1% | 8% |  |
 | 34 | 0.9% | 7% |  |
-| 35 | 0.9% | 6% |  |
-| 36 | 0.7% | 5% |  |
-| 37 | 0.7% | 4% |  |
+| 35 | 0.8% | 6% |  |
+| 36 | 0.8% | 5% |  |
+| 37 | 0.7% | 5% |  |
 | 38 | 0.9% | 4% |  |
 | 39 | 0.7% | 3% |  |
 | 40 | 0.4% | 2% |  |
-| 41 | 0.4% | 2% |  |
+| 41 | 0.7% | 2% |  |
 | 42 | 0.3% | 1.2% |  |
 | 43 | 0.2% | 0.9% |  |
 | 44 | 0.2% | 0.7% |  |
