@@ -219,9 +219,9 @@ Last result: **58** seats (General Election of 25 October 2015)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15 | 0–31 | 0–37 | 0–41 | 0–45 |
-| [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 15 | 10–20 | 8–21 | 7–22 | 0–23 |
+| [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 11 | 6–20 | 0–23 | 0–24 | 0–28 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 23 | 16–29 | 13–32 | 11–34 | 10–38 |
-| [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 11–27 | 10–29 | 8–31 | 6–36 |
+| [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 18 | 11–27 | 9–29 | 7–31 | 6–36 |
 | [9 October 2019](2019-10-09-IBRiS.html) | IBRiS <br> Radio ZET | 25 | 16–33 | 12–35 | 11–38 | 7–42 |
 | [8 October 2019](2019-10-08-IBRiS.html) | IBRiS <br> Onet | 16 | 8–25 | 7–27 | 0–29 | 0–34 |
 | [1–5 October 2019](2019-10-05-KantarMillwardBrown.html) | Kantar Millward Brown <br> Gazeta Wyborcza, Gazeta.pl and TOK FM | 0 | 0 | 0–8 | 0–10 | 0–12 |
@@ -405,37 +405,37 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 19% | 100% |  |
-| 1 | 0% | 81% |  |
-| 2 | 0% | 81% |  |
-| 3 | 0% | 81% |  |
-| 4 | 0% | 81% |  |
-| 5 | 0.1% | 81% |  |
-| 6 | 1.2% | 81% |  |
-| 7 | 2% | 80% |  |
-| 8 | 2% | 78% |  |
-| 9 | 2% | 76% |  |
-| 10 | 2% | 74% |  |
-| 11 | 3% | 72% |  |
-| 12 | 10% | 70% |  |
-| 13 | 4% | 60% |  |
-| 14 | 3% | 56% |  |
-| 15 | 3% | 53% | Median |
-| 16 | 5% | 50% |  |
-| 17 | 4% | 45% |  |
-| 18 | 3% | 41% |  |
-| 19 | 3% | 38% |  |
+| 0 | 20% | 100% |  |
+| 1 | 0% | 80% |  |
+| 2 | 0% | 80% |  |
+| 3 | 0% | 80% |  |
+| 4 | 0.1% | 80% |  |
+| 5 | 0.3% | 80% |  |
+| 6 | 2% | 80% |  |
+| 7 | 3% | 79% |  |
+| 8 | 2% | 76% |  |
+| 9 | 2% | 74% |  |
+| 10 | 2% | 71% |  |
+| 11 | 3% | 69% |  |
+| 12 | 10% | 66% |  |
+| 13 | 4% | 57% |  |
+| 14 | 3% | 53% |  |
+| 15 | 2% | 50% | Median |
+| 16 | 4% | 48% |  |
+| 17 | 4% | 43% |  |
+| 18 | 2% | 40% |  |
+| 19 | 2% | 37% |  |
 | 20 | 2% | 35% |  |
 | 21 | 2% | 33% |  |
 | 22 | 2% | 31% |  |
 | 23 | 3% | 29% |  |
 | 24 | 3% | 26% |  |
-| 25 | 4% | 23% |  |
+| 25 | 4% | 24% |  |
 | 26 | 3% | 20% |  |
 | 27 | 2% | 16% |  |
-| 28 | 2% | 14% |  |
+| 28 | 2% | 15% |  |
 | 29 | 1.3% | 13% |  |
-| 30 | 1.0% | 12% |  |
+| 30 | 1.1% | 12% |  |
 | 31 | 0.9% | 11% |  |
 | 32 | 0.9% | 10% |  |
 | 33 | 0.8% | 9% |  |
