@@ -6,7 +6,23 @@
   </author>
   <id>https://filipvanlaenen.github.io/polish_polls</id>
   <title>All Registered Polls for the Sejm</title>
-  <updated>2019-10-11T23:45:29.491062+02:00</updated>
+  <updated>2019-10-12T10:23:29.692125+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 39.1–45.2%, 200–238 seats</li><li>Koalicja Obywatelska: 24.4–29.9%, 115–147 seats</li><li>Lewica: 13.5–18.1%, 56–82 seats</li><li>Koalicja Polska: 4.9–8.0%, 0–26 seats</li><li>Konfederacja: 7.0–10.5%, 14–40 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-10-11-IBSP.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-10-11-IBSP.html"/>
+    <title>Opinion Poll by IBSP, 10–11 October 2019</title>
+    <updated>2019-10-12T09:51:26.355359+02:00</updated>
+    <dc:date>2019-10-12T09:51:26.355359+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 39.1–44.9%, 232–271 seats</li><li>Koalicja Obywatelska: 19.9–24.8%, 103–140 seats</li><li>Lewica: 12.1–16.2%, 58–84 seats</li><li>Koalicja Polska: 4.7–7.5%, 0–28 seats</li><li>Konfederacja: 3.6–6.2%, 0–14 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/polish_polls/2019-10-11-IBRiS.html</id>
+    <link href="https://filipvanlaenen.github.io/polish_polls/2019-10-11-IBRiS.html"/>
+    <title>Opinion Poll by IBRiS for RMF, 11 October 2019</title>
+    <updated>2019-10-12T10:23:29.692125+02:00</updated>
+    <dc:date>2019-10-12T10:23:29.692125+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Zjednoczona Prawica: 44.2–50.4%, 232–271 seats</li><li>Koalicja Obywatelska: 21.8–27.1%, 99–134 seats</li><li>Lewica: 14.1–18.6%, 62–86 seats</li><li>Koalicja Polska: 4.8–7.8%, 0–25 seats</li><li>Konfederacja: 4.7–7.7%, 0–21 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/polish_polls/2019-10-10-SocialChanges.html</id>
@@ -583,5 +599,5 @@
     <updated>2019-08-28T21:13:39.85065+02:00</updated>
     <dc:date>2019-08-28T21:13:39.85065+02:00</dc:date>
   </entry>
-  <dc:date>2019-10-11T23:45:29.491062+02:00</dc:date>
+  <dc:date>2019-10-12T10:23:29.692125+02:00</dc:date>
 </feed>
