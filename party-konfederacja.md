@@ -10,8 +10,9 @@ Last result: **4.8%** (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.1–7.8% | 3.9–8.7% | 3.7–9.3% | 3.3–10.2% |
+| N/A | [Poll Average](average.html) | 5.4% | 4.2–7.8% | 4.0–8.7% | 3.8–9.3% | 3.5–10.2% |
 | [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 4.7% | 4.0–5.7% | 3.8–5.9% | 3.6–6.2% | 3.3–6.6% |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 6.0% | 5.2–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 7.0% | 6.2–7.9% | 6.0–8.2% | 5.8–8.4% | 5.4–8.9% |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 4.7% | 4.0–5.7% | 3.8–5.9% | 3.6–6.2% | 3.3–6.7% |
@@ -200,10 +201,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 25% | 98.7% |  |
-| 4.5–5.5% | 29% | 74% | Last Result, Median |
-| 5.5–6.5% | 21% | 45% |  |
+| 2.5–3.5% | 0.6% | 100% |  |
+| 3.5–4.5% | 23% | 99.4% |  |
+| 4.5–5.5% | 31% | 76% | Last Result, Median |
+| 5.5–6.5% | 22% | 46% |  |
 | 6.5–7.5% | 12% | 24% |  |
 | 7.5–8.5% | 6% | 12% |  |
 | 8.5–9.5% | 4% | 6% |  |
@@ -220,8 +221,9 @@ Last result: **0** seats (General Election of 25 October 2015)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 0–25 | 0–30 | 0–34 | 0–38 |
-| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 29 | 19–37 | 16–38 | 14–40 | 11–44 |
+| N/A | [Poll Average](average.html) | 4 | 0–25 | 0–30 | 0–34 | 0–38 |
+| [10–11 October 2019](2019-10-11-IBSP.html) | IBSP | 29 | 18–37 | 16–38 | 14–40 | 11–44 |
+| [11 October 2019](2019-10-11-IBRiS.html) | IBRiS <br> RMF | 0 | 0–10 | 0–12 | 0–14 | 0–18 |
 | [4–10 October 2019](2019-10-10-SocialChanges.html) | Social Changes <br> wpolityce.pl | 8 | 2–15 | 0–18 | 0–21 | 0–26 |
 | [9–10 October 2019](2019-10-10-KantarPublic.html) | Kantar Public <br> TVN | 21 | 12–27 | 10–29 | 9–33 | 7–36 |
 | [9–10 October 2019](2019-10-10-InstytutBadańPollster.html) | Instytut Badań Pollster <br> Super Express | 0 | 0–5 | 0–7 | 0–9 | 0–13 |
@@ -411,22 +413,22 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 40% | 100% | Last Result |
-| 1 | 0% | 60% |  |
-| 2 | 6% | 60% |  |
-| 3 | 4% | 54% | Median |
-| 4 | 3% | 50% |  |
-| 5 | 4% | 46% |  |
-| 6 | 3% | 42% |  |
-| 7 | 2% | 40% |  |
-| 8 | 2% | 38% |  |
-| 9 | 2% | 36% |  |
-| 10 | 2% | 34% |  |
-| 11 | 2% | 32% |  |
+| 0 | 38% | 100% | Last Result |
+| 1 | 0% | 62% |  |
+| 2 | 6% | 62% |  |
+| 3 | 4% | 56% |  |
+| 4 | 3% | 52% | Median |
+| 5 | 4% | 48% |  |
+| 6 | 3% | 44% |  |
+| 7 | 2% | 41% |  |
+| 8 | 2% | 39% |  |
+| 9 | 2% | 37% |  |
+| 10 | 2% | 35% |  |
+| 11 | 2% | 33% |  |
 | 12 | 2% | 30% |  |
 | 13 | 3% | 28% |  |
-| 14 | 2% | 25% |  |
-| 15 | 1.2% | 24% |  |
+| 14 | 2% | 26% |  |
+| 15 | 1.3% | 24% |  |
 | 16 | 1.2% | 23% |  |
 | 17 | 1.0% | 21% |  |
 | 18 | 1.0% | 20% |  |
@@ -434,26 +436,26 @@ The following table shows the probability mass function per seat for the [poll a
 | 20 | 2% | 18% |  |
 | 21 | 2% | 16% |  |
 | 22 | 2% | 15% |  |
-| 23 | 0.9% | 13% |  |
-| 24 | 1.3% | 12% |  |
+| 23 | 1.0% | 13% |  |
+| 24 | 1.2% | 12% |  |
 | 25 | 2% | 11% |  |
-| 26 | 1.1% | 9% |  |
+| 26 | 1.0% | 9% |  |
 | 27 | 1.2% | 8% |  |
 | 28 | 0.7% | 7% |  |
 | 29 | 0.6% | 6% |  |
-| 30 | 0.6% | 5% |  |
-| 31 | 0.7% | 5% |  |
+| 30 | 0.8% | 5% |  |
+| 31 | 0.6% | 5% |  |
 | 32 | 0.5% | 4% |  |
 | 33 | 0.7% | 3% |  |
-| 34 | 0.8% | 3% |  |
-| 35 | 0.4% | 2% |  |
-| 36 | 0.5% | 2% |  |
+| 34 | 0.7% | 3% |  |
+| 35 | 0.5% | 2% |  |
+| 36 | 0.4% | 1.5% |  |
 | 37 | 0.4% | 1.1% |  |
 | 38 | 0.3% | 0.7% |  |
 | 39 | 0.1% | 0.4% |  |
 | 40 | 0.1% | 0.3% |  |
 | 41 | 0% | 0.2% |  |
-| 42 | 0% | 0.1% |  |
+| 42 | 0% | 0.2% |  |
 | 43 | 0% | 0.1% |  |
 | 44 | 0% | 0.1% |  |
 | 45 | 0% | 0% |  |
